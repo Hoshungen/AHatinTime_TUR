@@ -1,4 +1,7 @@
 # A Hat in Time - Türkçe Çeviri
+
+[![Join the chat at https://gitter.im/AHiT_TRK/Lobby](https://badges.gitter.im/AHiT_TRK/Lobby.svg)](https://gitter.im/AHiT_TRK/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Bu çeviri modu ```A Hat in Time``` adındaki Steam Oyunu içindir ve Steam sürümünden önce çıkarılmaktadır, hatalar meydana gelebilir veya hatalı gözüken harflere rastlayebilirsiniz. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir.
 
 ## Nasıl Yüklenir ? (GitHub)
