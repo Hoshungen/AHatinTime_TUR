@@ -1,5 +1,5 @@
 [rainy_mafia]
-encounter0 = [shake]Oh no, uzaylılar Mafya için geliyor! Uzay gemisini görebiliyorum! [hint]Çamurlu balçıktan canavarlar[/hint] her an gelebilir![/shake]
+encounter0 = [shake]Oh hayır, uzaylılar Mafya için geliyor! Uzay gemisini görebiliyorum! [hint]Çamurlu balçıktan canavarlar[/hint] her an gelebilir![/shake]
 
 hit0 = Ne... [scream]NE?![/scream]
 hit1 = [shake]Bu... [scream]BU SISKA UZAY CANLISI![/scream][/shake]
