@@ -1,22 +1,22 @@
 [ActSelects]
-ChapterUnlocked = Power has been restored in the [name][location][/name]![br]The chapter [name][chaptername][/name] is now available!
+ChapterUnlocked = Şu kısımda güç yeniden geldi: [name][location][/name]![br]Bölüm: [name][chaptername][/name] şimdi erişilebilir!
 
 [locations]
-Location_Bedroom = Bedroom
-Location_MainHall = Main Hall
-Location_MachineRoom = Machine Room
-Location_Basement = Basement
-Location_Attic = Attic
-Location_LandryRoom = Laundry Room
-Location_DLC2 = Storage Room
+Location_Bedroom = Yatak Odası
+Location_MainHall = Ana Salon
+Location_MachineRoom = Makine Odası
+Location_Basement = Bodrum
+Location_Attic = Çatı Katı
+Location_LandryRoom = Çamaşır Odası
+Location_DLC2 = Depo
 
 [Ending]
-ThrowMu0 = Drop a [icon:timepiece][timepiece]Time Piece[/timepiece] down and lend the [icon:mugirl][name]red hooded girl[/name] some [icon:timepiece][timepiece]Time Piece[/timepiece] power to defeat the [name]Mafia[/name]?[br](You may not be able to make it all the way home.)
-ThrowMu0_Yes = Yes
-ThrowMu0_No = No
+ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] aşağı at ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki [name]Mafya[/name] ile baş edebilsin?[br](Evine ulaşamayabilirsin.)
+ThrowMu0_Yes = Evet
+ThrowMu0_No = Hayır
 
 [fluff]
-bookcase0 = It's a bookcase. Also known as a 'cool word zone' or a 'thing you can't even slightly fill yourself, Steven, you'll never find a publisher, and all that time you spend in your study is time you could spend with your kids', depending on where you're from.
+bookcase0 = Bir Kitaplık. Aynı zamanda bir 'havalı kelime alanı' veya bir 'kendinin bile azıcık dolduramayacağın şey, Steven, asla bir yayımcı bulamayacaksın, ve çalışman üzerinde geçirdiğin tüm zaman çocukların ile geçirebileceğin zamana denk geliyor', geldiğiniz yere göre değişebilir.
 harmoniser0 = A 7-Stage Tri-Calculating Quantum Harmoniser. It was pretty expensive, but who doesn't deserve to treat themselves every now and then?
 brightness0 = This lever does literally nothing but alter how bright the nearby panel is when the power is on.
 brightness1 = It's stuck on 'really bright, actually'.
