@@ -1,9 +1,9 @@
 ## A Hat in Time - Türkçe Çeviri
 > Bu Türkçe çeviri modu ```A Hat in Time``` adındaki Steam oyunu için yapılmıştır.
 
-> Proje Durumu: **Devam Etmekte (27.01.2020-2018, QC)**
+> Proje Durumu: **Devam Etmekte (15.03.2020-2018, QC)**
 
-> Proje İlerlemesi: **%60**
+> Proje İlerlemesi: **%80**
 
 ## Nasıl Yüklenir ? (GitHub)
 > 1. Steam'dan 'A Hat in Time' oyununu seçin.
@@ -29,3 +29,4 @@
 
 ## Katkıda Bulunanlar/Contributors
 > * Hoshungen et al.
+> * Lantan
