@@ -4,14 +4,17 @@ ChapterUnlocked = Şu kısımda güç yeniden geldi: [name][location][/name]![br
 [locations]
 Location_Bedroom = Yatak Odası
 Location_MainHall = Ana Salon
-Location_MachineRoom = Makine Odası
+Location_MachineRoom = Makine Dairesi
 Location_Basement = Bodrum
 Location_Attic = Çatı Katı
-Location_LandryRoom = Çamaşır Odası
+//^Tavan?
+Location_LandryRoom = Çamaşırhane
 Location_DLC2 = Depo
 
 [Ending]
 ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] aşağı at ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki [name]Mafya[/name] ile baş edebilsin?[br](Evine ulaşamayabilirsin.)
+//aşağı at=bırak
+//evine dönemeyebilirsin/ulaşamayabilirsin
 ThrowMu0_Yes = Evet
 ThrowMu0_No = Hayır
 
@@ -19,44 +22,49 @@ ThrowMu0_No = Hayır
 bookcase0 = Bir Kitaplık. Aynı zamanda bir 'havalı kelime alanı' veya bir 'kendinin bile azıcık dolduramayacağın şey, Steven, asla bir yayımcı bulamayacaksın, ve çalışman üzerinde geçirdiğin tüm zaman çocukların ile geçirebileceğin zamana denk geliyor', geldiğiniz yere göre değişebilir.
 harmoniser0 = A 7-Stage Tri-Calculating Quantum Harmoniser. It was pretty expensive, but who doesn't deserve to treat themselves every now and then?
 brightness0 = This lever does literally nothing but alter how bright the nearby panel is when the power is on.
-brightness1 = It's stuck on 'really bright, actually'.
+brightness1 = 'Çok parlak, gerçekten' de takılı kalmış.
 radio0 = This is your bleeding-edge, top of the line audio device. 
 radio1 = Without it, you wouldn't be able to tune in to all your favourite radio broadcasts, like 'Acquaintances At The Table', 'Goodbye From Sunshine Town', or 'Two Brothers And Then Also A Third Additional Brother, Myself'.
 microwave0 = It's a microwave! You use it to punish food that has been bad.
 wardrobe0 = A closet! You only really wear one outfit, so there's lots of room for skeletons.
+//Bir dolap! Sen sadece gerçekten tek kıyafet giyebilirsin, iskeletler için bir sürü yer var.
 button0 = The emergency button, perfectly designed for moments when you need a button to push but can't find one anywhere else.
 
 [Tokens]
 tokenmachine0 = It's a small machine that takes [icon:token][name]Tokens[/name] and gives a gift in return! Spend [icon:token][name]3 Tokens[/name] for a gift?
-tokenmachine1 = Not enough [icon:token][name]Tokens[/name]!
-tokenmachine2 = The machine is empty!
-tokenmachine0_yes = Heck yea
-tokenmachine0_no = I hate gifts
+
+//Bu küçük makine [icon:token][name]Jeton[/name] alıyor ve hediye veriyor! Hediye için [icon:token][name]3 Jeton[/name] harca?
+
+tokenmachine1 = Yeterince [icon:token][name]Jeton[/name]un yok!
+tokenmachine2 = Makine boş!
+tokenmachine0_yes = Tabii ki
+tokenmachine0_no = Hediyeleri sevmem
 
 [computer]
-computerstart0 = Ah, yes. The VGS 1 - the fastest, most complex supercomputer ever to be built.
-computerstart1 = Boot it up?
-computer_on_yes = Yes!
-computer_on_no = Heck no!
-computerstart2a = You power it on. A world of computing delight awaits you.
+computerstart0 = Ah, evet. The VGS 1 - Yapılmış en hızlı, en karmaşık süper bilgisayar.
+computerstart1 = Başlatalım mı?
+computer_on_yes = Evet!
+computer_on_no = Olmaz!
+computerstart2a = Başlatıldı. Bilgi sayar dünyası keyfi seni bekler.
 computerstart2b = You decide to leave the computer alone. You're just not ready to go that fast today.
-computer0 = GREETINGS USER {UNDEFINED.USER}. [br]WELCOME TO YOUR HOME COMPUTING EXPERIENCE.
-computer1 = OPEN APPLICATION?
-computer2 = SHUTTING DOWN.
+computer0 = MERHABA KULLANICI {TANIMSIZ.KULLANICI}. [br]WELCOME TO YOUR HOME COMPUTING EXPERIENCE.
+computer1 = UYGULAMA AÇ?
+computer2 = KAPATILIYOR
 
-computer_options_apps = 'FUN'
-computer_options_internet = 'INTERNET'
-computer_app_game = 'GAMES'
-computer_app_earth = 'EARTH'
-computer_app_selfcare = 'REASSURANCE'
-computer_app_search = 'SEARCH'
-computer_app_browser = 'SURF THE NET'
-computer_app_shutdown = 'SHUT DOWN'
+computer_options_apps = 'EĞLENCE'
+computer_options_internet = 'İNTERNET'
+computer_app_game = 'OYUN'
+computer_app_earth = 'DÜNYA'
+computer_app_selfcare = 'GÜVENCE'
+computer_app_search = 'ARAMA'
+computer_app_browser = 'NETTE SÖRF'
+computer_app_shutdown = 'KAPAT'
 
-computersearch0 = YOU HAVE SELECTED THE SEARCH APPLICATION.
-computersearch1 = ENTER SEARCH TERM
-computersearch2 = SEARCHING... 0 RESULTS FOUND FOR [SEARCHTERM].[br]YOUR SEARCH HISTORY HAS BEEN SUBMITTED FOR FEDERAL REVIEW.
-computersearch3 = CLOSING SEARCH APPLICATION.
+computersearch0 = ARAMA UYGULAMASINI SEÇTIN.
+computersearch1 = ARAMA TERİMİ GİR
+computersearch2 = ARANIYOR... [SEARCHTERM] İÇİN 0 SONUÇ BULUNDU.[br]ARAMA GEÇMŞİN FEDERAL İNCELEME İÇİN GÖNDERİLDİ.
+
+computersearch3 = ARAMA UYGULAMASI KAPATILIYOR.
 
 computergame0 = YOU HAVE SELECTED THE TEXT-BASED ENTERTAINMENT APPLICATION.
 computergame01 = WOULD YOU LIKE TO PLAY A GAME?
@@ -67,14 +75,14 @@ computergame1b = YOU HAVE SELECTED NO. RECORDING NEW HIGH SCORE FOR USER {UNDEFI
 computergame2 = I HAVE SELECTED: CORGI QUEST 7 - THE LEASHES THAT BIND.
 corgiquest_a5a = YOU ARE A CORGI. YOUR NAME IS ALAN. YOU MUST SEVER THE MAGICAL LEASH HOLDING YOU TO THIS PLANE OF NASTINESS. EXITS ARE NORTH, EAST, AND SOUTH.
 corgiquest_a5b = YOU ARE WHERE YOUR QUEST BEGAN. EXITS ARE NORTH, EAST, AND SOUTH.
-game_n = GO NORTH
-game_s = GO SOUTH
-game_e = GO EAST
-game_w = GO WEST
-game_d = GO DENNIS
-game_u = GO UP
-game_do = GO DOWN
-game_bark = BARK
+game_n = KUZEYE GİT
+game_s = GÜNEYE GİT
+game_e = DOĞUYA GİT
+game_w = BATIYA GİT
+game_d = ENKAZA GİT
+game_u = YUKARI GİT
+game_do = AŞAĞI GİT
+game_bark = HAVLA
 game_jump = JUMP TO CONCLUSIONS
 game_look = LOOK
 game_ttiger = TALK TIGER
