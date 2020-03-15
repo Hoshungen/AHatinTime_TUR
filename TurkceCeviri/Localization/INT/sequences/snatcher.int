@@ -1,29 +1,37 @@
+//Snatcher.int - 15/03//2020
+//Konuşma pattern'i: ufaklık, evlat
+
 [subconforest]
 scooter_intro0 = [shake2]GÜÜÜÜÜÜÜÜÜÜNAYDIN! Sözleşmeye bağlı zorunluluklarını yerine getirmeye hazır mısın?[/shake2]
-scooter_intro1 = [shake2]Ben kalpsiz değilim! Zaman zaman posta kutularına gizlice girer, mektupları alır, sonra onları minyonlarıma teslim ederim. Bu şekilde birileri onları umursuyormuş gibi olur![/shake2]
-scooter_intro2 = [shake2]Ama son postacımız [wave]*puf*[/wave] oldu gitti . Senin yapman gerekecek o yüzden![/shake2]
+//Sözleşmeye bağlı zorunluluklarını=Sözleşmenin Şartlarını // yerine getirmeye=sağlamaya=tamamlamaya
+scooter_intro1 = [shake2]Ben kalpsiz değilim! Zaman zaman posta kutularına gizlice girer, mektupları alır, sonra da onları minyonlarıma teslim ederim. Bu şekilde birileri onları umursuyormuş gibi olur![/shake2]
+scooter_intro2 = [shake2]Ama son postacımız [wave]*puf*[/wave] oldu gitti. Senin yapman gerekecek o yüzden![/shake2]
 scooter_intro3 = [shake2]Bu durum için bir 'hediyem' var. Ne kadar kullanılması için özel bir şapka gerektirse bile - Umarım gereken şey sende vardır! [wave]Ha ha ha![/wave][/shake2]
 
-scooter_onenter0 = [shake2]Bu [icon:badge][name]rozet[/name] sadece kiralık. Sen ayrılmadan önce almam gerek! Bunu [icon:sprinthat][name]Depar Şapka'na[/name]koymayı unutma, yoksa hiçbir şey yapmaz! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
-scooter_onenter1 = [shake2]Bir mektup bekleyen her minyonun [hint]üstünde bir ikon[/hint] olacak. İşin bittiğinde buraya dön ve 'kart' bas. Anladın mı?[/shake2]
+scooter_onenter0 = [shake2]Bu [icon:badge][name]rozet[/name] sadece kiralık. Sen ayrılmadan önce almam gerek! Bunu [icon:sprinthat][name]Koşu Şapkasına[/name]koymayı unutma, yoksa hiçbir işe yaramaz! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
+scooter_onenter1 = [shake2]Her mektup bekleyen minyonun [hint]üstünde bir ikon[/hint] olacak. İşin bittiğinde buraya dön ve 'kart' bas. Anladın mı?[/shake2]
+//kiralık=ödünç?
+//İşin bittiğinde (ölüm ile alakalı bir referans)=Bitirdiğinde
 
 [contract_initial]
 intro0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
 intro1 = [shake][big][scream][wave]AHMAAAAAAAAAAAAAAAAK!![/wave][/scream][/big][/shake]
-intro2 = [shake2]Batırdın! Resmen kendini harcadın! Kimse benim evime girip tek parça halinde ayrılmaz![/shake2]
+//Ahmak=Aptal?
+intro2 = [shake2]Batırdın! Resmen kendini mahvettin! Kimse benim evime girip tek parça halinde ayrılmaz![/shake2]
 intro3 = [shake2]Ne söyleyeceğim gerçi! Bekle biraz! Hayatta kalacaksın! Doğru duydun! Amma şanslısın ha?![/shake2]
-intro4 = [shake2]Normalde senin ruhunu yer ve vücudunu atardım, ama şanslı çıktın! Piyango vurdun, çünkü işe bak ki bir hizmetkarım yok şu anda![/shake2]
-intro5 = [shake2]Doğru bildin! Eskisi kendini öldürttü, ölüsü de yok olud, ve şimdi yeni birine ihtiyacım var![/shake2]
-contract_appear0 = [shake2]Yani ne diyeceğim, hemen burada bir parça kağıdım var! Detayları takma kafana! Sadece en alt kısmda imzana ihtiyacım var![/shake2]
+intro4 = [shake2]Normalde senin ruhunu yer ve vücudunu atardım, ama şanslı çıktın! Piyangoyu vurdun, çünkü işe bak ki bir hizmetkarım yok şu anda![/shake2]
+intro5 = [shake2]Doğru bildin! Eskisi kendini öldürttü, ölüsü de yok oldu, ve şimdi yeni birine ihtiyacım var![/shake2]
+contract_appear0 = [shake2]Yani ne diyeceğim, hemen burada bir parça kağıdım var! Detayları takma kafana! Sadece en alt kısımda imzana ihtiyacım var![/shake2]
 
 contract_disagree_retry = Dur bir yeniden düşüneyim...
 contract_disagree_decline = İmzalamayacağım!
 
 contract_disagree0 = [shake2]Hadi ama, bunu zor hale getirme! Bu konuda söz sahibi değilsin bile! Kağıdı imzala![/shake2]
+//söz sahibi=söz hakkına?
 contract_disagree1 = [shake2]Sanırım bunu yeterince açık anlatamadım: FİKRİN BENİ İLGİLENDİRMEZ. Adını sözleşmeye koy yoksa senin ölü, boş bedeninin öyle yapmasını sağlarım![/shake2]
 contract_disagree2 = [shake2]SON ŞANSIN! Kağıdı imzala![/shake2]
 contract_disagree3 = [shake2]Yazık oldu! Sana kötü bir durumu tersine çevirme şansı verdim, ve sen eline yüzüne bulaştırdın! Azıcık olan hayatta kalma şansını pencereden attın![/shake2]
-contract_disagree4 = [shake2]Elveda! Yani, kendinden haberdar olmana! Sen gidince boş cesedine merhaba diyor olacağım![/shake2]
+contract_disagree4 = [shake2]Elveda! Yani, kendindin farkında olmana! Sen gittiğinde boş cesedine merhaba diyor olacağım![/shake2]
 
 contract_agree0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
 contract_agree1 = [shake2]Bu, işi bitirir! Çalışmaya hazırız! Dur şunu alıyım hemen...[/shake2]
@@ -37,23 +45,28 @@ contract_agree5 = [shake2]Görüşürüz! Kendine dikkat et! Öleyim deme ha![/s
 
 enter_village0 = [shake][big][scream][wave]VAAAAAAAAAY, MERHABA![/wave][/scream][/big][/shake][br][shake2]Beni unutmadın, değil mi?! Sakın unuttum deme![/shake2]
 enter_village1 = [shake2]N'aber? Sözleşmeye dayalı zorunluklar üstünde çalışıyor musun? Öyle yapsan iyi edersin! Küçük anlaşmamızı hatırla![/shake2]
+//Sözleşmeye bağlı zorunluluklarını=Sözleşmenin Şartlarını
 enter_village2 = [shake2]Şuna bir bak. Şu son derece sinir bozucu [name]Ateş Ruhları[/name] şuraya oturmuşlar, köyümün ortasına.[/shake2]
 enter_village3 = [shake2]Onların küçük dansı, benim ormanımda dolaşmamı zorlaştıran sinir bozucu bariyerler oluşturuyor. Bana son vermeye çalışıyorlar gibi neredeyse... ne şirin.[/shake2]
+//Bana son vermeye=beni bitirmeye
 enter_village4 = [shake2]Onlardan kurtul. Nasıl yaptığın beni ilgilendirmez, benim arazime girdikleri için sonsuza kadar acı çektikleri sürece! [wave]HEHEHEHE![/wave][/shake2]
-enter_village5 = [shake2]Neyse, işe dön, kalpak![br]Tatil değil bu, ve ben sabırsızlanıyorum![/shake2]
+enter_village5 = [shake2]Neyse, işinin başına, kalpak![br]Tatil değil bu, ve ben sabırsızlanıyorum![/shake2]
 
 [breakice_contract]
 breakice0 = [shake][big][scream][wave]İYİ İŞ![/wave][/scream][/big][/shake][br][shake2]Lütfen acı çektiklerini söyle. Onları katlettin, değil mi? Eminim onları boğazlamışsındır. İyi kız! [scream][wave]Ha ha ha ha![/wave][/scream][/shake2]
 breakice1 = [shake2]Hemen seninle işimin bittiğini düşünme, gerçi! Bu böceklerden daha fazlası var ormanda, ve senin her birinin icabına bakman lazım.[/shake2]
-breakice2 = [shake2]Yapılacaklar listende sırada: Subcon Kuyusu'nu temizle. Doğru bildin, şimdi bir tesisatçısın! Terfin için tebrikler![/shake2]
-breakice3 = [shake2]Bende de aynı zamanda... başka... işler var, kendim yapamayacağım. Ve hey, sana ihtiyacım olduğu sürece, hayatta kalacaksın. Ne anlaşma ama, ha?[/shake2]
+breakice2 = [shake2]Yapılacaklar listende sırada: Subcon Kuyusu'nu temizle. Doğru bildin, şimdi bir tesisatçısın! Terfiyen için tebrikler![/shake2]
+breakice3 = [shake2]Benim de aynı zamanda... başka... işlerim var, kendim yapamayacağım. Ve hey, sana ihtiyacım olduğu sürece, hayatta kalacaksın. Ne anlaşma ama, ha?[/shake2]
+//Anlaşma=sözleşme? Çeviri consistency'si
 
 breakice4 = [shake2]Ama konuştuğumuz yetti! Görünüşe göre tabağında birden fazla şeyi kaldırabiliyorsun! Haydi sana ek bir sözleşme alalım![/shake2]
+//tabağında=kendi çapında===kendine yetebilirlik??
 breakice5 = [shake2]Birini seç, ama sadece birini! Hayatın için imza atmak nefes kesici değil mi?[/shake2]
 
 breakice6 = [shake2]İyi seçim! Umalım da görevin için hazırsındır![/shake2]
 breakice7 = [shake2]Şu [icon:timepiece][timepiece]Zaman Parçalarını[/timepiece] arıyorsun, değil mi? Bir zavallıyı avlarken onlardan birini buldum![/shake2]
 breakice8 = [shake2]Sende kalabilir, ama bu seni bir sözleşmeyi tamamladığın için ödüllendireceğim tek sefer! Çünkü bil bakalım ne? Yasal olarak zorunda değilim! [wave][scream]HA HA HA HA HA![/scream][/wave][/shake2]
+//Yasal olarak=>açıdan
 
 [contract_generic_trap]
 trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]AHMAAAAAAAAAAaaa... oh bekle, bu sensin?[/shake2]
@@ -63,6 +76,7 @@ trapA3 = [shake2]Ah, ama tuzağıma takıldığına göre, senin çalışma gayr
 trapA4 = [shake2][small]*öksürük*[/small][/shake2][br] [br][shake][big][scream][wave]AHMAAAAAAAAAAAAAAAAAAK!![/wave][/scream][/big][/shake]
 trapA5 = [shake2]Ormanıma adım attın, ve şimdi bedelini ödemelisin![/shake2]
 trapA6 = [shake2]Zehrini seç! Hayatının geri kalanı boyunca hangi yükü taşımak istiyorsun?![/shake2]
+//Zehrini=Azabını==Türkçeye uyum
 
 trapA7 = [shake2]Fena seçim değil! Çocuk oyuncağı olmalı! Tüm zor sözleşmeleri acemilere bırakıyorsun gerçi, ki düşününce baya kaba.[/shake2]
 trapA8 = [shake2]Neyse! Ben kaçtım! Sonra görüşürüz![/shake2]
@@ -74,6 +88,7 @@ home_question0_contract = Sözleşmeyi teslim et
 
 home_intro0 = [shake2]Beni neden rahatsız ediyorsun? Evlat, sözleşmeyi kabul etmeden önce okumadın mı?[/shake2]
 home_intro1 = [shake2]Sözleşmenin kendi tarafını halledene kadar benden bir şey alamazsın! Yani uza![/shake2]
+//Öneri^ Sözleşmen bitene kadar/hallolana kadr benden hiçbir şey...
 
 nosoul0 = [shake2]Sırf ilk sözleşmeni halletin diye ruhunu geri alacağını sanmamıştın, değil mi?[/shake2]
 nosoul1 = [shake2]Pekala, [shake][big][scream]ÇOK YAZIK![/scream][/big][/shake][/shake2][br][shake2]Sen benim en yeni hizmetkarımsın, ve işimiz bitmiş değil! Bitir, sonra konuşuruz![/shake2]
@@ -83,18 +98,22 @@ home_businessconcluded = [shake2]Evlat, bizim işimiz sona erdi. Sana başka bir
 wheretogo_subconwell0 = [shake2]Kuyuyu temizliyor olman lazım, evlat. Bataklığın derinliklerinde, ama senin gibi küçük bir şeyin bile görebileceği kadar büyük. Kayıp kafanı dibe vurmamaya çalış... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
 postfinale0 = [shake2]Yine mi sen? Son sefer gayet açık anlattığımı sanıyorum, evlat.[/shake2]
-postfinale1 = [shake2]İşimiz bitti. Tamamlandı. Çalışma ilişkimiz yok artık. Artık senin üstünde daha fazla yazı işi için malzeme harcamayacağım![/shake2]
+postfinale1 = [shake2]İşimiz bitti. Tamamlandı. Çalışma ilişkimiz yok artık. Artık senin üzerinde daha fazla yazı işi için malzeme harcamayacağım![/shake2]
 postfinale2 = [shake2][wave][scream][big]Şimdi toz ol benim ormanımdan![/big][/scream][/wave][/shake2]
 
 [bossbattle]
 intro0 = [shake2]Bekle, evlat. Eski kalfanın kafasını kaybettiğini hatırlıyor musun?[/shake2]
+//kalfanın=hizmetkar? Çeviri inconsistency, aynı anlamda kullanılmalı - - - line 9?
 intro1 = [shake2]O bir kaza değildi. Benim için kullanışlı olmayı bıraktığı anda oldu o.[/shake2]
+//O bir kaza değildi
+//O tesadüf değildi.
 intro2 = [shake2]Ve bil bakalım başka ne kullanışsız hale geldi? Doğru bildin. Sen.[/shake2]
 intro3 = [shake2]Artık şu ele perili ev beni rahatsız etmediğine ve bütün sözleşmelerin tamamlandığına göre... Sana ihtiyacım yok.[/shake2]
 intro4 = [shake2]Üstelik, bütün bu [icon:timepiece][timepiece]Zaman Parçalarını[/timepiece] sana bırakacağımı sanmadın, değil mi? Benim ormanıma düştüler, evlat! [scream]BANA[/scream] aitler.[/shake2]
 intro6 = [shake2]Elimden ne geliyormuş görme zamanı, evlat. Şu küçük kafana elveda de![/shake2]
 
 Derp0 = Böyle görünüyorsun![br]Çok salaksın!
+//salaksın=aptalsın===kafiye
 Derp1 = Ve kokuyorsun!
 
 blue0 = [shake2]Maviye dönmemi bekliyorsun muhtemelen, değil mi?[/shake2]
@@ -102,6 +121,7 @@ blue1 = [shake2]Üzgünüm evlat, mavi bana yakışmıyor.[br]Ve sanırım bu be
 
 Chemicals0 = [shake2]Haydi biraz bunlardan deneyelim![/shake2]
 Chemicals1 = [shake2]Yeterli değil mi?[br]Haydi 1,000 tane deneyelim![/shake2]
+//Haydi 1,000 olsun! ==Üssteki cümle Sığmayacak, baloncuk içi cümle
 Chemicals2 = [shake2]Fazla geldi, eh?[br]Haydi sadece bir tane deneyelim![/shake2]
 Chemicals3 = [shake2]Bekle, dur biraz.[/shake2]
 Chemicals4 = [shake2]Bu sana [br]kesinlikle vurmalı![/shake2]
@@ -118,30 +138,41 @@ turned_blue3 = [shake2]Yetti, [scream][wave]ÖLME[wait][/wave] zamanı[/scream].
 death0 = [shake2]*huff*[waitlong] *huff*[waitlong] Sen çok saygısız küçük bir bayansın...[/shake2]
 death1 = [shake2]Çok güçsüz... hissediyorum...[waitlong] *huff*[/shake2]
 death2 = [shake2]Lütfen...[waitlong] *huff*[waitlong] merhamet göster...[/shake2]
+//merhamet göster
+//acı bana
 death3 = [shake2][waitlong][wait]Lütfen... [br] [waitlong][waitlong][br][big]OTUR ŞÖYLE[/big][/shake2][waitlong][waitlong]
 death4 = [shake2]Bütün bu [icon:timepiece][timepiece]Zaman Parçaları[/timepiece] BENİM ormanıma düştü. BENİM mallarım onlar.[/shake2]
-death5 = [shake2]Yani, haydi anlaşalım, genç bayan. Ormanımdan ayrıl ve seni bir daha görmeyelim. Kulağa nasıl geliyor?[/shake2]
+//mallarım=malım, mülküm==aidiyet sıfatı* Hukuk anlamında kullanılmış
+death5 = [shake2]Yani, haydi anlaşalım, genç bayan. Ormanımdan ayrıl ve seni de bir daha görmeyelim. Kulağa nasıl geliyor?[/shake2]
 death6 = [shake2]Hoşuna gitmedi mi? Çok yazık! Burada senin sözün geçmez.[/shake2]
 death7 = [shake2]İşte, senin için işi kolaylaştıracağım![/shake2]
-death8 = [shake2]Şimdi geriye kalan son şey imzan![/shake2]
+death8 = [shake2]Şimdi geriye kalan son şey imzalaman![/shake2]
 
 sign0 = [shake2]...Sözleşmelerin böyle işlemediğini biliyorsun, değil mi?[/shake2]
-sign1 = [shake2]Kaçman için bir fırsat veriyorum, evlat! Hiç aldatmaca veya koşul yok! [/shake2]
+sign1 = [shake2]Kaçman için bir fırsat veriyorum, evlat! Bu sefer iç aldatmaca veya koşul yok! [/shake2]
+//There's no catches or clauses this time! [/shake2]
+//Bu sefer aldatmacalar veya koşullar yok! [/shake2]
+
 sign2 = [shake2]Ruhunu geri vermeme ne dersin, bu gitmeni sağlar mı?[/shake2]
 sign3 = [shake2]Evet? Hayır? Alo? Orada mısın? Neden bir şey demiyorsun?[/shake2]
 sign4 = [shake2].......[/shake2]
 sign5 = [shake2]...Amma da karaktersin ha, değil mi. Ve zor bir arabulucu.[/shake2]
+//Amma da karaktersin=zor birisisin
+
 sign6 = [shake2]Öyle olsun, senin için daha tatlı hale getireceğim anlaşmayı.[/shake2]
 sign7 = [shake2]İşte, son [icon:timepiece][timepiece]Zaman Parçamı[/timepiece] al. Eğer seni bundan sonra ormanımda görürsem, çok hayal kırıklığına uğrayacağım![/shake2]
 
 contract_soul_return = Ruhunu geri aldın! Rahatlamış, enerjik, ve sıradan derecede boş hissediyorsun!
+//her zamanki gibi boş hissediyorsun!
+//ve sıradan derecede boş hissediyorsun!
 
 [finale]
 outside0 = [shake2]Hey evlat! Ruhun nasıl? Hala orada tıkırdıyor mu?[/shake2]
 outside0b = [shake2]Oh, bekle. Hala geri alamadın, değil mi?[/shake2]
 outside1 = [shake2]Kimin [wave]beni[/wave] yargılayacak kadar iyi olduğunu bilmek isterim! Yani bir kaç[small]yüz[/small] ruh aldım - aman ne önemli![/shake2]
 outside2 = [shake2]Hepimize bir iyilikte bulun, evlat! Kim bizden iyi olduğunu düşünüyormuş bir bak! Ve vur onlara![/shake2]
-outside3 = [shake2]Genelde bu tür şeyleri desteklemem, ama bu baya otoriter![/shake2]
+outside3 = [shake2]Genelde bu tür şeyleri desteklemem, ama bu bayağı otoriterce![/shake2]
+//otoriter->otoriterce=dikta
 group_counter0 = [shake2]Bu alternatif gerçeklik berbat! Toz ol![/shake2]
 cherrybombs0 = [shake2]Haydi bir sözleşme imzalayalım ve bu kızın kaybolmasını sağlayalım, ilk ve son kez![/shake2]
 cherrybombs1 = [shake2]Hahaha! Pekala, haydi işe koyulalım. Ben oluşturacağım, sen atacaksın![/shake2]
@@ -152,4 +183,4 @@ suicide0 = [shake2]Bizim bir kahramana İHTİYACIMIZ yok! Toz ol![/shake2]
 hang0 = [shake2]Hey evlat, haydi başka bir sözleşme yapalım![/shake2]
 
 [spaceship]
-no_contracts0 = [shake2]Tüm sözleşmelerin bitti mi? Saçmalık! Ormanımı araştır ve dahasını bulacaksındır.[/shake2]
+no_contracts0 = [shake2]Tüm sözleşmelerin bitti mi? Saçmalık! Ormanımı araştır ve dahasını bulacaksın.[/shake2]
