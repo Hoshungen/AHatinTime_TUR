@@ -1,22 +1,22 @@
 [parade]
-welcome0 = Hello, darling! Welcome to the largest studio set you'll ever see!
-welcome1 = We're about to start recording [hint]The Big Parade[/hint], the movie that'll take the breath away from audiences worldwide! You'll be the star, as always!
-welcome2 = For this movie, we'll need to use our [icon:timepiece][timepiece]special prop[/timepiece]! It'll pop out at the very end!
-welcome3 = But wait, darling! Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
-welcome3b = Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
-welcome4 = You look great, darling! Don't worry, this movie is really easy. Keep moving around and the band will follow you! Just don't bump into them!
-welcome5 = And keep an eye out for goodies! The audience loves a good parade and will throw treats your way if you get near them.
-welcome5b = And keep an eye out for refreshments! The off-stage crew will throw 'em your way, to keep you hydrated!
-welcome5c = And keep an eye out for the cameras! The crew will be trying to get as much footage of you as possible, so swing by them whenever possible!
-welcome6 = The parade lasts a while; nothing you can do to speed it up. We'll let you know once we've got enough footage. Don't lose spirit!
-welcome7 = Good luck, darling!
+welcome0 = Merhaba, tatlım! Hayatında göreceğin en büyük stüdyo setine hoş geldin!
+welcome1 = [hint]Büyük Geçit Töreni'ni[/hint] çekmek üzereyiz, dünya çapında seyircilerin nefeslerine kesecek olan film! Sen yıldızı olacaksın, her zamanki gibi!
+welcome2 = Bu film için bizim [icon:timepiece][timepiece]özel malzememizi[/timepiece] kullanmamız gerekecek! En sonda ortaya çıkacak!
+welcome3 = Ama bekle, tatlım! Şu anki kıyafetin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
+welcome3b = Şu anki kıyafetin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
+welcome4 = Harika görünüyorsun, tatlım! Endişelenme, bu film gerçekten kolay. Etrafta dolaşmaya devam edeceksin ve takım arkandan gelecek! Onlara çarpma yeter!
+welcome5 = Ve hediyelere dikkat et! Seyirci güzel bir geçit törenine bayılır ve eğer yaklaşırsan sana hediye atar.
+welcome5b = Ve tazelemelere dikkat et! Sahne dışı ekip onları sana doğru atacak, susuz kalmaman için!
+welcome5c = Ve kameralara dikkat et! Ekip senin görüntülerini elinden geldiğince almaya çalışacak, o yüzden mümkün olunca onların yanından geç!
+welcome6 = Geöit töreni biraz sürer; hızlandırmak için bir şey yapamazsın. Yeterli görüntü alınca sana haber vereceğiz. Enerjini kaybetme!
+welcome7 = İyi şanslar, tatlım!
 
-first_intermission0 = It's time to turn the heat up in this movie!
-first_intermission1 = Darling, can you turn on the pyrotechnics?
+first_intermission0 = Bu filmde ısıyı arttırma zamanı!
+first_intermission1 = Tatlım, piroteknikleri açabilir misin?
 
-second_intermission0 = This movie needs more action! Darling, turn on the firework cannons[br]for the big firework show!
+second_intermission0 = Bu filmin daha fazla aksiyona ihtiyacı var! Tatlım, fişek toplarını çıkar[br]büyük fişek gösterisi için!
 
-third_intermission0 = Time to release the [icon:timepiece][timepiece]parade surprise[/timepiece]![br]Grab it, darling!
+third_intermission0 = [icon:timepiece][timepiece]tören sürprizini[/timepiece] ortaya çıkarma vakti![br]Yakala, tatlım!
 
 [deadbird]
 intro0 = Nonsense, darling, nonsense!
