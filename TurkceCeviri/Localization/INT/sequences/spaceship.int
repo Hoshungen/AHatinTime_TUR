@@ -12,42 +12,42 @@ Location_LandryRoom = Çamaşırhane
 Location_DLC2 = Depo
 
 [Ending]
-ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] aşağı at ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki [name]Mafya[/name] ile baş edebilsin?[br](Evine ulaşamayabilirsin.)
+ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] bırak ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki [name]Mafya[/name] ile baş edebilsin?[br](Evine ulaşamayabilirsin.)
 //aşağı at=bırak
 //evine dönemeyebilirsin/ulaşamayabilirsin
 ThrowMu0_Yes = Evet
 ThrowMu0_No = Hayır
 
 [fluff]
-bookcase0 = Bir Kitaplık. Aynı zamanda bir 'havalı kelime alanı' veya bir 'kendinin bile azıcık dolduramayacağın şey, Steven, asla bir yayımcı bulamayacaksın, ve çalışman üzerinde geçirdiğin tüm zaman çocukların ile geçirebileceğin zamana denk geliyor', geldiğiniz yere göre değişebilir.
-harmoniser0 = A 7-Stage Tri-Calculating Quantum Harmoniser. It was pretty expensive, but who doesn't deserve to treat themselves every now and then?
-brightness0 = This lever does literally nothing but alter how bright the nearby panel is when the power is on.
+bookcase0 = Bir Kitaplık. Aynı zamanda bir 'havalı kelime alanı' veya bir 'kendinin bile azıcık dolduramayacağı şey, Steven, asla bir yayımcı bulamayacaksın, ve çalışman üzerinde geçirdiğin tüm zaman çocukların ile geçirebileceğin zamana denk geliyor', geldiğiniz yere göre değişebilir.
+harmoniser0 = Bir 7 Bölümlük Üçlü-Hesaplayan Kuantum Armonizörü. Bayağı pahalıydı, ama kim zaman zaman kendini şımartmayı hak etmez ki?
+brightness0 = Bu kol tam anlamı ile yakındaki panelin, güç açıkken, ne kadar aydınlık olduğunu değiştirmekten başka hiçbir işe yaramıyor.
 brightness1 = 'Çok parlak, gerçekten' de takılı kalmış.
-radio0 = This is your bleeding-edge, top of the line audio device. 
-radio1 = Without it, you wouldn't be able to tune in to all your favourite radio broadcasts, like 'Acquaintances At The Table', 'Goodbye From Sunshine Town', or 'Two Brothers And Then Also A Third Additional Brother, Myself'.
-microwave0 = It's a microwave! You use it to punish food that has been bad.
-wardrobe0 = A closet! You only really wear one outfit, so there's lots of room for skeletons.
+radio0 = Bu senin en yenin, yüksek kalite ses aygıtı. 
+radio1 = O olmadan favori radyo yayınlarını dinleyemezdin, mesela 'Masada Tanışıklık', 'Güneş Işığı Kasabasından Elveda' veya 'İki Kardeş ve Aynı Zamanda Bir Ek Kardeş, Ben'.
+microwave0 = Bir mikrodalga! Yaramaz olan yemekleri cezalandırmak için kullanırsın.
+wardrobe0 = Bir elbise dolabı! Sadece tek bir kıyafet giyiyorsun, yani iskeletler için bolca yer var.
 //Bir dolap! Sen sadece gerçekten tek kıyafet giyebilirsin, iskeletler için bir sürü yer var.
-button0 = The emergency button, perfectly designed for moments when you need a button to push but can't find one anywhere else.
+button0 = Acil durum düğmesi, bir düğmeye basman gerektiği ama yakınlarda hiç olmadığı zamanlar için mükemmel şekilde dizayn edilmiş.
 
 [Tokens]
-tokenmachine0 = It's a small machine that takes [icon:token][name]Tokens[/name] and gives a gift in return! Spend [icon:token][name]3 Tokens[/name] for a gift?
+tokenmachine0 = Bu küçük makine [icon:token][name]Jeton[/name] alır ve karşılığında hediye verir! Bir hediye için [icon:token][name]3 Jeton[/name] harca?
 
 //Bu küçük makine [icon:token][name]Jeton[/name] alıyor ve hediye veriyor! Hediye için [icon:token][name]3 Jeton[/name] harca?
 
-tokenmachine1 = Yeterince [icon:token][name]Jeton[/name]un yok!
+tokenmachine1 = Yeterince [icon:token][name]Jetonun[/name] yok!
 tokenmachine2 = Makine boş!
 tokenmachine0_yes = Tabii ki
 tokenmachine0_no = Hediyeleri sevmem
 
 [computer]
-computerstart0 = Ah, evet. The VGS 1 - Yapılmış en hızlı, en karmaşık süper bilgisayar.
-computerstart1 = Başlatalım mı?
+computerstart0 = Ah, evet. VGS 1 - Yapılmış en hızlı, en karmaşık süper bilgisayar.
+computerstart1 = Açalım mı?
 computer_on_yes = Evet!
 computer_on_no = Olmaz!
-computerstart2a = Başlatıldı. Bilgi sayar dünyası keyfi seni bekler.
-computerstart2b = You decide to leave the computer alone. You're just not ready to go that fast today.
-computer0 = MERHABA KULLANICI {TANIMSIZ.KULLANICI}. [br]WELCOME TO YOUR HOME COMPUTING EXPERIENCE.
+computerstart2a = Açıldı. Bilgi sayar dünyası keyfi seni bekler.
+computerstart2b = Bilgisayarı yalnız bıraktın. Bugün o kadar hızlı gitmeye hazır değilsin.
+computer0 = MERHABA KULLANICI {TANIMSIZ.KULLANICI}. [br]EV SAYMA DENEYİMİNİZE HOŞGELDİNİZ.
 computer1 = UYGULAMA AÇ?
 computer2 = KAPATILIYOR
 
@@ -60,21 +60,21 @@ computer_app_search = 'ARAMA'
 computer_app_browser = 'NETTE SÖRF'
 computer_app_shutdown = 'KAPAT'
 
-computersearch0 = ARAMA UYGULAMASINI SEÇTIN.
-computersearch1 = ARAMA TERİMİ GİR
-computersearch2 = ARANIYOR... [SEARCHTERM] İÇİN 0 SONUÇ BULUNDU.[br]ARAMA GEÇMŞİN FEDERAL İNCELEME İÇİN GÖNDERİLDİ.
+computersearch0 = ARAMA UYGULAMASINI SEÇTİNİZ.
+computersearch1 = ARAMA TERİMİ GİRİNİZ
+computersearch2 = ARANIYOR... [SEARCHTERM] İÇİN 0 SONUÇ BULUNDU.[br]ARAMA GEÇMŞİNİZ FEDERAL İNCELEMEYE GÖNDERİLDİ.
 
 computersearch3 = ARAMA UYGULAMASI KAPATILIYOR.
 
-computergame0 = YOU HAVE SELECTED THE TEXT-BASED ENTERTAINMENT APPLICATION.
-computergame01 = WOULD YOU LIKE TO PLAY A GAME?
-computer_game_yes = YES
-computer_game_no = HECK NO
-computergame1a = YOU HAVE SELECTED YES. I WILL CHOOSE A GAME FROM MY IMMEASURABLE LIBRARY OF PURELY NON-VISUAL FUN.
-computergame1b = YOU HAVE SELECTED NO. RECORDING NEW HIGH SCORE FOR USER {UNDEFINED.USER} AT GAME: INTERPLANETARY THERMONUCLEAR WAR.[br]CLOSING TEXT-BASED ENTERTAINMENT APPLICATION.
-computergame2 = I HAVE SELECTED: CORGI QUEST 7 - THE LEASHES THAT BIND.
-corgiquest_a5a = YOU ARE A CORGI. YOUR NAME IS ALAN. YOU MUST SEVER THE MAGICAL LEASH HOLDING YOU TO THIS PLANE OF NASTINESS. EXITS ARE NORTH, EAST, AND SOUTH.
-corgiquest_a5b = YOU ARE WHERE YOUR QUEST BEGAN. EXITS ARE NORTH, EAST, AND SOUTH.
+computergame0 = METİN-TABANLI EĞLENCE UYGULAMASINI SEÇTİNİZ.
+computergame01 = BİR OYUN OYNAMAK İSTER MİSİNİZ?
+computer_game_yes = EVET
+computer_game_no = HAYIR
+computergame1a = EVET'İ SEÇTİNİZ. BENİM ÖLÇÜLEMEZ KÜTÜPHANEMDEN TAMAMEN GÖRÜNTÜSÜZ EĞLENCE OLAN BİR OYUN SEÇECEĞİM.
+computergame1b = HAYIR'I SEÇTİNİZ. {TANIMSIZ.KULLANICI} İÇİN GEZEGENLER ARASI TERMONÜKLEER SAVAŞ OYUNUNDA YENİ YÜKSEK SKOR KAYDEDİLİYOR.[br]METİN-TABANLI EĞLENCE UYGULAMASI KAPATILIYOR.
+computergame2 = SEÇİMİM: CORGI MACERASI 7 - BAĞLANAN TASMALAR.
+corgiquest_a5a = BİR CORGISİN. ADIN ALAN. SENİ BU PİSLİK ALANINA BAĞLAYAN BÜYÜLÜ TASMAYI KOPARMALISIN. ÇIKIŞLAR KUZEY, DOĞU VE GÜNEYDE.
+corgiquest_a5b = MACERANIN BAŞLADIĞI YERDESİN. ÇIKIŞLAR KUZEY, DOĞU VE GÜNEYDE.
 game_n = KUZEYE GİT
 game_s = GÜNEYE GİT
 game_e = DOĞUYA GİT
@@ -83,23 +83,23 @@ game_d = ENKAZA GİT
 game_u = YUKARI GİT
 game_do = AŞAĞI GİT
 game_bark = HAVLA
-game_jump = JUMP TO CONCLUSIONS
-game_look = LOOK
-game_ttiger = TALK TIGER
-game_sword = USE SWORD
-game_fight = FIGHT
-game_jumpcanyon = JUMP
-game_tbarry = TALK BARRY
-game_tseven = TALK SEVEN
-game_enter = ENTER TOWER
-game_retry_y = YES
-game_retry_n = NO
-corgiquest_a2 = YOU GO NORTH. THERE IS A TIGER. EXITS ARE SOUTH, AND ADVISABLE.
-corgiquest_a2d = YOUR ATTEMPTS DO NOT SWAY THE TIGER. THE CONFLICT HE HAS SEEN AT THE PAWS OF YOUR KIND HAS GIVEN HIM STRENGTH SUCH THAT THE WEIGHT OF YOUR WORDS IS NEGLIGIBLE. HE MAULS YOU VERY BADLY. TRY AGAIN?
-corgiquest_a2b = YOU BARK. IT IS VERY LOUD AND GOOD. THE TIGER IS UNDULY STARTLED, AND MAULS YOU REALLY QUITE BADLY. TRY AGAIN?
-corgiquest_a2f = YOU BATTLE THE TIGER WITH YOUR CLAWS. IT IS NO MATCH FOR YOUR SKILL. TIGERS ARE AND WILL CONTINUE TO BE VERY ENDANGERED. YOU WILL BE TRIED FOR YOUR CRIMES. TRY AGAIN?
-corgiquest_a6 = YOU CANNOT ACTUALLY GO EAST. YOU HAVE BEEN TRICKED.
-corgiquest_a8 = YOU GO SOUTH. THERE IS A SET OF GATES SOUTH. THEY ARE GUARDED BY A PRISMATIC WOLF. EXITS ARE NORTH.
+game_jump = SONUCA VAR
+game_look = BAK
+game_ttiger = KAPLANCA KONUŞ
+game_sword = KILIÇ KULLAN
+game_fight = SALDIR
+game_jumpcanyon = ATLA
+game_tbarry = BARRYCE KONUŞ
+game_tseven = SEVENCE KONUŞ
+game_enter = KULEYE GİR
+game_retry_y = EVET
+game_retry_n = HAYIR
+corgiquest_a2 = KUZEYE GİTTİN. BİR KAPLAN VAR. ÇIKIŞLAR GÜNEYDE VE TAVSİYE EDİLEBİLİR.
+corgiquest_a2d = GİRİŞİMLERİN KAPLANIN AKLINI ÇELMİYOR. SENİN TÜRÜNÜN PENÇELERİNDE TANIK OLDUĞU ÇATIŞMA ONA ÖYLE BİR GÜÇ VERİYOR Kİ KELİMELERİNİN AĞIRLIĞI ÖNEMSİZ KALIYOR. SENİ ÇOK KÖTÜ HIRPALIYOR. TEKRAR DENE?
+corgiquest_a2b = HAVLIYORSUN. GAYET İYİ VE YÜKSEK SESLİ. KAPLAN GEREĞİNDEN FAZLA KORKUYOR VE SENİ OLDUKÇA KÖTÜ HIRPALIYOR. TEKAR DENE?
+corgiquest_a2f = PENÇELERİNİ KULLANARAK KAPLAN İLE DÖVÜŞÜYORSUN. SENİN YETENEĞİNE AŞIK ATAMAZ. KAPLANLARIN TÜRÜ TEHLİKEDE VE ÖYLE OLMAYA DEVAM EDECEKLER. SUÇLARIN İÇİN YARGILANACAKSIN. TEKRAR DENE?
+corgiquest_a6 = ASLINDA DOĞUYA GİDEMEZSİN. KANDIRILDIN.
+corgiquest_a8 = GÜNEYE GİTTİN. GÜNEYDE SIRALI KÖPRÜLER VAR. PRİZMATİK BİR KURT TARAFINDAN KORUNUYORLAR. ÇIKIŞLAR GÜNDEYDE.
 corgiquest_a8l = THERE IS A SET OF BIG GATES. THEY ARE GUARDED BY AN IMPATIENT LOOKING PRISMATIC WOLF. EXITS ARE NORTH, BEARING SLIGHTLY EAST-ISH.
 corgiquest_a8b = YOU BARK. IT IS REALLY QUITE SONOROUS. THE PRISMATIC WOLF RAPIDLY SHIFTS BETWEEN SPECTRUMS VISIBLE AND INVISIBLE. 
 corgiquest_a8b2 = YOU'RE A DOG, SO YOU REALLY ONLY SEE TWO COLOURS IRREGARDLESS, SO WHATEVER I GUESS. IT FLEES AND THE GATES ARE NOW UNGUARDED. IT WOULD PROBABLY COME BACK IF YOU LEFT, THOUGH.
@@ -148,23 +148,23 @@ corgiquest_d0ud2 = IN AN INSTANT, YOU ARE PUSHED DENNISWAYS. YOU ARRIVE IN...
 computergame3 = THANK YOU FOR PLAYING THIS SPECIAL DEMO VERSION OF CORGI QUEST 7 - THE LEASHES THAT BIND.
 computergame4 = CLOSING TEXT-BASED ENTERTAINMENT APPLICATION.
 
-computerearth0 = YOU HAVE SELECTED THE EARTH APPLICATION.
-computerearth1 = EARTH, THE GREATEST MYSTERY OF OUR TIME.
-computerearth2 = MANY ACADEMICS SUBSCRIBE TO THE THEORY THAT EARTH DOES NOT EXIST. THIS THEORY IS SUPPORTED BY THE FACT THAT IT'S REALLY IMPROBABLE, AND THAT'S JUST WHERE SCIENCE IS RIGHT NOW.
-computerearth3 = GIVING FURTHER CREDENCE TO THIS THEORY IS, BY ALL ACCOUNTS, NOBODY CAN CLAIM TO HAVE EVER DISCOVERED EARTH. THERE IS ONLY RECORD OF PEOPLE 'SUPPOSEDLY' BEING BORN THERE, OR BEING TOLD THAT IT IS REAL.
-computerearth4 = THE PREVAILING THEORY IS THAT EARTH IS A MASS SHARED HALLUCINATION, AND THAT WE SHOULD REALLY JUST TAKE THINGS SLOW FOR A WHILE AND CALM DOWN TO SEE IF IT GOES AWAY.
-computerearth5 = CLOSING EARTH APPLICATION.
+computerearth0 = DÜNYA UYGULAMASINI AÇTINIZ.
+computerearth1 = DÜNYA, ZAMANIMIZIN EN BÜYÜK GİZEMİ.
+computerearth2 = ÇOĞU ÖĞRETİM GÖREVLİSİ DÜNYA'NIN VAR OLMADIĞI TEORİSİNİ ONAYLIYOR. BU TEORİ GERÇEKTEN OLASI OLMAMASI İLE DESTEKLENİYOR, VE BİLİMİN ŞU ANKİ DURUMU BU.
+computerearth3 = BU TEORİYE DAHA FAZLA KANIT GEREKİRSE, HERKESE GÖRE, KİMSE DÜNYA'YI KEŞFETTİĞİNİ İDDİA ETMEDİ. SADECE 'SÖYLENDİĞİNE GÖRE' ORADA DOĞAN KİŞİLER VAR, VEYA GERÇEK OLDUĞUNUN SÖYLENDİĞİ.
+computerearth4 = ÜSTÜN GELEN TEORİYE GÖRE DÜNYA DEV KİTLEYE YAYILAN BİR HAYAL, VE BİRAZ SAKİN OLMALIYIZ GİDİP GİTMEYECEĞİNİ GÖRMEK İÇİN.
+computerearth5 = DÜNYA UYGULAMASI KAPATILIYOR.
 
-computerself0 = YOU HAVE SELECTED THE REASSURANCE APPLICATION.
-computerself1 = YOU ARE REALLY LOOKING QUITE NICE TODAY.
-computerself2 = HAVE YOU DONE SOMETHING DIFFERENT WITH YOUR HAIR? YOU'RE LOOKING HEALTHY.
-computerself3 = DON'T FORGET TO CLEAN UP AND KEEP ON TOP OF THINGS. IT CAN BE STRESSFUL IF TASKS PILE UP.
-computerself4 = YOU SHOULD GO OUTSIDE AND GET SOME FRESH AIR, IF YOU CAN. IT'S GOOD TO GET OUTDOORS FOR A WHILE.
-computerself5 = DON'T FORGET TO EAT ENOUGH. TRY NOT TO MISS BREAKFAST, IT'S IMPORTANT.
-computerself6 = IT'S NATURAL TO HAVE FLAWS AND ASPECTS OF YOURSELF YOU AREN'T HAPPY WITH. IT'S OKAY TO WORK ON THEM AT A PACE COMFORTABLE FOR YOU. 
-computerself7 = YOU HAVE VALUE. TAKE CARE OF YOURSELF. BE GOOD TO YOURSELF, AND TO OTHERS.
-computerself8 = CLOSING REASSURANCE APPLICATION.
+computerself0 = GÜVENCE UYGULAMASINI AÇTINIZ.
+computerself1 = BUGÜN GERÇEKTEN GÜZEL GÖRÜNÜYORSUNUZ.
+computerself2 = SAÇINIZA FARKLI BİR ŞEY Mİ YAPTINIZ? SAĞLIKLI GÖRÜNÜYORSUNUZ.
+computerself3 = DÜZENİ UNUTMAYIN VE ÖNCELİKLİ TUTUN. EĞER YAPILACAKLAR ÜST ÜSTE BİNERSE STRESLİ OLABİLİR.
+computerself4 = DIŞARI ÇIKIP TEMİZ HAVA ALMALISINIZ, ALABİLİYORSANIZ. ARA SIRA DIŞARI ÇIKMAK İYİDİR.
+computerself5 = YETERİNCE YEMEYİ UNUTMAYIN. KAHVALTIYI KAÇIRMAMAYA ÇALIŞIN, ÖNEMLİDİR.
+computerself6 = KÖTÜ YANLARINIZIN VE HOŞUNUZA GİTMEYEN ÖZELLİKLERİNİZİN OLMASI NORMALDİR. SİZİN İÇİN RAHAT BİR ŞEKİLDE ONLAR İLE YÜZLEŞMEKTE SORUN YOKTUR. 
+computerself7 = DEĞERLİSİNİZ. KENDİNİZE İYİ BAKIN. KENDİNİZE KARŞI İYİ OLUN, VE DİĞERLERİNE.
+computerself8 = GÜVENCE UYGULAMASI KAPANIYOR.
 
-computersurf0 = YOU HAVE SELECTED THE WEB-SURF APPLICATION.
-computersurf1 = UNFORTUNATELY, THE TIDE IS LOW RIGHT NOW. PLEASE CHECK AGAIN LATER.
-computersurf2 = CLOSING WEB-SURF APPLICATION.
+computersurf0 = İNTERNET-SÖRFÜ UYGULAMASINI AÇTINIZ.
+computersurf1 = NE YAZIK Kİ, DALGALAR ŞU ANDA ALÇAK. LÜTFEN SONRA DENEYİN.
+computersurf2 = İNTERNET-SÖRFÜ UYGULAMASI KAPATILIYOR.
