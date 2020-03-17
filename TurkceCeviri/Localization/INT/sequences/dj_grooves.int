@@ -8,7 +8,7 @@ welcome4 = Harika görünüyorsun, tatlım! Endişelenme, bu film gerçekten kol
 welcome5 = Ve hediyelere dikkat et! Seyirci güzel bir geçit törenine bayılır ve eğer yaklaşırsan sana hediye atar.
 welcome5b = Ve tazelemelere dikkat et! Sahne dışı ekip onları sana doğru atacak, susuz kalmaman için!
 welcome5c = Ve kameralara dikkat et! Ekip senin görüntülerini elinden geldiğince almaya çalışacak, o yüzden mümkün olunca onların yanından geç!
-welcome6 = Geöit töreni biraz sürer; hızlandırmak için bir şey yapamazsın. Yeterli görüntü alınca sana haber vereceğiz. Enerjini kaybetme!
+welcome6 = Geçit töreni biraz sürer; hızlandırmak için bir şey yapamazsın. Yeterli görüntü alınca sana haber vereceğiz. Enerjini kaybetme!
 welcome7 = İyi şanslar, tatlım!
 
 first_intermission0 = Bu filmde ısıyı arttırma zamanı!
@@ -19,32 +19,32 @@ second_intermission0 = Bu filmin daha fazla aksiyona ihtiyacı var! Tatlım, fi�
 third_intermission0 = [icon:timepiece][timepiece]tören sürprizini[/timepiece] ortaya çıkarma vakti![br]Yakala, tatlım!
 
 [deadbird]
-intro0 = Nonsense, darling, nonsense!
-intro1 = You [name]Owl Express birds[/name] are just going to record another boring train-related western! You've done so for the last ten years, darling!
-intro2 = [icon:conductor][name]Conductor[/name], darling, this year we'll be winning the [icon:trophy][trophy]annual bird movie award[/trophy], as our new movie props will bring in the audiences!
-intro3 = These [icon:timepiece][timepiece]shiny things[/timepiece] fell from the sky! They will light our movie sets and fill them with glimmer!
-intro4 = I would never, darling! Clearly you're the one who took inspiration in my flashy new props.
-intro5 = Fine by me, darling. But we'll be the ones who win the [icon:trophy][trophy]annual bird movie award[/trophy], mark my word!
+intro0 = Saçmalık, tatlım, saçmalık!
+intro1 = Siz [name]Baykuş Ekspres kuşları[/name] başka sıkıcı bir tren ile alakalı kovboy filmi çekeceksiniz! Son on yıldır yaptığınız gibi, tatlım!
+intro2 = [icon:conductor][name]Kondüktör[/name], tatlım, bu yıl biz [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanıyor olacağız, çünkü yeni malzememiz seyircileri çekecek!
+intro3 = Bu [icon:timepiece][timepiece]parlayan şeyler[/timepiece] gökyüzünden düştü! Film setlerimiz aydınlatacak ve ışıltı ile dolduracaklar!
+intro4 = Asla yapmazdım, tatlım! Açık şekilde benim yeni parlak malzemelerimden ilham alan sendin.
+intro5 = Bana uyar, tatlım. Ancak [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanan bizler olacağız, buraya yazıyorum!
 
-passport0 = Magnificent! Stunning! This trophy is everything I desire... on the shelf in my living room!
-passport1 = Of course, this big trophy is just a plastic replica! The actual trophy is really tiny!
-passport2 = Oh my! Oh my! What is that I see? Is it true inner beauty? An innocent soul with a heart of gold?
-passport3 = Oh, no. It's just a little girl. Hello!
-passport3b = Oh, no. It's just a little boy. Hello!
-passport4 = Oh wait, you're not a penguin. That's good! I could use some non-penguin company around here, as all my penguins are frankly terrible actors!
-passport5 = Here's the biz: I need your help. I'm on a terrible losing streak, and I just HAVE to win this next [icon:trophy][trophy]annual bird movie award[/trophy].
-passport6 = There's no doubt; I absolutely MUST have you as the star! Here, let me take care of this.
-passport7 = We need to give you a bird passport, darling! Step right over here.
-passport8 = The most important part of a passport is the picture, darling! You have to look flashy and stunning! Step right over here. Let's take the pic.
-passport9 = OK, put on a smile, and stand still, please! Don't move!
-passport10 = Let's see how the picture turned out...
-passport11 = WH-WHA?!
-passport12a = Darling, you're not very photogenic, huh?
-passport12b = Darling, you moved! The picture is ruined! How could you?!
-passport13 = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young lady!
-passport13b = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young boy!
-passport14 = Perfect! Let's slide this picture into your passport, and... here you go! One passport for you!
-passport15 = Wonderful, darling! Just wonderful! Meet me at the movie set tomorrow, and we'll make you a star!
+passport0 = Fevkalade! Hayret verici! Bu kupa benim arzuladığım her şey... oturma odamın rafı için!
+passport1 = Elbette, bu büyük kupa sadece plastik bir taklit! Gerçek kupa oldukça küçük!
+passport2 = Aman! Aman! Gördüğüm de ne? Gerçek içsel güzellik mi? Altından kalbi olan masum bir ruh?
+passport3 = Oh, hayır. Sadece küçük bir çocuk. Merhaba!
+passport3b = Oh, hayır. Sadece küçük bir oğlan. Merhaba!
+passport4 = Oh bekle, sen penguen değilsin. Bu güzel! Buralarda penguen olmayan destek işe yarayabilir, çünkü bütün penguenlerim berbat oyuncular!
+passport5 = Olay şu: Yardımına ihtiyacım var. Rezil bir kaybetme sürecindeyim, ve bu sıradaki [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanmam LAZIM.
+passport6 = Şüphe yok; Yıldız sen OLMALISIN! İşte, şunun icabına bakayım.
+passport7 = Sana bir kuş geçiş belgesi vermeliyiz, tatlım! Şuraya geç.
+passport8 = Bir geçiş belgesinin en önemli kısmı fotoğraftır, tatlım! Parlak ve etkileyici görünmelisin! Hemen şuraya geç. Haydi fotoğrafı çekelim.
+passport9 = Tamam, gülümse ve kımıldama, lütfen! Hareket etme!
+passport10 = Bakalım fotoğraf nasıl çıktı...
+passport11 = N-NE?!
+passport12a = Tatlım, pek fotojenik değilsin, ha?
+passport12b = Tatlım, hareket ettin! Fotoğraf mahfoldu! Nasıl yaparsın bunu?!
+passport13 = Bu çirkin sabıka fotoğrafını eski tür fotoğraf doktorluğu ile düzeltmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç bayana çevir!
+passport13b = Bu çirkin sabıka fotoğrafını eski tür fotoğraf doktorluğu ile düzeltmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç oğlana çevir!
+passport14 = Mükemmel! Haydi bu fotoğrafı geçiş belgene koyalım, ve... işte! Bir geçiş belgesi!
+passport15 = Şahane, tatlım! Sadece şahane! Yarın benimle film stüdyosunda buluş, ve seni bir yıldıza dönüştürelim!
 
 [award]
 intro0 = Thank you darling, thank you![br]You secured our victory! We won the [icon:trophy][trophy]annual bird award trophy[/trophy]!
@@ -113,8 +113,8 @@ Endorsement_Alley1 = Danger is her middle name, and she's not afraid to step out
 Ending0 = The audience is going crazy, darling! Come over here and show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
 
 [finale]
-outside0 = Good to see you, darling! Nice to know I'm not the only super-star waiting around this tawdry place.
-outside1 = Slide on up past those doors and find out who's calling the shots, won't you?
+outside0 = Seni gördüğüme sevindim, tatlım! Bu rüküş yerdeki tek süper yıldız olmadığımı bilmek güzel.
+outside1 = Şu kapıdan içeri kayıver ve bunun kimin işi olduğunu öğren, olur mu?
 
 [ending]
-hang0 = Let's watch our movie, darling!
+hang0 = Haydi filmimizi izleyelim, tatlım!
