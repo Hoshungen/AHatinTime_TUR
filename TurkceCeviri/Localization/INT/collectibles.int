@@ -37,9 +37,10 @@ StatueFallName = Buz Şapkası
 StatueFallFun0 = Buz gibi!
 StatueFallTech0 = Buz kütlesi oluşturmak için [button:badge] basılı tut!
 
-HoverName = Floating Şapkası
-HoverDescFun0 = Float away from a sticky situation!
-/Olmadık bir durumdan 
+HoverName = Süzülme Şapkası
+//Oyun içi test
+HoverDescFun0 = Zor durumdan süzülerek kaç!
+/Olmadık bir durumdan
 HoverDescTech0 = Press and hold [button:badge] to float for a bit!
 //OYUN İÇİ TEST EDİLMELİ
 
@@ -136,7 +137,7 @@ RetroHandheldBadgeDesc0 = Ünlü 2-boyutlu aksiyon!
 //HATALI
 
 RedtroVRBadgeName = REDtro VR Badge
-RedtroVRBadgeDesc0 = Gözlerim acıdı.
+RedtroVRBadgeDesc0 = Gözlerim acıyor.
 
 [loot]
 BirdPassportName = Kuşların Federal Birlik Pasaportu
@@ -185,7 +186,7 @@ GreenGoldName = The Forest Critter
 LiquoriceName = Liquorice
 MintyName = Nane Ferahlığı
 CookieDoughSkinName = Kurabiye Hamuru
-80sCandy = 80s Candy
+80sCandy = 80ler Şekeri
 
 Cardboard = Karton
 RaincoatName = Yağmurluk
@@ -210,15 +211,14 @@ WireframeShop = Bitirilmemiş gibi duruyor ama bugünlerde moda!
 
 BeeSkinName = Çalışkan Arı
 FlamesSkinName = Ele Alınması Güç
-PizzaSkinName = Pizza Time
+PizzaSkinName = Pizza Zamanı
 AnarchySkinName = Anarşi
 BattlementsSkinName = Siperler
-FortressSkinName = İstikham
+FortressSkinName = Korunak
 CherrySkinName = Çilekli Soda
 CitrusSkinName = Turunçgiller
 CoffeeCreamSkinName = Kahve Kreması
 DignifiedSkinName = Asil
-//Saygın, asil
 EdgySkinName = Bleeding Edge
 GreenBeanSkinName = Yeşil Fasulye
 HamburgerSkinName = Hamburger
@@ -226,7 +226,8 @@ MilkyWaySkinName = Samanyolu
 MixedBerriesSkinName = Karışık Meyveler
 PlumSkinName = Plum
 RibbitSkinName = Ribbit
-ObnoxiousSkinName = Obnoxious
+ObnoxiousSkinName = Uygunsuz
+//KONTROL
 JusticeSkinName = Adalet
 
 [remixes]
@@ -255,7 +256,7 @@ ActionBlueName = Action Blue
 DreamyName = Dreamy
 SunriseName = 80ler
 VibrantName = Canlı
-GirlyThingsName = Just Girly Things
+GirlyThingsName = Sadece Kızımsı Şeyler
 VintageName = Klasik
 Vintage2Name = Klasik 2
 NoirName = Noir
@@ -379,11 +380,10 @@ CookiesName = Kurabiyeler
 CookiesDesc = Hafif pişirilmiş bisküviler, genellikle çikolata kaplıdır, üzümle, ya da başka şeylerle. Atıştırmak için harikadır ve ayrıca kırıntılarını her yere dökmek için de.
 
 JuiceBoxName = Meyve Suyu
-JuiceBoxDesc = Meyveyi sıkmışlar ve kutuya koymuşlar. Kaliteli nektar bol topak topak posa içerir, showing the hypocrisy in mankind's unwillingness to drink spoiled milk.
+JuiceBoxDesc = Meyveyi sıkmışlar ve kutuya koymuşlar. Kaliteli nektar bol topak topak posa içerir, insanlığın bozuk süt içmeye razı olmamasını gösteren riyakarlığıdır.
 //[[showing the hypocrisy]] [[in [[mankind's unwillingness [to drink] spoiled milk]].
 //insanlığın riyakarlığını bozuk süt içme isteksizliğini gösteren.
 //insanlığın bozuk süt içme riyakarlığını gösteren.
-//İnsanlığın bozuk süt içmeye razı olmamasını gösteren riyakarlık.""
 //içmek istememesi
 ^HATALI
 
