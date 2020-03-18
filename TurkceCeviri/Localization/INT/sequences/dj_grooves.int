@@ -1,20 +1,21 @@
 [parade]
-welcome0 = Merhaba, tatlım! Hayatında göreceğin en büyük stüdyo setine hoş geldin!
+welcome0 = Merhaba, tatlım! Hayatında göreceğin en büyük stüdyosuna hoş geldin!
 welcome1 = [hint]Büyük Geçit Töreni'ni[/hint] çekmek üzereyiz, dünya çapında seyircilerin nefeslerine kesecek olan film! Sen yıldızı olacaksın, her zamanki gibi!
-welcome2 = Bu film için [icon:timepiece][timepiece]özel malzememizi[/timepiece] kullanmamız gerekecek! En sonda ortaya çıkacak!
-welcome3 = Ama bekle, tatlım! Şu anki kıyafetin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
+welcome2 = Bu film için [icon:timepiece][timepiece]özel butafor[/timepiece]umuzu kullanmamız gerekecek! En sonda ortaya çıkacak!
+welcome3 = Ama bekle, tatlım! Şu anki giysin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
 welcome3b = Şu anki kıyafetin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
-welcome4 = Harika görünüyorsun, tatlım! Endişelenme, bu film gerçekten kolay. Etrafta dolaşmaya devam edeceksin ve takım arkandan gelecek! Onlara çarpma yeter!
+welcome4 = Harika görünüyorsun, tatlım! Endişelenme, bu film gerçekten kolay. Etrafta dolaşmaya devam et ve bando seni takip edecek! Onlara çarpma yeter!
+//Önlerine çıkma yeter
 welcome5 = Ve hediyelere dikkat et! Seyirci güzel bir geçit törenine bayılır ve eğer yaklaşırsan sana hediye atar.
 welcome5b = Ve tazelemelere dikkat et! Sahne dışı ekip onları sana doğru atacak, susuz kalmaman için!
 welcome5c = Ve kameralara dikkat et! Ekip senin görüntülerini elinden geldiğince almaya çalışacak, o yüzden mümkün olunca onların yanından geç!
-welcome6 = Geçit töreni biraz sürer; hızlandırmak için bir şey yapamazsın. Yeterli görüntü alınca sana haber vereceğiz. Enerjini kaybetme!
+welcome6 = Geçit töreni uzun sürer; hızlandırmak için bir şey yapamazsın. Yeterli görüntü alınca sana haber vereceğiz. Enerjini kaybetme!
 welcome7 = İyi şanslar, tatlım!
 
-first_intermission0 = Bu filmde ısıyı arttırma zamanı!
-first_intermission1 = Tatlım, piroteknikleri açabilir misin?
+first_intermission0 = Bu filmdeki aksiyonu arttırma zamanı!
+first_intermission1 = Tatlım, havai fişekleri açabilir misin?
 
-second_intermission0 = Bu filmin daha fazla aksiyona ihtiyacı var! Tatlım, fişek toplarını çıkar[br]büyük fişek gösterisi için!
+second_intermission0 = Bu filmin daha fazla aksiyona ihtiyacı var! Tatlım, havai fişek toplarını çıkar[br]büyük fişek gösterisi için!
 
 third_intermission0 = [icon:timepiece][timepiece]tören sürprizini[/timepiece] ortaya çıkarma vakti![br]Yakala, tatlım!
 
@@ -22,50 +23,55 @@ third_intermission0 = [icon:timepiece][timepiece]tören sürprizini[/timepiece] 
 intro0 = Saçmalık, tatlım, saçmalık!
 intro1 = Siz [name]Baykuş Ekspres kuşları[/name] başka sıkıcı bir tren ile alakalı kovboy filmi çekeceksiniz! Son on yıldır yaptığınız gibi, tatlım!
 intro2 = [icon:conductor][name]Kondüktör[/name], tatlım, bu yıl biz [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanıyor olacağız, çünkü yeni malzememiz seyircileri çekecek!
-intro3 = Bu [icon:timepiece][timepiece]parlayan şeyler[/timepiece] gökyüzünden düştü! Film setlerimiz aydınlatacak ve ışıltı ile dolduracaklar!
+intro3 = Bu [icon:timepiece][timepiece]parlayan şeyler[/timepiece] gökyüzünden düştü! Film setimizi aydınlatacak ve ışıltı ile dolduracaklar!
 intro4 = Asla yapmazdım, tatlım! Açık şekilde benim yeni parlak malzemelerimden ilham alan sendin.
 intro5 = Bana uyar, tatlım. Ancak [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanan bizler olacağız, buraya yazıyorum!
 
-passport0 = Fevkalade! Hayret verici! Bu kupa benim arzuladığım her şey... oturma odamın rafı için!
-passport1 = Elbette, bu büyük kupa sadece plastik bir taklit! Gerçek kupa oldukça küçük!
+passport0 = Fevkalade! Çarpıcı! Bu kupa benim arzuladığım her şey... oturma odamın rafı için!
+//istediğim her şey...
+passport1 = Elbette, bu büyük kupa sadece plastik bir imitasyon! Gerçek kupa oldukça küçük!
 passport2 = Aman! Aman! Gördüğüm de ne? Gerçek içsel güzellik mi? Altından kalbi olan masum bir ruh?
 passport3 = Oh, hayır. Sadece küçük bir çocuk. Merhaba!
 passport3b = Oh, hayır. Sadece küçük bir oğlan. Merhaba!
+//özellikle belirtmeye gerek yok, öneriler?
 passport4 = Oh bekle, sen penguen değilsin. Bu güzel! Buralarda penguen olmayan destek işe yarayabilir, çünkü bütün penguenlerim berbat oyuncular!
 passport5 = Olay şu: Yardımına ihtiyacım var. Rezil bir kaybetme sürecindeyim, ve bu sıradaki [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanmam LAZIM.
-passport6 = Şüphe yok; Yıldız sen OLMALISIN! İşte, şunun icabına bakayım.
-passport7 = Sana bir kuş geçiş belgesi vermeliyiz, tatlım! Şuraya geç.
-passport8 = Bir geçiş belgesinin en önemli kısmı fotoğraftır, tatlım! Parlak ve etkileyici görünmelisin! Hemen şuraya geç. Haydi fotoğrafı çekelim.
-passport9 = Tamam, gülümse ve kımıldama, lütfen! Hareket etme!
+passport6 = Şüphesiz ki; Yıldız sen OLMALISIN! İşte, şunun icabına bakayım.
+//Şüphe yok->Şüphesiz ki
+passport7 = Sana bir kuş pasaportu vermeliyiz, tatlım! Şuraya geç.
+passport8 = Bir pasaportun en önemli kısmı fotoğraftır, tatlım! Parlak ve etkileyici görünmelisin! Hemen şuraya geç. Haydi foto çekelim.
+passport9 = TAMAM, gülümse ve kımıldama, lütfen! Hareket etme!
 passport10 = Bakalım fotoğraf nasıl çıktı...
 passport11 = N-NE?!
 passport12a = Tatlım, pek fotojenik değilsin, ha?
 passport12b = Tatlım, hareket ettin! Fotoğraf mahfoldu! Nasıl yaparsın bunu?!
-passport13 = Bu çirkin sabıka fotoğrafını eski tür fotoğraf doktorluğu ile düzeltmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç bayana çevir!
+passport13 = Bu çirkin sabıka fotoğrafını eski tür fotoğraf düzenlemesiyle ile dönüştürmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç bayana çevir!
 passport13b = Bu çirkin sabıka fotoğrafını eski tür fotoğraf doktorluğu ile düzeltmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç oğlana çevir!
-passport14 = Mükemmel! Haydi bu fotoğrafı geçiş belgene koyalım, ve... işte! Bir geçiş belgesi!
+passport14 = Mükemmel! Haydi bu fotoğrafı pasaportuna koyalım, ve... işte! Seni için bir pasaport!
 passport15 = Şahane, tatlım! Sadece şahane! Yarın benimle film stüdyosunda buluş, ve seni bir yıldıza dönüştürelim!
 
 [award]
-intro0 = Thank you darling, thank you![br]You secured our victory! We won the [icon:trophy][trophy]annual bird award trophy[/trophy]!
-intro1 = The [icon:conductor][name]Conductor[/name] is probably awfully sour from his second loss ever, but don't worry, he'll come around.
-intro2 = Anyway, we're all done here! No more movies until next year. Since you're so eager to get your hands on them, you can take my final [icon:timepiece][timepiece]movie prop[/timepiece] as your last movie star payment.
-intro3 = What, you were expecting something crazy to happen?[br]Nonsense, darling, nonsense!
+intro0 = Teşekkürler tatlım, teşekkürler![br]Zaferimizi garantiledin! Biz [icon:trophy][trophy]
+yıllık kuş ödülünü[/trophy] kazandık!
+intro1 = [icon:conductor][name]Kondüktör[/name] belki hayatındaki ikinci kaybına çok bozulmuştur, ama endişelenme, o kendine gelecektir.
+intro2 = Neyse, we're all done here! Sonraki yıla kadar yeni film yok. Since you're so eager to get your hands on them, you can take my final [icon:timepiece][timepiece]film butaforu[/timepiece] as your last movie star payment.
+intro3 = Ne, çılgınca bir şeylerin olacağını mı bekliyordun?[br]Saçmalık, tatlım, saçmalık!
 
 [BossBattle]
-SupportNotice0 = Darling! Darling!
-SupportNotice1 = Hang in there,[br]I'll find a way to[br]defuse the bomb!
-SupportNotice2 = My defuser is[br]ready, come here!
+SupportNotice0 = Sık dişini,[br]Bombayı bozmanın[br]bir yolunu bulacağım!!
+SupportNotice2 = Bozucum hazır,[br] buraya gel!
 
-hth_intro0 = Let's have a little heart-to-heart. Have a seat, darling.
-hth_intro1 = Ever since you arrived on this planet, these [icon:timepiece][timepiece]Time Pieces[/timepiece] have fallen from the sky.
-hth_intro2 = Now, I can understand if you feel they belong to you, darling. I understand. But did you know they allow for rewinding time?
+hth_intro0 = Let's have a little heart-to-heart. Otur, tatlım.
+//......... biraz dostça/samimiyetle/can cana konuşalım
+
+hth_intro1 = Sen bu gezegene geldiğinden beri, bu [icon:timepiece][timepiece]Zaman Parçaları[/timepiece] gökyüzünden düşüyor.
+hth_intro2 = Now, I can understand if you feel they belong to you, darling. Anladım. Ama zamanı geriye sarabileceğını biliyor muydun?
 hth_intro3 = With one [icon:timepiece][timepiece]Time Piece[/timepiece], I could reclaim all the trophies that belong to me, darling. Every single trophy I've lost to the [icon:conductor][name]Conductor[/name], where he has cheated his way to victory.
-hth_intro4 = I can't prove it, darling, but I'm certain the [icon:conductor][name]Conductor[/name] has been manipulating everything to make sure I never win.
+hth_intro4 = Kanıtlayamam, tatlım, ama I'm certain the [icon:conductor][name]Kondüktör[/name] has been manipulating everything to make sure I never win.
 hth_intro5 = I need just one [icon:timepiece][timepiece]Time Piece[/timepiece] to fix years of cheating and fraud. Can't you spare me just [hint]one Time Piece[/hint], darling?
-hth_intro5_yes = Maybe?
-hth_intro5_no = Nope!
-hth_intro6a = Thank you, darling! You won't regret it! We'll fix years of fraud and cheating, and go back to the [icon:trophy][trophy]annual bird movie awards[/trophy] being honest and upstanding!
+hth_intro5_yes = Belki?
+hth_intro5_no = Hayur!
+hth_intro6a = Teşekkürler, tatlım! Pişman olmayacaksın! We'll fix years of fraud and cheating, and go back to the [icon:trophy][trophy]annual bird movie awards[/trophy] being honest and upstanding!
 hth_intro7a = Unfortunately... I can't have you leave this room, darling. I can't risk word getting out. The [icon:conductor][name]Conductor[/name] will throw a hissy fit like never seen before!
 hth_intro8a = It was nice knowing you, darling. Goodbye!
 hth_intro6b = Darling, darling, darling. You're so persistently selfish. I've brought you to stardom, and all I ask in return is a single [icon:timepiece][timepiece]Time Piece[/timepiece]... but you won't share?
@@ -86,7 +92,7 @@ Endorsement_Generic1 = All you penguins out there know my name... [name]DJ Groov
 Endorsement_Generic2 = Make sure you join her fanclub! DJ Grooves... out!
 
 Endorsement_Statue0 = Just look, as she'll climb up this statue and rescue the poor puppy that has gotten stuck! Right, darling?
-Endorsement_Statue1 = Look at that! She helped the puppy down, safe and sound! Too bad it ran off, and definitely didn't break into multiple pieces.
+Endorsement_Statue1 = Şuna bakın! O köpekciği kurtardı, sağ salim! Too bad it ran off, and definitely didn't break into multiple pieces.
 Endorsement_Statue2 = This is truly a diva I can get behind. Let it be known that this lil' girl is all about animals!
 
 Endorsement_Poker0 = Watch as she beats these hard-boiled card players at their own game... on her first try!
@@ -96,21 +102,21 @@ Endorsement_Poker3 = Aww, too bad, darling! The answer was [hint]3[/hint]! Folks
 
 Endorsement_Cooking0 = Now, darling, I have to mention this. Cooking show hosts have a terrible track record of getting angry and swearing on-screen. Try not to use the P-word, OK? Don't say p-e-c-k.
 Endorsement_Cooking1 = The [icon:conductor][name]Conductor[/name] is old-fashioned. He throws that word around a lot. It'll get him in trouble some day! Until then, let's keep our show clean.
-Endorsement_Cooking2 = Hello viewers! Even the biggest celebrities have to eat, and I've got with me the biggest celebrity of them all.
+Endorsement_Cooking2 = Selam seyirciler! Even the biggest celebrities have to eat, and I've got with me the biggest celebrity of them all.
 Endorsement_Cooking3 = Now tell us darling, what kind of condiment do you like on your tuna sandwiches?
 Endorsement_Cooking3_a = Ranch
 Endorsement_Cooking3_b = Ketchup
 Endorsement_Cooking3_c = Mayo
 Endorsement_Cooking3_d = PECK
 Endorsement_Cooking4 = Amazing! I bet that eating tuna sandwiches like that is probably how she keeps her slim figure! Take note, penguin viewers!
-Endorsement_Cooking5 = [scream][big]DARLING![/big][/scream]
+Endorsement_Cooking5 = [scream][big]TATLIM![/big][/scream]
 Endorsement_Cooking6 = I-I mean... fellow viewers! Look at the mouth on this young girl. She's really something.
 Endorsement_Cooking7 = [small]Now shoo, get out of this endorsement as soon as you can,[br]before the old penguins watching TV notice what just happened.[/small]
 
 Endorsement_Alley0 = Look at how street-smart this diva is. She's standing in this sinister alleyway, right next to some potential wrongdoers!
 Endorsement_Alley1 = Danger is her middle name, and she's not afraid to step outside of her comfort zone!
 
-Ending0 = The audience is going crazy, darling! Come over here and show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
+Ending0 = Seyirci çılgına dönecek, tatlım! Buraya gel ve show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
 
 [finale]
 outside0 = Seni gördüğüme sevindim, tatlım! Bu rüküş yerdeki tek süper yıldız olmadığımı bilmek güzel.
