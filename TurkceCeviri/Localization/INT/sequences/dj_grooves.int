@@ -1,5 +1,5 @@
 [parade]
-welcome0 = Merhaba, tatlım! Hayatında göreceğin en büyük stüdyosuna hoş geldin!
+welcome0 = Merhaba, tatlım! Hayatında göreceğin en büyük stüdyo setine hoş geldin!
 welcome1 = [hint]Büyük Geçit Töreni'ni[/hint] çekmek üzereyiz, dünya çapında seyircilerin nefeslerine kesecek olan film! Sen yıldızı olacaksın, her zamanki gibi!
 welcome2 = Bu film için [icon:timepiece][timepiece]özel butafor[/timepiece]umuzu kullanmamız gerekecek! En sonda ortaya çıkacak!
 welcome3 = Ama bekle, tatlım! Şu anki giysin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
@@ -83,7 +83,7 @@ Intro1 = This last [icon:timepiece][timepiece]Time Piece[/timepiece] is all for 
 
 
 [PicturePerfect]
-Intro0 = Welcome to the first day of shooting, darling!
+Intro0 = Çekimlerin ilk gününe hoşgeldin, tatlım!
 Intro1 = We need to transform you into the biggest movie star the bird world has ever seen! You need to become... a diva!
 Intro2 = That's why I've called for a press conference here on our moon set. You need to get out there in front of the cameras, and electrify the public, darling! Get 'em really up and going for your movies!
 Intro3 = Once you've got them going crazy, come back here and we'll show off our new prop! That's right, we'll unveil our new [icon:timepiece][timepiece]movie prop[/timepiece] to the masses!
