@@ -1,28 +1,29 @@
 [internal]
-yes = Heck yeah!
-no = Nooo!
+yes = Evvveeet!
+no = Hayıır!
 
-desksealA10 = Hi! How can I hewp you?
-desksealA11 = Youw looking fow something that looks like [icon:timepiece]?
-desksealA12 = Hmmm... whewe have I seen that...
-desksealA13 = Thinking vewy hawd...
-desksealA14 = Oh! I wemember! We bwoke one of those and hid it fwom the Captain! He wouldn't be happy if he knew we made a mess.
-desksealA15 = We twied to cwean it up, but. Um. We didn't do a vewy good job... and we wost some of the pieces...
-desksealA16 = I'm vewy sowwy, miss! Pwease don't be upset!
+desksealA10 = Merhaba! Size nasıl yağrdımcı olabilirim?
+desksealA11 = Bunun gibi [icon:timepiece] biğr şeye mi bakıyodunuz??
+desksealA12 = Hmmm... biz onu gördük...
+desksealA13 = Düşünmek çoğk zoğr...
+desksealA14 = Oh! Hatırladım! Biz Kaptandan saklarken bunlardan birisini kırmıştık! [br]Oğrtalığı batırdığımızı bilseydi çok mutlu olmazdı.
+desksealA15 = Biz demizlemeyi denedik, ama. Um. Hm. Çoğk iyi bir iş çıkartamadık... ve bazı parçalarını kaybettik...
+desksealA16 = Ben çoğk üzgünüm, hanfendi! Lütfen çok üzülmeyin!
 
-smash0 = Hmm... this damage is serious. It's in more pieces than one, which is terrible.
+smash0 = Hmm... bu hasar ciddi. It's in more pieces than one, which is terrible.
 smash1 = Maybe you could stick it all back together if you find the [hint]missing shards[/hint].
-smash2 = It looks like there's one in every room...
+smash2 = Her odada bri parçası var gibi görünüyor...
 
-captainAttention0 = Attention... this is your Captain speaking.
-speaker0 = Is this thing turned on? Ahem...
-speaker1 = All passengers, please check in at the lobby desk! I'll be on board shortly...
-speaker2 = Attention, passengers. And 'crew'.
-speaker3 = The ship is now leaving. Please try not to fall off.
-speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
+captainAttention0 = Dikkat... Kaptanınız konuşuyor
+speaker0 = Bu şey açık mı? Öhöm...
+speaker1 = Tüm yolcular, lütfen resepsiyondan kayıt yaptırın! Birazdan güvertede olacağım...
+speaker2 = Dikkat, yolcular. Ve 'mürettebat'.
+speaker3 = Gemi ayrılıyor. Lütfen düşmeyin.
+speaker4 = [wave]Ding! Dong! Ding! Dong![/wave]
 
 checkin0 = You're all checked in!
 checkin1 = Now to track down that timepiece...
+Zaman parçasının izini takip etme zamanı
 
 washingmachine0 = Someone started the wash cycle without any detergent! You'd better dunk some in there.
 washingmachine1 = There was a timepiece shard in with the clothes!
@@ -46,19 +47,20 @@ slotmachine0 = You're getting really good vibes from this machine! You need some
 slotmachine1 = You're feeling lucky...
 slotmachine2 = There was a shard stuck in the machine!
 
-captain0 = I'm busy, pup. This ship doesn't steer itself.
-captain1 = I said I'm busy, pup.
-captain2 = Don't you have anything better to do? 
-captain3 = They don't pay me enough for this...
+captain0 = Meşgulüm, pup. Bu gemi kendini sürmüyor.
+captain1 = Meşgulüm dedim, pup.
+captain2 = Yapacak daha iyi bir şeyin yok mu? 
+captain3 = Bana bunun için yeterince ödeme yapmıyorlar...
 
 mafia0 = Mafia used to shipping containers and fish, not luxury cabins. Tickets definitely worth entire life savings.
 mafia1 = Is nice to take vacation. See people that are not other Mafia. Too many of those at home.
 
-mafiaboss0 = [scream]Agh![/scream] These annoying little seals are driving me mad.  
-mafiaboss1 = At least you, rude child, have the good grace to keep quiet.
+mafiaboss0 = [scream]Agh![/scream] Bu sinir bozucu küçük foklar beni deli ediyor.  
+mafiaboss1 = En azından sen, kaba çocuk, iyi ki sessiz kalma zerafetine sahipsin.
 
-seals0 = Hewwo, miss! We hope you like the ship! We wowk hawd to keep it cwean and tidy.
-seals1 = E-excwuse me! No wunning by the pool, pwease and thanks!
+
+seals0 = Mehhaba, hanfendi! Umarım gemiyi beğenmişsinizdir! We wowk hawd to keep it cwean and tidy.
+seals1 = Ö-Öğzür dileğrim! No wunning by the pool, pwease and thanks!
 seals2 = Hi! Would you like two bwuy a pool twoy?
 seals3 = We have awl kwinds of shapes and sizes! And they fwoat!
 seals4 = Wewcome, ma'am. I don't think we have any tables fow one wight now...
