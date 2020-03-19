@@ -1,3 +1,5 @@
+//19/03//2020 - %95
+
 [parade]
 welcome0 = Merhaba, tatlım! Hayatında göreceğin en büyük stüdyo setine hoş geldin!
 welcome1 = [hint]Büyük Geçit Töreni'ni[/hint] çekmek üzereyiz, dünya çapında seyircilerin nefeslerine kesecek olan film! Sen yıldızı olacaksın, her zamanki gibi!
@@ -44,7 +46,7 @@ passport9 = TAMAM, gülümse ve kımıldama, lütfen! Hareket etme!
 passport10 = Bakalım fotoğraf nasıl çıktı...
 passport11 = N-NE?!
 passport12a = Tatlım, pek fotojenik değilsin, ha?
-passport12b = Tatlım, hareket ettin! Fotoğraf mahfoldu! Nasıl yaparsın bunu?!
+passport12b = Tatlım, hareket ettin! Fotoğraf mahvoldu! Nasıl yaparsın bunu?!
 passport13 = Bu çirkin sabıka fotoğrafını eski tür fotoğraf düzenlemesiyle ile dönüştürmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç bayana çevir!
 passport13b = Bu çirkin sabıka fotoğrafını eski tür fotoğraf doktorluğu ile düzeltmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç oğlana çevir!
 passport14 = Mükemmel! Haydi bu fotoğrafı pasaportuna koyalım, ve... işte! Seni için bir pasaport!
@@ -54,69 +56,85 @@ passport15 = Şahane, tatlım! Sadece şahane! Yarın benimle film stüdyosunda 
 intro0 = Teşekkürler tatlım, teşekkürler![br]Zaferimizi garantiledin! Biz [icon:trophy][trophy]
 yıllık kuş ödülünü[/trophy] kazandık!
 intro1 = [icon:conductor][name]Kondüktör[/name] belki hayatındaki ikinci kaybına çok bozulmuştur, ama endişelenme, o kendine gelecektir.
-intro2 = Neyse, we're all done here! Sonraki yıla kadar yeni film yok. Since you're so eager to get your hands on them, you can take my final [icon:timepiece][timepiece]film butaforu[/timepiece] as your last movie star payment.
+intro2 = Neyse, işimiz bununla bitti! Sonraki yıla kadar yeni film yok. Onları eline almayı çok heveslendiğinden beri, benim son [icon:timepiece][timepiece]film butaforu[/timepiece]mu son film yıldızı olarak ödemeni alabilirsin.
 intro3 = Ne, çılgınca bir şeylerin olacağını mı bekliyordun?[br]Saçmalık, tatlım, saçmalık!
 
 [BossBattle]
 SupportNotice0 = Sık dişini,[br]bombayı imha etmenin[br]bir yolunu bulacağım!!
 SupportNotice2 = İmha edicim hazır,[br] buraya gel!
 
-hth_intro0 = Haydi biraz samimi konuşalım. Otur, tatlım.
-//......... biraz dostça/samimiyetle/can cana konuşalım
+hth_intro0 = Haydi bunu biraz samimiyetle konuşalım. Otur, tatlım.
 
 hth_intro1 = Sen bu gezegene geldiğinden beri, bu [icon:timepiece][timepiece]Zaman Parçaları[/timepiece] gökyüzünden düşüyor.
 hth_intro2 = Şimdi, eğer sana aitlermiş gibi geliyorlarsa anlayabilirim, tatlım. Anladım. Ama zamanı geriye sarabileceğını biliyor muydun?
 hth_intro3 = Bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece]ile, bana ait olan her ödüle yeniden sahip olabilirim, tatlım. [icon:conductor][name]Kondüktöre[/name], ki onun hile ile kazandığı, kaybettiğim her bir ödülü.
 hth_intro4 = Kanıtlayamam, tatlım, ama eminim ki [icon:conductor][name]Kondüktör[/name] her şeyi kontrol ediyordu ki ben kazanamayım.
-hth_intro5 = Sadece bir [icon:timepiece][timepiece]Zaman Parçası'na[/timepiece] ihtiyacım var yılların hile ve dolandırıcılığını düzeltmek için. Bana sadece [hint]bir Zaman Parçası[/hint] bağışlayamaz mısın, tatlım?
+hth_intro5 = Sadece bir [icon:timepiece][timepiece]Zaman Parçasına[/timepiece] ihtiyacım var yılların hile ve dolandırıcılığını düzeltmek için. Bana sadece [hint]bir Zaman Parçası[/hint] bağışlayamaz mısın, tatlım?
 hth_intro5_yes = Belki?
 hth_intro5_no = Hayır!
 hth_intro6a = Teşekkürler, tatlım! Pişman olmayacaksın! Yılların hile ve sahtekarlığını çözeceğiz, ve [icon:trophy][trophy]yıllık kuş film ödüllerine[/trophy] dürüst ve dimdik olarak gideceğiz!
-hth_intro7a = Ne yazık ki... Bu odadan çıkmana izin veremem, tatlım. Sözün dışarı kaçmasına izin veremem. [icon:conductor][name]Kondüktör[/name] hiç görülmemiş bir öfke nöbeti geçirir yoksa!
+hth_intro7a = Ne yazık ki... Bu odadan çıkmana izin veremem, tatlım. Sözün dışarı çıkmasına izin veremem. [icon:conductor][name]Kondüktör[/name] hiç görülmemiş bir öfke nöbeti geçirir yoksa!
 hth_intro8a = Seni tanımak güzeldi, tatlım. Elveda!
-hth_intro6b = Tatlım, tatlım, tatlım. Çok inatla bencil oluyorsun. Seni yıldızlık katına çıkardım, ve karşılığında tek istediğim tek bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece]... ama paylaşmayacaksın?
-hth_intro7b = Peki, tatlım, eğer bu [icon:timepiece][timepiece]Zaman Parçası'nı[/timepiece] bu kadar çok istiyorsan, gel de al!
+hth_intro6b = Tatlım, tatlım, tatlım. İnatla bencil oluyorsun. Seni yıldızlık katına çıkardım, ve karşılığında tek istediğim tek bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece]... ama paylaşmayacaksın?
+hth_intro7b = Peki, tatlım, eğer bu [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] bu kadar çok istiyorsan, gel de al!
 hth_intro9 = Bu bombayı hatırladın mı, tatlım? Bunu [icon:conductor][name]Kondüktör[/name]'ün film setinden çaldım, ve şimdi o senin çöküşün olacak!
 
 Intro0 = Bakın burada kim varmış, tatlım! Sanırım küçük sırrımı buldun, ha?
-Intro1 = Bu son [icon:timepiece][timepiece]Zaman Parçası[/timepiece] tamamıyla benim, tatlım. Eğer istiyorsan, pekala, sanırım sadece gelip alman lazım.
-
+Intro1 = Bu son [icon:timepiece][timepiece]Zaman Parçası[/timepiece] tamamen benim, tatlım. Eğer istiyorsan, pekala, sanırım sadece gelip alman lazım.
 
 [PicturePerfect]
 Intro0 = Çekimlerin ilk gününe hoşgeldin, tatlım!
-Intro1 = Seni kuş dünyasının gördüğü en büyük film yıldızına çevirmeliyiz! Bir... diva olmalısın!
-Intro2 = Bu yüzden ay setimizde bir basın toplantısı hazırladım. Kameraların önün çıkmalı ve toplumu şok etmelisin, tatlım! Filmlerine gelmelerini sağla!
-Intro3 = Onları deliye döndürmen bitince, buraya geri dön ve biz de yeni malzememizi gösterelim! Doğru duydun, yeni [icon:timepiece][timepiece]film malzememizi[/timepiece] topluluğa sunacağız!
-Endorsement_Generic0 = Beni mi aradın, tatlım? Görünüşe göre destek zamanı!
-Endorsement_Generic1 = Siz penguenler adımı biliyorsunuz... [name]DJ Grooves[/name]![br]Ve size diyorum, bu yanımdaki genç bayan en yeni moda. Garanti!
-Endorsement_Generic2 = Hayran kulübüne katıldığınza emin olun! DJ Grooves... kaçar!
+Intro1 = Seni kuş dünyasının görebileceği en büyük film yıldızına çevirmeliyiz! Sen bir... diva olmalısın!
+Intro2 = Bu yüzden ay setimizde bir basın toplantısı hazırladım. Kameraların önüne çıkmalı ve toplumu şoke etmelisin, tatlım! Filmlerine gelmelerini sağla!
+Intro3 = Onları deliye döndürmen bitince, buraya geri dön ve biz de yeni butaforumuzu gösterelim! Doğru duydun, yeni [icon:timepiece][timepiece]film butaforumuzu[/timepiece] topluluğa sunacağız!
+Endorsement_Generic0 = Beni mi çağırdın, tatlım? Görünüşe göre destek zamanı!
+//^arıyordun
+Endorsement_Generic1 = Siz, buradaki tüm penguenler adımı biliyorsunuz... [name]DJ Grooves[/name]![br]Ve size diyorum, bu yanımdaki genç bayan en yeni moda. Garanti veriyorum!
+Endorsement_Generic2 = Onun hayran kulübüne katıldığınza emin olun! DJ Grooves... kaçar!
 
-Endorsement_Statue0 = Bir göz atın, şu heykele tırmanıp zavallı köpekciği kurtarışına! Yanlış mıyım, tatlım?
+Endorsement_Statue0 = Bir bakın, nasıl da şu kızın heykele tırmanıp zavallı köpekciği kurtardığına! Değil mi, tatlım?
 Endorsement_Statue1 = Şuna bakın! O köpekciği kurtardı, sağ salim! Kaçması yazık oldu, ve kesinlikle düşüp parçalara ayrılmadı.
-Endorsement_Statue2 = Bu gerçek bir diva ve bu sözümün arkasında durabilirim. Duyulmasını sağlayın ki bu küçük kız hayvanlara bayılıyor!
+Endorsement_Statue2 = Bu sözümün arkasında durabileceğim gerçek bir diva. Şunun bilinmesini sağlayın, bu küçük kız hayvanlara bayılıyor!
 
-Endorsement_Poker0 = Şu kurnaz kart oyuncularını kendi oyunlarında yenmesini izleyin... hem de ilk denemesinde!
-Endorsement_Poker1 = Bu oyun kolay anlaşılır, tatlım. Diğer oyuncunun, [hint]1'den 10'a[/hint] kadar, hangi kardı çektiğini tahmin etmelisin sadece. Sence hangi kardı tutuyor, tatlım?
-Endorsement_Poker2 = Vay be! Fevkalade! İnanılmaz! Cevap kesinlikle [hint]3[/hint]! Evden izleyenler, az önce gerçek bir yıldızın hayret verici öngörüsüne şahit oldunuz.
-Endorsement_Poker3 = Ah, çok yazık, tatlım! Cevap [hint]3'tü[/hint]! Evden izleyenler, bu demek ki yeni yıldızımız benimsenebilir. Aynı diğer herkes gibi hataları var!
+Endorsement_Poker0 = Şu kızın, kurnaz kart oyuncularını kendi oyunlarında yenmesini izleyin... hem de ilk denemesinde!
+//hard-boiled=destecilere
+Endorsement_Poker1 = Bu oyun kolay anlaşılır, tatlım. Diğer oyuncuların, hangi kartı tuttuğunu, [hint]1'den 10'a[/hint] kadar tahmin etmelisin sadece. Sence hangi kartı tutuyor, tatlım?
+//Kelime Tekrir'i yapılmış, 1. kısımda
+//2. kısımda tek oyuncu gösteriliyor, ama oyuncu tekil anlamıyla garip duruyor, Türkçe durmuyor
+//Bu oyun kolay anlaşılır,
+//Bu oyunu anlaması kolaydır,
 
-Endorsement_Cooking0 = Şimdi, tatlım, bunu belirmeliyim. Yemek şovu sunucularının ekranda sinirlenip küfür etmek konusunda rezil bir alışkanlıkları var. G kelimesini kullanmamaya çalış, tamam mı? g-a-g-a deme.
-Endorsement_Cooking1 = [icon:conductor][name]Kondüktör[/name] eski kafalı. O kelimeyi etrafa atıp durur. Bir gün başına dert açacak! O zaman dek, haydi şovlarımızı temiz tutalım.
-Endorsement_Cooking2 = Selam seyirciler! En büyük yıldızlar bile yemeli, ve yanımda duran da en büyüklerin büyüğü bir yıldız.
-Endorsement_Cooking3 = Şimdi söyle bakalım tatlım, tonbalığı sandviçinde ne tür çeşni istersin?
+Endorsement_Poker2 = Vay! Fevkalade! İnanılmaz! Cevap kesinlikle [hint]3[/hint]! Evden izleyenler, az önce gerçek bir yıldızın hayret verici sezgilerine şahit oldunuz.
+//öngörmek->önsezi->sezgilerine
+//öngörü-> daha uzun zamanlı?
+Endorsement_Poker3 = Ah, çok yazık, tatlım! Cevap [hint]3'tü[/hint]! Evdeki seyirciler, bu demek ki yeni yıldızımız sizden birisi. O da diğer herkes gibi yanlışlar yapıyor!!
+//hata=0-1
+//yanlış=1+
+
+Endorsement_Cooking0 = Şimdi, tatlım, şunu belirmeliyim. Yemek şovu sunucularının ekran başında sinirlenip küfür etmek konusunda rezil bir alışkanlıkları var. G kelimesini kullanmamaya çalış, tamam mı? g-a-g-a deme.
+Endorsement_Cooking1 = [icon:conductor][name]Kondüktör[/name] demode. O sözcüğü etrafa savurur durur. Bir gün başına dert açacak! O zaman dek, haydi şovlarımızı temiz tutalım.
+Endorsement_Cooking2 = Selam seyirciler! En büyük ünlüler bile yemeli, ve yanımda duran da en içlerindeki en büyük ünlü.
+//büyüklerin büyüğü
+//bir kullanılmamış
+Endorsement_Cooking3 = Şimdi söyle bakalım tatlım, tonbalığı sandviçinde nasıl bir sos istersin?
 Endorsement_Cooking3_a = Çiftlik Sosu
+//Ranch=Colloquial dictionary'de geçer.
 Endorsement_Cooking3_b = Ketçap
 Endorsement_Cooking3_c = Mayonez
 Endorsement_Cooking3_d = GAGA
-Endorsement_Cooking4 = Müthiş! Eminim tonbalığı sandviçini yeme şekli vücudunu bu kadar ince tutmasının nedenidir! Not alın, penguen izleyenlerim!
+Endorsement_Cooking4 = Müthiş! Eminim tonbalığı sandviçini yeme tarzın, vücudunu bu kadar ince tutmasının nedenidir! Not alın, penguen seyircilerim!
+//yemek tarzı<-yemek şekli
 Endorsement_Cooking5 = [scream][big]TATLIM![/big][/scream]
-Endorsement_Cooking6 = Y-yani... dost izleyicilerim! Şu kızın ağzına bir bakın. Kesinlikle harika bir şey.
-Endorsement_Cooking7 = [small]Şimdi kış, bu destekten olabildiğince hızlı çık,[br]televizyon izleyen yaşlı penguenler ne olduğunu fark etmeden.[/small]
+Endorsement_Cooking6 = Y-yani... dost seyircilerim! Şu kızın ağzından çıkana bir bakın. Kesinlikle harika bir şey.
+Endorsement_Cooking7 = [small]Şimdi kış kış, bu setten olabildiğince hızlı kaç,[br]televizyon izleyen yaşlı penguenler ne olduğunun farkına varmadan.[/small]
+//kış x2==git
+//endorsement=destek==set (film)
+//fark etmeden->farkına varmadan===fiil'lerin uyumluluğu
 
-Endorsement_Alley0 = Bu divanın ne kadar zeki olduğuna bakın. Bu netameli sokak arasında duruyor, muhtemel yanlış yapanların hemen yanında!
-Endorsement_Alley1 = Tehlike onun göbek adı, ve konfor alanından çıkmaktan korkmuyor!
+Endorsement_Alley0 = Bu divanın ne kadar şehirli olduğuna bakın. Bu uğursuz sokak arkasında duruyor, muhtemel yanlış yapanların hemen yanında!
+Endorsement_Alley1 = Tehlike onun göbek adı, ve rahatlık bölgesinden çıkmaktan korkmuyor!
 
-Ending0 = Seyirci çılgına dönecek, tatlım! Buraya gel ve show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
+Ending0 = Seyirci çılgına dönecek, tatlım! Buraya gel ve bizim yeni göz kamaştırıcı... [icon:timepiece][timepiece]yeni butafor[/timepiece]umuzla hava at!
 
 [finale]
 outside0 = Seni gördüğüme sevindim, tatlım! Bu rüküş yerdeki tek süper yıldız olmadığımı bilmek güzel.
