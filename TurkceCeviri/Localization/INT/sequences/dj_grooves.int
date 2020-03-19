@@ -58,63 +58,63 @@ intro2 = Neyse, we're all done here! Sonraki yıla kadar yeni film yok. Since yo
 intro3 = Ne, çılgınca bir şeylerin olacağını mı bekliyordun?[br]Saçmalık, tatlım, saçmalık!
 
 [BossBattle]
-SupportNotice0 = Sık dişini,[br]Bombayı bozmanın[br]bir yolunu bulacağım!!
-SupportNotice2 = Bozucum hazır,[br] buraya gel!
+SupportNotice0 = Sık dişini,[br]bombayı imha etmenin[br]bir yolunu bulacağım!!
+SupportNotice2 = İmha edicim hazır,[br] buraya gel!
 
-hth_intro0 = Let's have a little heart-to-heart. Otur, tatlım.
+hth_intro0 = Haydi biraz samimi konuşalım. Otur, tatlım.
 //......... biraz dostça/samimiyetle/can cana konuşalım
 
 hth_intro1 = Sen bu gezegene geldiğinden beri, bu [icon:timepiece][timepiece]Zaman Parçaları[/timepiece] gökyüzünden düşüyor.
-hth_intro2 = Now, I can understand if you feel they belong to you, darling. Anladım. Ama zamanı geriye sarabileceğını biliyor muydun?
-hth_intro3 = With one [icon:timepiece][timepiece]Time Piece[/timepiece], I could reclaim all the trophies that belong to me, darling. Every single trophy I've lost to the [icon:conductor][name]Conductor[/name], where he has cheated his way to victory.
-hth_intro4 = Kanıtlayamam, tatlım, ama I'm certain the [icon:conductor][name]Kondüktör[/name] has been manipulating everything to make sure I never win.
-hth_intro5 = I need just one [icon:timepiece][timepiece]Time Piece[/timepiece] to fix years of cheating and fraud. Can't you spare me just [hint]one Time Piece[/hint], darling?
+hth_intro2 = Şimdi, eğer sana aitlermiş gibi geliyorlarsa anlayabilirim, tatlım. Anladım. Ama zamanı geriye sarabileceğını biliyor muydun?
+hth_intro3 = Bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece]ile, bana ait olan her ödüle yeniden sahip olabilirim, tatlım. [icon:conductor][name]Kondüktöre[/name], ki onun hile ile kazandığı, kaybettiğim her bir ödülü.
+hth_intro4 = Kanıtlayamam, tatlım, ama eminim ki [icon:conductor][name]Kondüktör[/name] her şeyi kontrol ediyordu ki ben kazanamayım.
+hth_intro5 = Sadece bir [icon:timepiece][timepiece]Zaman Parçası'na[/timepiece] ihtiyacım var yılların hile ve dolandırıcılığını düzeltmek için. Bana sadece [hint]bir Zaman Parçası[/hint] bağışlayamaz mısın, tatlım?
 hth_intro5_yes = Belki?
-hth_intro5_no = Hayur!
-hth_intro6a = Teşekkürler, tatlım! Pişman olmayacaksın! We'll fix years of fraud and cheating, and go back to the [icon:trophy][trophy]annual bird movie awards[/trophy] being honest and upstanding!
-hth_intro7a = Unfortunately... I can't have you leave this room, darling. I can't risk word getting out. The [icon:conductor][name]Conductor[/name] will throw a hissy fit like never seen before!
-hth_intro8a = It was nice knowing you, darling. Goodbye!
-hth_intro6b = Darling, darling, darling. You're so persistently selfish. I've brought you to stardom, and all I ask in return is a single [icon:timepiece][timepiece]Time Piece[/timepiece]... but you won't share?
-hth_intro7b = Well, darling, if you want this [icon:timepiece][timepiece]Time Piece[/timepiece] back so bad, come and get it!
-hth_intro9 = Remember this bomb, darling? I stole it from the [icon:conductor][name]Conductor[/name]'s movie set, and now it'll be your demise!
+hth_intro5_no = Hayır!
+hth_intro6a = Teşekkürler, tatlım! Pişman olmayacaksın! Yılların hile ve sahtekarlığını çözeceğiz, ve [icon:trophy][trophy]yıllık kuş film ödüllerine[/trophy] dürüst ve dimdik olarak gideceğiz!
+hth_intro7a = Ne yazık ki... Bu odadan çıkmana izin veremem, tatlım. Sözün dışarı kaçmasına izin veremem. [icon:conductor][name]Kondüktör[/name] hiç görülmemiş bir öfke nöbeti geçirir yoksa!
+hth_intro8a = Seni tanımak güzeldi, tatlım. Elveda!
+hth_intro6b = Tatlım, tatlım, tatlım. Çok inatla bencil oluyorsun. Seni yıldızlık katına çıkardım, ve karşılığında tek istediğim tek bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece]... ama paylaşmayacaksın?
+hth_intro7b = Peki, tatlım, eğer bu [icon:timepiece][timepiece]Zaman Parçası'nı[/timepiece] bu kadar çok istiyorsan, gel de al!
+hth_intro9 = Bu bombayı hatırladın mı, tatlım? Bunu [icon:conductor][name]Kondüktör[/name]'ün film setinden çaldım, ve şimdi o senin çöküşün olacak!
 
-Intro0 = Look who we've got here, darling! I guess you found my little secret, huh?
-Intro1 = This last [icon:timepiece][timepiece]Time Piece[/timepiece] is all for me, darling. If you want it, well, I guess you've just gotta come and get it.
+Intro0 = Bakın burada kim varmış, tatlım! Sanırım küçük sırrımı buldun, ha?
+Intro1 = Bu son [icon:timepiece][timepiece]Zaman Parçası[/timepiece] tamamıyla benim, tatlım. Eğer istiyorsan, pekala, sanırım sadece gelip alman lazım.
 
 
 [PicturePerfect]
 Intro0 = Çekimlerin ilk gününe hoşgeldin, tatlım!
-Intro1 = We need to transform you into the biggest movie star the bird world has ever seen! You need to become... a diva!
-Intro2 = That's why I've called for a press conference here on our moon set. You need to get out there in front of the cameras, and electrify the public, darling! Get 'em really up and going for your movies!
-Intro3 = Once you've got them going crazy, come back here and we'll show off our new prop! That's right, we'll unveil our new [icon:timepiece][timepiece]movie prop[/timepiece] to the masses!
-Endorsement_Generic0 = You called, darling? Looks like it's endorsement time!
-Endorsement_Generic1 = All you penguins out there know my name... [name]DJ Grooves[/name]![br]And I'm telling you, this young girl here is the next hot thing. Guaranteed!
-Endorsement_Generic2 = Make sure you join her fanclub! DJ Grooves... out!
+Intro1 = Seni kuş dünyasının gördüğü en büyük film yıldızına çevirmeliyiz! Bir... diva olmalısın!
+Intro2 = Bu yüzden ay setimizde bir basın toplantısı hazırladım. Kameraların önün çıkmalı ve toplumu şok etmelisin, tatlım! Filmlerine gelmelerini sağla!
+Intro3 = Onları deliye döndürmen bitince, buraya geri dön ve biz de yeni malzememizi gösterelim! Doğru duydun, yeni [icon:timepiece][timepiece]film malzememizi[/timepiece] topluluğa sunacağız!
+Endorsement_Generic0 = Beni mi aradın, tatlım? Görünüşe göre destek zamanı!
+Endorsement_Generic1 = Siz penguenler adımı biliyorsunuz... [name]DJ Grooves[/name]![br]Ve size diyorum, bu yanımdaki genç bayan en yeni moda. Garanti!
+Endorsement_Generic2 = Hayran kulübüne katıldığınza emin olun! DJ Grooves... kaçar!
 
-Endorsement_Statue0 = Just look, as she'll climb up this statue and rescue the poor puppy that has gotten stuck! Right, darling?
-Endorsement_Statue1 = Şuna bakın! O köpekciği kurtardı, sağ salim! Too bad it ran off, and definitely didn't break into multiple pieces.
-Endorsement_Statue2 = This is truly a diva I can get behind. Let it be known that this lil' girl is all about animals!
+Endorsement_Statue0 = Bir göz atın, şu heykele tırmanıp zavallı köpekciği kurtarışına! Yanlış mıyım, tatlım?
+Endorsement_Statue1 = Şuna bakın! O köpekciği kurtardı, sağ salim! Kaçması yazık oldu, ve kesinlikle düşüp parçalara ayrılmadı.
+Endorsement_Statue2 = Bu gerçek bir diva ve bu sözümün arkasında durabilirim. Duyulmasını sağlayın ki bu küçük kız hayvanlara bayılıyor!
 
-Endorsement_Poker0 = Watch as she beats these hard-boiled card players at their own game... on her first try!
-Endorsement_Poker1 = This game is easy to understand, darling. You just guess which number of card the other player is holding, from [hint]1 to 10[/hint]. Which card do you think he's holding, darling?
-Endorsement_Poker2 = Wow! Fantastic! Incredible! The answer is indeed [hint]3[/hint]! Folks at home, you have just witnessed the stunning intuition of a true star.
-Endorsement_Poker3 = Aww, too bad, darling! The answer was [hint]3[/hint]! Folks at home, this just shows that our new break-out star is relatable. She makes mistakes just like everyone else!
+Endorsement_Poker0 = Şu kurnaz kart oyuncularını kendi oyunlarında yenmesini izleyin... hem de ilk denemesinde!
+Endorsement_Poker1 = Bu oyun kolay anlaşılır, tatlım. Diğer oyuncunun, [hint]1'den 10'a[/hint] kadar, hangi kardı çektiğini tahmin etmelisin sadece. Sence hangi kardı tutuyor, tatlım?
+Endorsement_Poker2 = Vay be! Fevkalade! İnanılmaz! Cevap kesinlikle [hint]3[/hint]! Evden izleyenler, az önce gerçek bir yıldızın hayret verici öngörüsüne şahit oldunuz.
+Endorsement_Poker3 = Ah, çok yazık, tatlım! Cevap [hint]3'tü[/hint]! Evden izleyenler, bu demek ki yeni yıldızımız benimsenebilir. Aynı diğer herkes gibi hataları var!
 
-Endorsement_Cooking0 = Now, darling, I have to mention this. Cooking show hosts have a terrible track record of getting angry and swearing on-screen. Try not to use the P-word, OK? Don't say p-e-c-k.
-Endorsement_Cooking1 = The [icon:conductor][name]Conductor[/name] is old-fashioned. He throws that word around a lot. It'll get him in trouble some day! Until then, let's keep our show clean.
-Endorsement_Cooking2 = Selam seyirciler! Even the biggest celebrities have to eat, and I've got with me the biggest celebrity of them all.
-Endorsement_Cooking3 = Now tell us darling, what kind of condiment do you like on your tuna sandwiches?
-Endorsement_Cooking3_a = Ranch
-Endorsement_Cooking3_b = Ketchup
-Endorsement_Cooking3_c = Mayo
-Endorsement_Cooking3_d = PECK
-Endorsement_Cooking4 = Amazing! I bet that eating tuna sandwiches like that is probably how she keeps her slim figure! Take note, penguin viewers!
+Endorsement_Cooking0 = Şimdi, tatlım, bunu belirmeliyim. Yemek şovu sunucularının ekranda sinirlenip küfür etmek konusunda rezil bir alışkanlıkları var. G kelimesini kullanmamaya çalış, tamam mı? g-a-g-a deme.
+Endorsement_Cooking1 = [icon:conductor][name]Kondüktör[/name] eski kafalı. O kelimeyi etrafa atıp durur. Bir gün başına dert açacak! O zaman dek, haydi şovlarımızı temiz tutalım.
+Endorsement_Cooking2 = Selam seyirciler! En büyük yıldızlar bile yemeli, ve yanımda duran da en büyüklerin büyüğü bir yıldız.
+Endorsement_Cooking3 = Şimdi söyle bakalım tatlım, tonbalığı sandviçinde ne tür çeşni istersin?
+Endorsement_Cooking3_a = Çiftlik Sosu
+Endorsement_Cooking3_b = Ketçap
+Endorsement_Cooking3_c = Mayonez
+Endorsement_Cooking3_d = GAGA
+Endorsement_Cooking4 = Müthiş! Eminim tonbalığı sandviçini yeme şekli vücudunu bu kadar ince tutmasının nedenidir! Not alın, penguen izleyenlerim!
 Endorsement_Cooking5 = [scream][big]TATLIM![/big][/scream]
-Endorsement_Cooking6 = I-I mean... fellow viewers! Look at the mouth on this young girl. She's really something.
-Endorsement_Cooking7 = [small]Now shoo, get out of this endorsement as soon as you can,[br]before the old penguins watching TV notice what just happened.[/small]
+Endorsement_Cooking6 = Y-yani... dost izleyicilerim! Şu kızın ağzına bir bakın. Kesinlikle harika bir şey.
+Endorsement_Cooking7 = [small]Şimdi kış, bu destekten olabildiğince hızlı çık,[br]televizyon izleyen yaşlı penguenler ne olduğunu fark etmeden.[/small]
 
-Endorsement_Alley0 = Look at how street-smart this diva is. She's standing in this sinister alleyway, right next to some potential wrongdoers!
-Endorsement_Alley1 = Danger is her middle name, and she's not afraid to step outside of her comfort zone!
+Endorsement_Alley0 = Bu divanın ne kadar zeki olduğuna bakın. Bu netameli sokak arasında duruyor, muhtemel yanlış yapanların hemen yanında!
+Endorsement_Alley1 = Tehlike onun göbek adı, ve konfor alanından çıkmaktan korkmuyor!
 
 Ending0 = Seyirci çılgına dönecek, tatlım! Buraya gel ve show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
 
