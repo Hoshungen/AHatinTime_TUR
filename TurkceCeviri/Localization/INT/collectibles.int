@@ -1,5 +1,5 @@
 ﻿[general]
-YouGotItem0 = Sahip oldun: [plural][name][itemname][/name]![custom0]
+YouGotItem0 = Şunu aldın: [plural][name][itemname][/name]![custom0]
 custom0 = [custom0]
 custom1 = [custom1]
 custom2 = [custom2]
@@ -18,7 +18,7 @@ GenericFlairSuffix = Yeteneği
 
 [trigger_abilities]
 BadgeCollect0 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor; sadece [yarn][badgepoints_left][/yarn] kaldı!
-BadgeCollect1 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor ve senin [yarn][badgepoints_player][/yarn]n tane var! Duraklatma Menüsündeki [button:start]'a basarak örebilirsiniz
+BadgeCollect1 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor ve senin [yarn][badgepoints_player][/yarn]n tane var! Menüdeki [button:start]'a basarak örebilirsiniz
 //^HATALI
 BadgeCollect2 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor!
 BadgeCollect3 = Örmek için yeterince [yarn][icon:yarn]yumağın[/yarn] yok!
@@ -31,7 +31,7 @@ UnknownDescTech0 = Bu şapkanın herhangi bir amacı yok gibi gözüküyor.
 SprintName = Koşu Şapkası
 SprintDescLocked0 = Bu yumak koşmaya hazır gözüküyor!
 SprintDescLockedHat = Bu şapka koşmaya hazır gözüküyor!
-SprintDesc0 = Koşmak için [button:badge] butonuna basılı tut!
+SprintDesc0 = Koşmak için [button:badge] tuşuna basılı tut!
 
 StatueFallName = Buz Şapkası
 StatueFallFun0 = Buz gibi!
@@ -50,16 +50,16 @@ HelpUsage = Hedefini bulmak için [icon:activehat] kullan!
 
 ChemicalName = Brewing Şapkası
 ChemicalDescFun0 = Çılgın karışımlar hazırla!
-ChemicalDescTech0 = Patlayıcı karışımı atmak için [button:badge] butonuna bas!
+ChemicalDescTech0 = Patlayıcı karışımı atmak için [button:badge] tuşuna bas!
 
 TimeStopName = Zaman Durduran Şapka
 TimeStopDescFun0 = Ölüm kaçınılmaz, zaman değerlidir.
-TimeStopDescTech0 = Zamanı yavaşlatmak için [button:badge] butonuna bas!
+TimeStopDescTech0 = Zamanı yavaşlatmak için [button:badge] tuşuna bas!
 
 FoxMaskName = Orman Sakini Maskesi
 FoxMaskDescFun0 = Bu korkunç bir yumak!
 FoxMaskDescHat0 = Bu korkunç bir maske!
-FoxMaskDescTech0 = Dünyayı Orman Sakininin gözünden görmek için [button:badge] butonuna bas!
+FoxMaskDescTech0 = Dünyayı Orman Sakininin gözünden görmek için [button:badge] tuşuna bas!
 
 DetectiveHatName = Suç Çözme Giysisi
 DetectiveHatDesc0 = Cinayeti çözme zamanı! Tutmayın küçük dedektifi!
@@ -81,7 +81,7 @@ SuckInOrbsTech0 = Yakınlardaki nesneleri kendine çeker!
 
 AttackProjectileName = Işın Rozeti
 AttackProjectileDescFun0 = Işın Rozeti
-AttackProjectileDescTech0 = Işın saldırısı için [button:attack] butonuna basılı tut ve bırak!
+AttackProjectileDescTech0 = Işın saldırısı için [button:attack] tuşuna basılı tut ve bırak!
 
 CameraName = Kamera Rozeti
 CameraDesc0 = [button:share] basarak yolculuğunun resimini çek!
@@ -100,7 +100,7 @@ MumbleBadgeName = Mırıltı Rozeti
 MumbleBadgeDesc0 = Kulaklarına tak, onların sadece anlamsız mırıltılarını duyacaksın!
 
 HookshotBadgeName = Kanca Rozeti
-HookshotBadgeDesc0 = Kancalardan sallanmak için [button:attack] butonuna bas ve basılı tut!
+HookshotBadgeDesc0 = Kancalardan sallanmak için [button:attack] tuşuna bas ve basılı tut!
 
 FindRelicsBadgeName = Kalıntı Bulucu Rozet
 FindRelicsBadgeDesc0 = [icon:relic] haritasını gösterir!
@@ -125,8 +125,8 @@ NostalgiaBadgeName = Nostalji Rozeti
 NostalgiaBadgeDesc0 = Her şey kötü olduğunda her şey daha iyi olacak!
 //HATALI
 
-ExtraHealthName = 1-Up Badge
-ExtraHealthDesc0 = Allows you to take an extra hit.
+ExtraHealthName = Can Rozeti
+ExtraHealthDesc0 = Fazladan bir saldırı kaldırmana izin verir.
 //HATALI
 
 PeaceFulBadgeName = Barış Rozeti
@@ -252,18 +252,18 @@ CameraFilterDesc1 = bu filtre: [icon:camerabadge][name]Kamera Rozeti[/name]!
 //DLC2
 CameraFilterShop = [icon:camerabadge][name]Kamera Rozeti[/name]n için yeni bir filtre!
 
-ActionBlueName = Action Blue
-DreamyName = Dreamy
+ActionBlueName = Aksiyon Mavisi
+DreamyName = Hayalimsi
 SunriseName = 80ler
 VibrantName = Canlı
 GirlyThingsName = Sadece Kızımsı Şeyler
 VintageName = Klasik
 Vintage2Name = Klasik 2
-NoirName = Noir
+NoirName = Siyah
 PurpleNightName = Mor Gece
 SunsetName = Gün Batımı
-SilhouetteName = Silüet
-HazeName = Haze
+SilhouetteName = Karaltı
+HazeName = Pus
 ColdName = Soğuk
 
 MangaName = Nani!?
