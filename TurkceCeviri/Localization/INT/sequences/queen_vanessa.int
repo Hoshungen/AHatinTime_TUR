@@ -9,9 +9,13 @@ mom_breakfast0 = Annem benim 'uyumlu' olmamda ısrar edip duruyor. Genç bir kı
 //^HATALI olabilir
 mom_breakfast1 = Daha bu sabah Kahvaltı için iki kurabiye vardı. Bu ona gösterecektir. I might even have a third.
 // Belki üçüncüsüne bile sahip olabilirim. //UZUYOR
+^Çevrilmedi
+
+
+
 cellar_chains0 = Oh, ona her zaman tutmayı dilerdim! Hücrede kilitli ve zincirli! Ama sen bir adamı kelepçeleyemezsin... yoksa?
 prince_hair0 = Saçın için üzgünüm, prensim. Sadece uzunluğunun uyuşmasını istemiştim! ...ve rengi... ve kıvrımları... sen harika gözüküyorsun!
-princeletter0 = Benim En sevgili Vanessa'm,[br]Seni son gördüğümden beri çok gün geçti, ama bana aylar gibi geldi.
+princeletter0 = Benim sevgili Vanessa'm,[br]Seni son gördüğümden beri çok gün geçti, ama bana aylar gibi geldi.
 princeletter1 = Akademide zaman zor, ama ben çabuk gelişiyorum. Hukuk olduğu zaman burada çalışacak çok şey var, 
 ama buradaki kütüphane iyi donanımlı.
 //^HATALI
@@ -24,10 +28,10 @@ diary1 = Kalan sayfaları aç?
 diarychoice_1 = Sayfa 13
 diarychoice_2 = Sayfa 48
 diarychoice_3 = Sayfa 73
-diary13a = Sevgili günlük,[br]Bugün prensim çalışmalarına başlamak için terk etti. Prensim çok uzaklarda olacak ve çok uzun bir zaman. Prensim mektuplaşacağına söz verdi. Presim beni unutmayacak, değil mi?
+diary13a = Sevgili günlük,[br]Bugün prensim çalışmalarına başlamak için beni terk etti. Prensim çok uzaklarda olacak ve bu çok uzun bir zaman. Prensim mektuplaşacağına söz verdi. Presim beni unutmayacak, değil mi?
 diary13b = Onun sevgili prensesi?
 diary48a = Neden? Neyi yanlış yaptım? Mektuplarında prensim ondan bahsediyor. Bir 'öğretmen'. O beni sevdiğini söylüyor. Ama O KIZ onu görüyor. Mektuplar alıyorum, ve O KIZ zamanını alacak.
 diary48b = Prens BENİM. Çalışmaları bittiğinde ona yeniden sahip olacağım.
-diary73a = Prens geri geliyor. Sadece bir haftasonuna. Kısa bir tatil, ONDAN. Onu kalması için ikna edeceğim.
+diary73a = Prens geri geliyor. Sadece bir haftasonuna. ONDAN, kısa bir tatil. Onu kalması için ikna edeceğim.
 diary73b = Aşkımın tekrar gitmesine İZİN VEREMEM.
 diary73c = Kulağa melodramatik gibi geliyor.
