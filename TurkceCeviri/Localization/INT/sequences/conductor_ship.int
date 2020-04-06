@@ -13,12 +13,25 @@ conductor2 = [wave]Ah, benim için. Grooves yok, film yok. Sadece ben ve benim �
 conductor3 = [wave]... Geminin geri kalanının nasıl olduğunu merak ediyorum...[wave]
 
 [docks]
-conductor0 = Peki, if it isn't the little lass. Yıldız olmak nasıl gidiyor?
+conductor0 = Peki, bu küçük kızımız değil mi? Yıldız olmak nasıl gidiyor?
+
 conductor1a = Tell you the truth, I'm taking some time off after that [br]gaga kafalı [icon:djgrooves] [name]DJ[/name] tried tae to, peki, biliyosun.
+
+
 conductor1b = Oh ve tüm bu... bıçak vakasında üzgünüm. [br]What's a wee argument between colleagues though, lassy?
+
+
 conductor1c = I'm taking some time off tae relax. Get away from that noisy [br][icon:djgrooves][name]DJ Grooves[/name] fer a while.
+
+
 conductor2 = Neyse, I'd better go ask about the childcare on board. Bu küçük delikanlıları seviyorum ama onları bar'a götüremem, yoksa?
 //^Yoksa ek cümle olarak eklendi
+
+
+
+
+sorsam iyi olur.
+
 
 [act3]
 finale0 = Bekle, kızım, nireye gidiyon? Onu kurtaracak mısın?
@@ -26,7 +39,6 @@ finale1 = Ben batan bir gemide oyalanamam! Eğer çabuk dönemezsen, sensiz ayr�
 
 conductor0 = O küçük kız nerede? Bu gemi batıyor, biz şimdi buradan ayrılmalıyız!
 conductor1 = [scream]Buraya gel, kızım! Şimdi ayrılıyoruk ŞİMDİ!![/scream]
-
 conductor2 = Hayhay, teşekkürler kızım. Küçükler henüz yüzmeyi öğrenemedi!
 
 carried0 = Ah! Dikkatli ol, kızım! Tüylerimi düşün!
