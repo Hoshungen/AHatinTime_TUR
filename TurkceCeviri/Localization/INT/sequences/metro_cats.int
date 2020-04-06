@@ -5,14 +5,13 @@ metrocat_2p_missing_1 = Şşşt! Ne dediğine dikkat et.
 metrocat_1p_helpdesk_0 = Kayıp mı oldun, çocuk? Eğer bir şeye bakıyorsan, [hint]danışma[/hint]ya[br]sormalısın.
 metrocat_1p_waiting_0 = Beni yalnız bırakabilir misin lütfen? Trenimi bekliyorum.
 metrocat_2p_stuck_0 = Arkadaşımdan bahsetmiş miydim? [br]O [hint]metro kartı[/hint]nı kaybetmişti ve Pembe Pati İstasyonunda mahsur kalmıştı.
-metrocat_2p_stuck_1 = Ha, umarım o kendine yeni bir bilet alabilir. Bu bilet [hint]bilet gişe[/hint]leri çok daraltıcı!
-//^HATALI
+metrocat_2p_stuck_1 = Ha, umarım o kendine yeni bir bilet alabilir. Bu [hint]bilet gişe[/hint]leri çok daraltıcı!
 
 metrocat_2p_sushi_0 = Yukarıdaki suşi lokantasına gittin mi, he?
 metrocat_2p_sushi_1 = Henüz değil. Yeşil Hattan işe giderken her zaman onları görüyorum ve bu da beni acıktırıyor.
 metrocat_2p_sushi_2 = Bazen, üzerinden dümdüz atlamayı dilerdim.
 
-metrocat_2p_stolen_0 = Did I tell you I had to buy a new [hint]metro pass[/hint]? Benimkisi çalındı galbia.
+metrocat_2p_stolen_0 = Yeni bir [hint]metro kartı[/hint] almam gerektiğini sana söylemiş miydin? Benimkisi çalındı galiba.
 metrocat_2p_stolen_1 = Daha dikkatli olmalısın. Duyduğuma göre son zamanlarda burada çok fazla suç işlenmiş.
 metrocat_2p_burgers_0 = Biz ayrılmadan bir şeyler yemek ister misin?
 metrocat_2p_burgers_1 = Nereden? Burada bir sürü fast food dükkanı var.
@@ -64,10 +63,7 @@ metrocat_2p_outoftown_3 = Emin misin? Ben muhabire mi benziyorum.
 metrocat_2p_outoftown_4 = Ben... oldukça eminim, evet.
 
 metrocat_2p_missingvan_0 = Önceden burada burger kamyonu vardı, sürekli burada duruyordu... Onu çok özledim.
-metrocat_2p_missingvan_1 = Hmmm... doesn't that spot just down the street do burgers?
-
-
-
+metrocat_2p_missingvan_1 = Hmmm... o burger yapan yer aşağı sokakta değil miydi?
 metrocat_2p_missingvan_2 = Evet, ama... ama kamyon tam da buradaydı, biliyor musun?
 metrocat_2p_missingvan_3 = Tch. Çok tembelsin.
 
@@ -76,17 +72,12 @@ metrocat_3p_needmoney_1 = Fazladan paraya ihtiyacın var mı, hı?
 metrocat_3p_needmoney_2 = Yan tarafta işlere bakıyorsan, kiminle görüşmen gerektiğini biliyorum.
 
 metrocat_3p_bigidea_0 = Bu lokanta için muhteşem bir fikrim var.
-metrocat_3p_bigidea_1 = Gerçekten mi? A restaurant in this part of town? Burada onlardan çok var!
+metrocat_3p_bigidea_1 = Gerçekten mi? Şehrin bu yerindeki bir lokanta mı? Burada onlardan çok var!
 metrocat_3p_bigidea_2 = Evet. Seni bu kadar özel yapan nedir?
 metrocat_3p_bigidea_3 = Yani... araba servisini bir hayal et.
 metrocat_3p_bigidea_4 = Burada araçlar için boş yer yer yok!
 metrocat_3p_bigidea_5 = Haklısın, haklısın, ama bir hayal etsene... trenler için olanını!
-metrocat_3p_bigidea_6 = Please tell me this isn't a set up for a 'fast' food pun.
-
-//SAÇMA! - Lütfen bana 'hazır' yemekleri için açılmadığını söyle.
-
-
-
+metrocat_3p_bigidea_6 = Lütfen bana bunun 'hazır' yemek için açılmadığını söyle.
 metrocat_3p_bigidea_7 = Yemeğini hızlıca kapardı- oh.
 
 metrocat_3p_foodchoice_0 = Erişteye ne dersin?
@@ -141,21 +132,26 @@ metrocat_2p_cops_2 = Gerçekten mi?
 metrocat_2p_cops_3 = Evet. Polisler buraya gelmez, kuyumcu da buraya gelmez.
 
 metrocat_2p_cclives_0 = Cooking Cat'in yeni bölümünü gördün mü?
-metrocat_2p_cclives_1 = Uh, kaçırdım. Başka bir Mafya Şehri bölümüydü?
-metrocat_2p_cclives_2 = Daha iyisi! She went on a cruise to sample the food, right?
+metrocat_2p_cclives_1 = Uh, kaçırdım. Başka bir Mafya Şehri bölümü müydü?
+metrocat_2p_cclives_2 = Daha iyisi! O bir gemi turuna çıkıp yemek tadacaktı, değil mi?
 
 
-O yemek tadacaktı
+
+
 
 
 
 metrocat_2p_cclives_3 = İyi miydi?
 metrocat_2p_cclives_4 = İyiydi, ama gemi battı!
 metrocat_2p_cclives_5 = Ne!? Bu bir spoiler!
-//Spoiler vermek, başka kelimeler uymuyor
 metrocat_2p_cclives_6 = Üzgünüm...
 metrocat_2p_cclives_7 = Is Cooking Cat alright? Did she make it out?
-metrocat_2p_cclives_8 = Yeah. You don't see her in the life rafts, but she's in the outro vignettes.
+metrocat_2p_cclives_8 = Evet. You don't see her in the life rafts, but she's in the outro vignettes.
+
+
+
+
+
 metrocat_2p_cclives_9 = Oh thank goodness. I wouldn't be able to stand a loose end like that.
 
 metrocat_2p_metrosmell_0 = Kokuyu alıyor musun?
@@ -173,7 +169,6 @@ metrocat_3p_ignored_3 = Hiçbir şey. Bizi yalnız bırak.
 metrocat_3p_ignored_4 = Yenisi alsan iyi olur. Ne zaman ihtiyacın olacağını asla bilemezsin.
 metrocat_3p_ignored_5 = Maskeli bir çocuğu daha önce görmüştüm!
 metrocat_3p_ignored_6 = Eğer oraya gider ve yenisini sorarsam, o kız başımın etini yer.
-//^Anlam hatalı İNGye göre.
 metrocat_3p_ignored_7 = Sadece ellerini yüzünün önünde tut ve sende varmış numarası yap.
 metrocat_3p_ignored_8 = Uh? Selam?
 metrocat_3p_ignored_9 = Bu gerçekten işe yaracak mı?
