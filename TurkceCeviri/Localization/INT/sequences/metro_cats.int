@@ -134,25 +134,33 @@ metrocat_2p_cops_3 = Evet. Polisler buraya gelmez, kuyumcu da buraya gelmez.
 metrocat_2p_cclives_0 = Cooking Cat'in yeni bölümünü gördün mü?
 metrocat_2p_cclives_1 = Uh, kaçırdım. Başka bir Mafya Şehri bölümü müydü?
 metrocat_2p_cclives_2 = Daha iyisi! O bir gemi turuna çıkıp yemek tadacaktı, değil mi?
-
-
-
-
-
-
-
 metrocat_2p_cclives_3 = İyi miydi?
 metrocat_2p_cclives_4 = İyiydi, ama gemi battı!
 metrocat_2p_cclives_5 = Ne!? Bu bir spoiler!
 metrocat_2p_cclives_6 = Üzgünüm...
-metrocat_2p_cclives_7 = Is Cooking Cat alright? Did she make it out?
+metrocat_2p_cclives_7 = Cooking Cat idi değil mi? Did she make it out?
 metrocat_2p_cclives_8 = Evet. You don't see her in the life rafts, but she's in the outro vignettes.
 
 
 
 
 
-metrocat_2p_cclives_9 = Oh thank goodness. I wouldn't be able to stand a loose end like that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+metrocat_2p_cclives_9 = Oh teşekkürler goodness. I wouldn't be able to stand a loose end like that.
 
 metrocat_2p_metrosmell_0 = Kokuyu alıyor musun?
 metrocat_2p_metrosmell_1 = Ne?
@@ -305,7 +313,6 @@ olddays0 = Hey, çocuk! Önceden buraların dutluk olduğunu biliyor muydun?
 olddays1 = Eskiden burada sadece tek tren yolu vardı, tek tük şeyler vardı. Dükkanlar vesaire.
 //Ekstra anlam katıldı
 olddays2 = Ama halk trenleri kullanmaya başladıklarında, buralar şimdi daha da kalabalıklaştı!
-//Busy=Kalabalık=Meşgul
 
 secret_teller0 = Bir sır öğrenmek ister misin?
 secret_teller1 = Emin misin? Bu büyük bir sır...
@@ -313,6 +320,13 @@ secret_teller2 = Tamam, tamam, Diyeceğim. Ama bunu asla tahmin edemezsin.
 secret_teller3 = Kuyumcu sahibinin...
 secret_teller4 = Kuyumcu olmak için vasfı yok!
 secret_teller5 = Bunun iyi bir sır olduğunu söylemiştim!
+
+
+
+
+
+
+
 
 gacha0 = I bought a hundred pulls from the event box... and got everything I wanted!
 gacha1 = Dang. I've been working at the jewelry store for extra cash, and I still don't have that Super-Limited-Rare Knight Robocat...
