@@ -7,29 +7,27 @@ intro2 = Bundan kesinlikle eminim ki, birisi Mafyanın hazırladığı yemeği y
 [spaceship]
 firstdecoration0 = Ne kadar güzel bir uzay gemin varmış! İzinsizce girdiğim için özür dilerim, bir uzaylı uzay gemisinin nasıl göründüğünü gerçekten görmek istemiştim.
 firstdecoration1 = Bilirsin, ben uzaylıların daha yeşil ve kana susamış olmasını beklerdim. Ama siz uzaylıların şekli şemalı farklı olsa gerek, değil mi?
-firstdecoration2 = Hey, eğer gezegenimizi keşfetmeyi düşünüyorsan, ilk önce anlaman gerekir. Yoksa çime mi veya bataklığa mı bastığını bilemezsin!
+firstdecoration2 = Hey, eğer gezegenimizi keşfetmeyi düşünüyorsan, ilk önce kavraman gerekir. Yoksa çime mi veya bataklığa mı bastığını bilemezsin!
 firstdecoration3 = Sen [icon:relic][name]kalıntılar[/name]ı nasıl tanıyacağını bilmiyor musun? Korkma, [name]Cooking Cat[/name] burada!
 firstdecoration4 = Sana bu [name]Burger minderi[/name] kalıntısını bedavaya vereceğim!
-firstdecoration5 = Bu [icon:relic][name]kalıntı[/name]yı podyumlarda tanımlayabilirsin! Podyumlara doğru sırayla yerleştirirsen, belki bir anlam ifade edebilir.
-//^ yanlış olabilir son cümle. --- 6. sense yok
-firstdecoration7 = Bir [icon:relic][name]kalıntı[/name]yı tanımlayabilirsen,[br]güzel bir şeyler olabilir! Kim bilir? Bu yüzden kalıntılara karşı gözün açık olsun.
-//^Ünlem cümlesi, soruya dönüştürüldü
+firstdecoration5 = Bu [icon:relic][name]kalıntı[/name]yı podyumlarda tanımlayabilirsin! Podyuma doğru sırayla yerleştirirsen, belki bir anlam çıkarabilirsin.
+firstdecoration7 = Bir [icon:relic][name]kalıntı[/name]yı tanımlayabilirsen,[br]güzel şeyler olabilir! Kim bilir? Bu yüzden kalıntılara karşı gözün açık olsun.
 firstdecoration8 = Kalıntılar hakkında bildiğim her şeyi sana öğrettim!
 
 cooking0 = Oh, hey! Umarım mutfağını kullanmama izin verirsin. Bazı dünya yemeklerini ikram edebilirim, senin uzaylı olmana rağmen vesaire.
 //Anlam oluşturmak zorunda kaldım.
 cooking1 = Söylesene, et mi seversin, vejetaryen birisi misin?
-//^Burası bu tür insanlar için anlam ifade etmeyebilir
+//^Burası et seven insanlar için anlam ifade etmeyebilir
 cooking_q_steak = Etobur
 cooking_q_veggie = Vejetaryen
 cooking2_steak = Öyle mi? Güzel, hemen dünyalı bir şeyler pişirmemi umarım beklemiyorsundur!
 cooking2_veggie = Öyle mi? Umarım siz uzaylılar şunlara alışıksındır, uhhh, karınca ve diğer şeylere?
 cooking3 = Neyse, Yemeğim umarım yemek sen ayrılmadan önce hazır olur. Bir uzaylı ocağında ne güzel yemekler pişirebileceğimi görmek istiyorum!
-cooking4 = Biliyor musun, uzaylı ocağının daha teknolojiksel olarak gelişmiş olacağını düşünmüştüm.
+cooking4 = Biliyor musun, uzaylı ocağının daha teknolojiksel olarak daha gelişmiş olacağını düşünmüştüm.
 
 [finale]
 outside0 = Kavurucu mutfaklarda daha önce bulunmuştum ama bu başka bir şey! Nasıl tek bir damla ter dökemezsin bilmiyorum, ama pişiyorum.
-//^Hararetli kelimesi sıkıntılı bir kelime olabilir. Pişiyorum=Yanıyorum Hareretli->Kavurucu
+//Pişiyorum=Yanıyorum
 outside1 = Belki sen bu kuyruğu atlatabilir ve baş şefin kim olduğunu bulursun, değil mi çocuk? 
 ninjacat0 = Miyav.
 ninjacat1 = Miyaaav.
