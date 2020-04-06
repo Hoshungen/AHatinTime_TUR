@@ -11,10 +11,10 @@ finale2 = Çiçekler solduktan sonra saklımlarında bunu bulduk. Sen diğerleri
 finale3 = Bize yardım ettiğin için teşekkür ederiz!
 
 [Guides]
-guide_lavacake0 = Bu yol[br] [name]Lava Keki[/name]ne gidiyor!
+guide_lavacake0 = Bu yol[br] [name]Lava Pastası[/name]na gidiyor!
 guide_lavacake1 = Bu sıcaklık bir harika! [br]Burası [hint]sağ[/hint]dan bile daha sıcak!
 //^Oyunda test edilmeli
-guide_lavacake2 = Burası [br][name]Lava Keki[/name]!
+guide_lavacake2 = Burası [br][name]Lava Pastası[/name]!
 guide_lavacake3 = O değil de, bu yer nasıl [br]bu hale gelebilir?
 guide_windmill0 = [name]Eski Yel Değirmeni[/name][br]bu tarafta!
 guide_windmill1 = Bu yer kocaman! [hint]Tepe[/hint]ye tırmanmak zor olmalı.
@@ -42,7 +42,7 @@ guide_deadend3 = Ben herhangi bir [br][hint]zaman parçası[/hint]nın [br]bu ta
 guide_zipline0 = İstediğin [hint]yön[/hint]e doğru eğim verdiğinden emin ol!
 guide_bridge0 = Dikkat! Bu [hint]köprüler[/hint]den bazıları eski.
 guide_cats0 = Dikkatli ol, çocuk. Yukarı çıkmış ve [br]kendimi çizdirmiştim!
-guide_cats1 = Ben olsam, o [icon:hat]yı kollardım!
+guide_cats1 = Ben olsam, o [icon:hat]mı kollardım!
 guide_eggs0 = Bu yumurtaların[br]bazılarında tuhaf[br]bir şey var!
 guide_danger0 = Selam! Burası kesinlikle [br]bir çocuğun olmak isteyeceği [br]güvenli bir alan.
 //DANGER"" diyor kontrol edilmeli.
@@ -62,5 +62,6 @@ explanation1 = Bu yükseklikte, havanın oksijeni azdır! Bizim için derin nefe
 explanation2 = Ama senin için öyle gözükmüyor.
 
 [Goats]
-goats0 = Burada ne kadar keçi olduğu hakkında bir bilgim yok, ama onlardan uzak durmayı denedik.
+goats0 = Burada ne kadar keçiler hakkında hiçbir fikrim yok, ama onlardan uzak durmayı denedik.
+//hiç/bir bilgim yok
 goats1 = Yollarına çıkarsan, birazcık saldırgan olma eğilimindedirler.
