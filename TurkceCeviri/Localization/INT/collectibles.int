@@ -136,7 +136,7 @@ RetroHandheldBadgeName = Retro Rozeti
 RetroHandheldBadgeDesc0 = Ünlü 2-boyutlu aksiyon!
 //HATALI
 
-RedtroVRBadgeName = REDtro VR Badge
+RedtroVRBadgeName = RETro VR Badge
 RedtroVRBadgeDesc0 = Gözlerim acıyor.
 
 [loot]
@@ -183,7 +183,9 @@ MarginOfNightSkinName = Margin of the Night
 GirlySkinName = Sevimli ve Tehlikeli
 BronzeSkinName = Bronz
 GreenGoldName = The Forest Critter
+//^Orman Yaratığı
 LiquoriceName = Liquorice
+//^Meyankökü
 MintyName = Nane Ferahlığı
 CookieDoughSkinName = Kurabiye Hamuru
 80sCandy = 80ler Şekeri
@@ -213,13 +215,13 @@ BeeSkinName = Çalışkan Arı
 FlamesSkinName = Ele Alınması Güç
 PizzaSkinName = Pizza Zamanı
 AnarchySkinName = Anarşi
-BattlementsSkinName = Siperler
+BattlementsSkinName = Siper
 FortressSkinName = Korunak
 CherrySkinName = Çilekli Soda
 CitrusSkinName = Turunçgiller
 CoffeeCreamSkinName = Kahve Kreması
 DignifiedSkinName = Asil
-EdgySkinName = Bleeding Edge
+EdgySkinName = İleri Teknoloji
 GreenBeanSkinName = Yeşil Fasulye
 HamburgerSkinName = Hamburger
 MilkyWaySkinName = Samanyolu
@@ -260,6 +262,7 @@ GirlyThingsName = Sadece Kızımsı Şeyler
 VintageName = Klasik
 Vintage2Name = Klasik 2
 NoirName = Siyah
+//^Siyah Beyaz
 PurpleNightName = Mor Gece
 SunsetName = Gün Batımı
 SilhouetteName = Karaltı
