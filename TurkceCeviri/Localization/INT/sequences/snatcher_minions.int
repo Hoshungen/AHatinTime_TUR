@@ -6,8 +6,16 @@ Swamp0 = Bu yerde gerçek bir [hint]batmışlık[/hint] duygusu[br]seziyorum... 
 BigTree0 = Ağacın üstünden manzaranın oldukça iyi olduğuna bahse girerim!
 BigTree1 = Fazla uzağa gitme, çocuk!
 BigTree2 = Bu yükseklikten düşmek gerçekten[br] acılı bir[br]düşüş olurdu.
-Ice0 = Bu orman sakinleriyle [br]konuşmak çok zor . 
+Ice0 = Bu orman sakinleriyle [br]konuşmak çok zor. 
 Ice1 = Belki  [hint]buzu [br]kırabilirsin[/hint] bizim için?
+
+
+I hear there's money to be made in [hint]gravedigging[/hint]!
+
+
+belki altını taşa vurursun
+belki baltayı taşa vurursun
+
 Graves0 = I hear there's money to be made in [hint]gravedigging[/hint]!
 Mushroom0 = Some of these [br][hint]mushrooms[/hint] bounce [br]you pretty high! 
 Mushroom1 = There's a joke here, [br]but I don't think a kid [br]would get it.
@@ -20,29 +28,32 @@ Noose0 = These ropes will give you [br]a lift, if you have a safe [br]way to [hi
 
 
 
+DWELLER=ORMAN SAKİNİ
+
+
 House0 = O yukarıdaki [icon:yarn] mı? 
-House1 = Maybe some [hint]branches[/hint] [br]nearby haven't burned [br]up yet.
+House1 = Belki yakındaki bazı [br][hint]dallar[/hint] henüz yanmamıştır.
 Fruit0 = You know the soft part [br]of fruit is sometimes [br]called the flesh?
 Fruit1 = Don't go giving bodies to any [hint]upset spirits[/hint], kid! 
 DwellerPlatform0 = Onlar bazı [hint]zilleri[/hint] çalarsan....
 DwellerPlatform01 = ...Objects from [shake]other[/shake] [br][shake]dimensions[/shake] come [br]into focus!
 DwellerPlatform1 = Those poor [hint]dwellers[/hint] can't [br]stand on things like this. [br]They [hint]pass right through[/hint]!
 Spider0 = Those [hint]spiders[/hint] don't have [br]any trouble staying above the swamp...
+
+
+
+
 Trees0 = [hint]Yukarı bakmayı[/hint] unutma! [br]Bu ağaçlara bir sürü garip şeyler oluyor
-
-Welcome0 = Found your way here [br]already? Ne acınası.
-//Found your way here [br]already?
-//Zaten yolunu buldun[br]mu?
-
+Welcome0 = Zaten yolunu buldun[br]mu? Ne acınası.
 Statues0 = Bu heykeller hoş değil mi?
 Fire0 = Dikkat et, çocuk! [br]Burası alev dolu.
 Village0 = Şu an bu evlerin [br]boş olması acınası.[br]İşte hazıra konmak!
-//It's free real estate, meem alıntısı
 Trap0 = Hey, çocuk! [br]Şu şeyin üstünde dur! [br]Bu güvenli!
 ScooterWall0 = Ateş duvarın arkasında[br]daha fazla [br][hint]Posta alıcısı[/hint][br]var...
-//^Oyuniçi Kontrol edilmeli,
 ScooterWall1 = Bu duvarı kırmak[br]için [icon:painting][name]Ateş Ruhları[/name][br]nı bulmalısın!
- 
+//3
+//3
+//3
 [manor]
 limitations_alert0 = Hey, yeni çocuk! Patron şunu hatırlatmamı sana söyledi, uhhh... imzaladığın kağıtta malikanede şapkalarını kullanmamazsın diyor.
 limitations_alert_alt0 = Hey, yeni çocuk! Patron bana dedi ki, uhhh, şunu dedi tüm şapkaların burada sınırlamaları varmış vesaire.
@@ -53,9 +64,9 @@ outside0 = [br]Lavaya düşmemeye çalış, çocuk!
 outside1 = Bu benim tehditkar, kasvetli evim değil!
 outside2 = Korkutucu olmak ne[br] zamandan beridir suç?
 inside0 = Adımına dikkat et, çocuk!
-inside1 = Pişmis Tavuk kokusu alıyorum!
+inside1 = Pişmiş tavuk kokusu alıyorum!
 
 [sneakyhiddenstuff]
 book0 = Bu bir büyük ağır kitap, başlığı da 'Proof of Ethical Consumption Under Capitalism'.
 book1 = Sayfaların hepsi boş.
-//Kapitalizm Altındaki Etik Tüketimin Kanıtı
+//Kapitalizm Etkisindeki Ahlaki Tüketimin Kanıtı
