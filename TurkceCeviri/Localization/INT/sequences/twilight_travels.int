@@ -1,13 +1,9 @@
-//%90 (29/01//2020)
 [Tutorial]
 BellHint = [timepiece]Yarık kapıları[/timepiece] [hint]zil[/hint]ler kullanarak canlanır! [name]Çocuğun Şapkası[/name][icon:hat]nı kullanarak onları bulabilirsin!
-^HATALI ÇEVİRİ
 
 [DeepLore]
 Grave0 = Efsanelere göre, uzun zaman önce müthiş bir kahraman, [hint]Alacakaranlık Çanı[/hint]nı almak için büyük bir yolculuğa atıldı. O, eviden ayrıldı ve yolunda bir sürü belayla karşılaştı, ama azmetti.
 Grave1 = Bu statü onun anısına yapılmış.
 Grave2 = Bu taşın arkasında bir vecize var, iddialara göre keçinin kendisinden.
 Grave3 = Şöyle yazıyor: [name]Asla unutma, azimli olmak seni bildiğinden daha iyi yerlere getirebilir. İşinle gurur duy, küçük şeyler olsa bile.[/name]
-//küçük bir şey->küçük şeyler
 Grave4 = Bir gün bu keçiyle karşılaşmak istiyorsun, konuşmasalar bile, o iyi bir arkadaş olabilecek gibi gözüküyor.
-//tanışmak->Karşılaşmak, önemli birisiyle tanışmak/karşılaşmak
