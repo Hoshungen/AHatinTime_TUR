@@ -1,10 +1,10 @@
 //%95
 [spaceship]
-sell_intro0 = [glitch]Merhaba, genç. Çok uzak diyarlardan geliyorum. Dünyanın her köşesini gördüm ve şimdi keşiflerimden kalan bazı küçük parçaları satıyorum.[/glitch]
-sell_intro1 = [glitch]Bana [name]Rozet Satıcısı[/name] diyebilirsin, [icon:badge]Rozetler sattığım ve takas ettiğim için. Ben sana güçlü yetenekler sunabilir ve şapkanı geliştirmeni sağlayabilirim... paran varsa tabii ki.[/glitch]
+sell_intro0 = [glitch]Merhaba, genç. Çok uzak diyarlardan geliyorum. Dünyanın her köşesini gördüm ve şimdi keşiflerimin küçük parçalarını satıyorum.[/glitch]
+sell_intro1 = [glitch]Bana [name]Rozet Satıcısı[/name] diyebilirsin, [icon:badge]rozetler sattığım ve takas ettiğim için. Ben sana güçlü yetenekler sunabilir ve şapkanı geliştirmeni sağlayabilirim... paran varsa tabii.[/glitch]
 sell_intro2 = [glitch]Başka bir şey mi satın almaya geldin?[/glitch]
 sell_intro3 = [glitch][icon:badge]Rozetler... şu anda "moda". Demeye çalıştığım buydu. Bu yüzden bir şeyler al, lütfen.[/glitch]
-sell_intro4 = [glitch]Hep değerli şeyler satmıyorum. Ben ayrıca berbat [icon:badge]Rozetler de satıyorum... ama millet yine de alıyor.[/glitch]
+sell_intro4 = [glitch]Hep değerli şeyler satmıyorum. Ben ayrıca berbat [icon:badge]rozetler de satıyorum... ama millet yine de alıyor.[/glitch]
 sell_intro5 = [glitch]Hoşgeldin, genç. Lütfen mütevazi dükkanımdan alım yap.[/glitch]
 sell_intro6 = [glitch]Lütfen kasıntılı huyumu önemseme. Bedenim geldiğim ve gittiğim yerlede kalıcı bir iz bırakmış olmalı.[/glitch]
 
