@@ -64,8 +64,8 @@ Item_SkipCinematics_Desc = Aceleniz varsa, onları zaten görmüşseniz, bu seç
 
 Header_Accessibility = Erişebilirlik
 
-Item_AssistMode_Title = Asistan Modu
-Item_AssistMode_Desc = Asistan modu etkinken, oyunun bazı elementlerini daha erişebilir kılar ve kısa bir süre sonra can alırsınız. Bu modu açtığınız için cezalandırma olmayacaktır.
+Item_AssistMode_Title = Asist Modu
+Item_AssistMode_Desc = Asist modu etkinken, oyunun bazı elementlerini daha erişebilir kılar ve kısa bir süre sonra can alırsınız. Bu modu açtığınız için cezalandırma olmayacaktır.
 
 Header_SplitScreen = Kooperatif
 
