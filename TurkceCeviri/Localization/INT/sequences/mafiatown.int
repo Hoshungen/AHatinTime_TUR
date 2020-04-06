@@ -2,43 +2,29 @@
 dotdotdot = . . .
 
 [impossible_race]
-MaybeWait0 = Not all acts can be completed the moment they're unlocked.[br]In some circumstances you might need a special item.
-MaybeWait1 = There's no shame in returning to an act later!
+MaybeWait0 = Her perdenin tamamı açıldığı zaman tamamlanamaz.[br]Bazı durumlarda özel bir eşya gerekebilir.
+MaybeWait1 = Bir Perdeye daha sonra dönmenin utanılacak bir yanı yok!
 
 [hq]
 window0 = Dışarıda halen yağmur yağıyor.
 window1 = Ama bunu içeriden seyretmek çok daha iyi.
 slotmachine0 = Sadece yerel para birimiyle çalışıyor gibi gözüküyor; ve sen, dövizciye uğramayı unutmuşsun.
-
-cans0 = Görünüşe göre bu Mafya'nın yemek için özrü. Ama bu kesinlikle bunun gibi kokmuyor.
-//^Çeviri hatalı
-cans1 = You could probably taste some, but you're not sure that's something you want in your obituary.
-
-Biraz atıştırırdın, ama bundan emin değilsin ki ölümün
-//^Bu bir çocuk oyunu, ölüm hoş durmaz. Çeviri hatalı
-
-
-
-
-bigfish0 = You resist the urge to think of any fish puns. It's tough, [small]hali[/small]but you manage to hold them back.
-pilehidden0 = There's a switch buried in this pile of non-distinct currency! 
-pilehidden1 = Pull it?
+cans0 = Görünüşe göre bu Mafya'nın yemek için mazereti. Bu kesinlikle böyle kokmuyor.
+cans1 = Biraz atıştırırdın, ama vefat ilanında isteyeceğin bir şey olmazdı.
+bigfish0 = Bir balık cinasını düşünmemeye dayanabilirsin. Bu zor, ama  [small]hali[/small] ama sen bunu yapmadan durabiliyorsun.
+pilehidden0 = Buradaki belli seçilmez döviz yığınında gömülmüş bir şalter var!
+pilehidden1 = Çekelim mi?
 pile_q_yes = Evet!
 pile_q_no = Hayyır!
-pilehiddenpull0 = You pull the switch out of the pile and put it in your bag. Your collection of improv comedy props grows stronger.
-pilehiddennopull0 = 
-Okuldayken uzaylı gezegenlerindeki altın yığınının garip mekanizmalarını aktif etmemeyi öğrenmiştin, ve bunu yalnız bırak.
-//^Çok bağlı eylem var HATALI
+pilehiddenpull0 = Yığındaki şalteri çektin ve çantana koydun. Komedi koleksiyonun daha da genişledi.
+pilehiddennopull0 = Okuldayken uzaylı gezegenlerindeki altın yığınının garip mekanizmalarını aktif etmemeyi öğrenmiştin, ve bunu yalnız bırakmayı da.
 
 [fluff]
 door0 = Git buradan! Mafya şov izliyor. Senaryoya karşı büyük ilgi.
-meat0 = It's a hunk of meat, just like in your cartoons! Sadece daha büyüğü.
-meat1 = Tuhaf, neden burada uçan canlılara rastlayamadığını düşünüyorsun.
-//^Çeviri Hatalı olabilir
-tailor0 = With how limited the dress code is around here, it's not surprising this place is boarded up.
-vista0 = So picturesque! Bunun hangi dijital oyun olduğuna karar veremiyorsun bile.
-
-
+meat0 = Bu koca bir et parçası, çizgi filmlerindeki gibi! Sadece daha büyüğü.
+meat1 = Tuhaf, sen burada neden uçan canlılara rastlayamadığını düşünüyorsun.
+tailor0 = Bu kadar sıkı bir kıyafet yönetmeliğinde, bu mekanın kapatılmış olması şaşırtıcı değil.
+vista0 = Çok gerçekçi! Bunun hangi dijital oyun olduğuna karar veremiyorsun bile.
 
 [lava]
 finish0 = Küçük çocuk bizi kurtardı! Buraya gel!
