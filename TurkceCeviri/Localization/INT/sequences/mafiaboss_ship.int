@@ -3,13 +3,5 @@ mafiaboss0 = [scream]Agh![/scream] Bu sinir bozucu küçük foklar beni deli edi
 mafiaboss1 = En azından sen, kaba çocuk, sessiz kalma zarafetine sahipsin.
 
 [docks]
-mafiaboss0 = Ah! Beni önce öldürdün, then you torment me by booking passage on [br]the only cruise liner here with facilities for people in jars!
-mafiaboss1 = Seni gidi kaba çocuk. Eğer keyifli bir tatil ruhunda olmasaydım [br][small]ve bedensizken[/small] intikamımı hemen ve şimdi alırdım!
-//^HATALI
-
-0= sonra da eziyet ettin, rezervasyon ücretinde [br]
-
-buradaki yolcu gemisinin bilet
-kavonoz içindeki insanların 
-
-sonra 
+mafiaboss0 = Ah! Beni önce öldürdün, şimdi de bana kavonoz içindeki[br]insanlar için hizmetleri olan tek yolcu gemisinde eziyet ediyorsun!
+mafiaboss1 = Çok kaba bir çocuksun. Eğer keyifli bir tatil ruhunda olmasaydım [br][small]ve halen bedensizken[/small] intikamımı hemen ve şimdi alırdım!
