@@ -12,20 +12,10 @@
 
 ## Notlar
 ### Çevirmen Notları
-> Çeviriye kaldığım yerden devam ediyorum. Çevirisine başladığımdan beri tek başıma çeviriyorum. Keşke motivasyonumu kaybetmeseydim, çeviri belki çok daha önceden bitebilirdi.
-
-> Destek olmanız, ilerlemeye katkı sağlayacaktır.
-
-> Bu oyunun Türkçe Çeviriyi hakettiğini düşünüyorum.
+> Eğer motivasyonumu kaybetmeseydim, çeviri belki çok daha önce bitebilirdi.
 
 ### Mod İçerik Notları
-> Çeviri tamamen ücretsiz ve açık kaynaklıdır.
-
-> Bu çeviri modunu indirdiğiniz halde kullanmazsınız, kullanmak için Türkçe Font eklenmeli ve Text Encoding yapılmalıdır. GitHub üzerinden değişiklik yapıyorsanız, Big-Endian (UTF-16BE) enconding'ini **UTF-8** yaptığı için, bu dosyaların yeniden **UTF-16BE** biçiminde yüklenmesi gerekmektedir.
-
 > Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir.
-
-> Çevirilerin bir kısmı yanlış, hatalı, çevrilmemiş, eksik olabilir; önerilerinizi GitHub'taki **Issues** bölümünden belirtebilirsiniz.
 
 ## Katkıda Bulunanlar/Contributors
 ### Çevirmenler
