@@ -5,8 +5,7 @@ lobby_a1 = [icon:djgrooves][name]DJ Grooves[/name] bizim için çok şey ifade e
 lobby_b0 = Parmaklarımı görüyor musun? Nasıl şıklattığımı görüyor musun?[br]Bu kuş dilinde bu 'defol git'.
 //Beat it, MJ şarkısı referansı
 
-lobby_b1 = Bir bak, parmaklarım sana bakıyor. Ne yaptıklarına bak. Çıt, çıt, çıt. Ne dediğimi kaptın?
-//1. Çevirinin anlamı komple değiştirildi, bu bir genç oyunu
+lobby_b1 = Bir bak, parmaklarım sana bakıyor. Ne yaptıklarına bak. Çıt, çıt, çıt. Ne söylediğimi kaptın?
 
 lobby_c0 = Kuş değilsin de mi, de mi? Öyleyse Dead Bird Stüdyosuna seni ne getirdi? Yanıtlamadan önce, DJ Grooves'un son filmini izlemelisin. Film gerçekten iyi ve bana bunu demek için ödeme yapılmadı. Sahi mi!
 
@@ -18,7 +17,8 @@ lobby_e0 = Bunu kimseye söyleme, ama önceden [icon:djgrooves][name]DJ Grooves[
 outside0 = Bas git, çocuk. [br] Sıraya girmeye çalışıyorum.
 outside1 = Patron bizi [br]buradan kurtaracak. [name]DJ Grooves[/name] [br]yıldızdır, biliyon.
 outside2 = In hindsight, maybe I [br]coulda done better [br]with my life.
-belki de hayatımda daha iyi şeyler başarabilirim.
+In hindsight, maybe I [br]coulda done better [br]with my life.
+Geriye baktığımda, belki de hayatımda daha iyi şeyler başarabilirim.
 group_counter0 = Kaybol! Değil mi, çete?!
 group_counter1 = Kaybol!
 group_counter2 = Evet, kaybol!
