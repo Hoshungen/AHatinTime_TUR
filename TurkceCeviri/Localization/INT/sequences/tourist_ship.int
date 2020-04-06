@@ -1,9 +1,6 @@
 [docks]
-tourist0 = Hey veled! Bugünlerde güneş bulmanın ne kadar zor olduğunu biliyor musun? Bu lanet Steve, her zaman bir adım önde...
+tourist0 = Hey veled! Bugünlerde güneş bulmanın ne kadar zor olduğunu biliyor musun? Bu lanet Steve, her zaman bir adım önümde...
 tourist1 = Neyse, biraz da olsa işlerden kaytarmak isterdim! İşler tıkırında olmalı değil mi?
-//^HATALI olması çok yüksek
 
 [fluff]
-tourist0 = Umarım adanın veya ona benzer şeylerin yakınından geçeriz. Resim çekecek bir şeyler bulmam lazım!
-^1. ÇEVİRİ UNNATURAL
-//bir şey->ler
+tourist0 = Umarım adanın ya da ona benzer şeylerin yanından geçeriz. Resim çekecek bir şeyler bulmam lazım!
