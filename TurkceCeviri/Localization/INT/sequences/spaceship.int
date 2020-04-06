@@ -12,9 +12,7 @@ Location_LandryRoom = Çamaşırhane
 Location_DLC2 = Depo
 
 [Ending]
-ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] bırak ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki [name]Mafya[/name] ile baş edebilsin?[br](Evine ulaşamayabilirsin.)
-//aşağı at=bırak
-//evine dönemeyebilirsin/ulaşamayabilirsin
+ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] bırak ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki [name]Mafya[/name] ile baş edebilsin?[br](Evine dönemeyebilirsin.)
 ThrowMu0_Yes = Evet
 ThrowMu0_No = Hayır
 
@@ -135,20 +133,9 @@ corgiquest_d5l = ARKANDA DAHA KÜÇÜK BİR ARAZİ VAR, VE ÇEVRENİ SARAN DAHA 
 corgiquest_d5l2 = BURADA BİR KAMP VAR, VE KONTROL ETTİM, YANİ EMİN OLARAK SÖYLÜYORUM Kİ: SANA GÖRE ÇADIRI GRİ. BARRY BURADA, AYRICA. ÇIKIŞLAR TAM ANLAMI İLE HER YERDE, BİR ŞEKİLDE. BAŞKA BİR ŞEKİLDE, SADECE KUZEYE GİDEBİLİRSİN.
 corgiquest_d5t = BARRY İLE KONUŞTUN. BUNDAN DAHA ÖNCE BAHSETMİŞ OLABİLİRİM, AMA KONUŞMAK İÇİN ÇIKARDIĞIN SESLERİ AÇIKLAMAK AŞIRIYA KAÇMAK OLUR. 
 corgiquest_d5t2 = SANA BİR SİLAH YAPMAYI TEKLİF EDİYOR, ACİLEN DE YAPIYOR. BİR KILIÇ, KÖPEKLER İÇİN. ARTIK BİR KÖPEK KILICIN VAR.
-corgiquest_d1 = KANYONUN DİĞER TARAFINDASIN. YEDİ SONUÇLAR BURADA, DRESSED VERY BADLY AS WIZARDS SO OFTEN ARE. THERE IS A WIZARDS TOWER TO THE SOUTH, AMA BU ONLARA AİT DEĞİL.. 
-
-
-BÜYÜCÜLERİN  ÖYLE OLDUKLARI GİBİ
-GİYİNMİŞLER
-
-
-
-BURADA BİR BÜYÜCÜ KULESİ]],,,,,, 
-
-
-
-
+corgiquest_d1 = KANYONUN DİĞER TARAFINDASIN. YEDİ SONUÇLAR BURADA, ÇOK KÖTÜ GİYİNMİŞLER TIPKI ÇOĞU BÜYÜCÜNÜN OLDUĞU GİBİ. GÜNEYDE BÜYÜCÜLER KULESİ VAR, AMA BU ONLARA AİT DEĞİL.. 
 corgiquest_d12 = THEIRS (THIERS? THEY BOTH LOOK INCORRECT IN CAPITAL LETTERS) IS ON THE PLANE OF YELLOW. EXITS ARE SOUTH. DOĞUYA GİDEBİLİRSİN, AMA THAT WOULD BE SWIFTLY FOLLOWED BY DOWN.
+
 
 
 
@@ -188,7 +175,7 @@ corgiquest_d0ul = YOU LOOK REALLY HARD AT THE LITERALLY TWO THINGS HERE. THE ALT
 corgiquest_d0ul2 = THE BOOK FEELS PRETTY MAGICAL, BUT YOU CAN'T READ, SO EXACTLY IN WHAT WAY IT'S MAGICAL YOU CAN'T REALLY TELL. SURE WISH SEVEN WAS HERE. REAL TROOPER THAT SEVEN. RELIABLE.
 corgiquest_d0ud = YOU FOCUS YOUR INNER SPIRIT AND TAKE IN THE MAGICAL ENERGIES OF THE BOOK AND THE ALTAR, BEFORE SPEAKING THE WORD OF POWER: POWER. YOU FEEL TANGIBLE REALITY SLIP AWAY.
 corgiquest_d0ud2 = IN AN INSTANT, YOU ARE PUSHED DENNISWAYS. YOU ARRIVE IN...
-computergame3 = THANK YOU FOR PLAYING THIS SPECIAL DEMO VERSION OF CORGI QUEST 7 - THE LEASHES THAT BIND.
+computergame3 = CORGI QUEST 7'NİN ÖZEL DEMO SÜRÜMÜNÜ OYNADIĞINIZ İÇİN TEŞEKKÜRLER - BU TASMAYI BAĞLAR.
 computergame4 = YAZI-TABANLI EĞLENCE UYGULAMASI KAPATILIYOR.
 
 computerearth0 = DÜNYA UYGULAMASINI AÇTINIZ.
