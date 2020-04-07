@@ -7,7 +7,6 @@ Location_MainHall = Ana Salon
 Location_MachineRoom = Makine Dairesi
 Location_Basement = Bodrum
 Location_Attic = Çatı Katı
-//^Tavan?
 Location_LandryRoom = Çamaşırhane
 Location_DLC2 = Depo
 
@@ -25,15 +24,10 @@ radio0 = Bu senin en yenin, yüksek kalite ses aygıtı.
 radio1 = O olmadan favori radyo yayınlarını dinleyemezdin, mesela 'Masada Tanışıklık', 'Güneş Işığı Kasabasından Elveda' veya 'İki Kardeş ve Aynı Zamanda Bir Ek Kardeş, Ben'.
 microwave0 = Bir mikrodalga! Yaramaz olan yemekleri cezalandırmak için kullanırsın.
 wardrobe0 = Bir elbise dolabı! Sadece tek bir kıyafet giyiyorsun, yani iskeletler için bolca yer var.
-//Bir dolap! Sen sadece gerçekten tek kıyafet giyebilirsin, iskeletler için bir sürü yer var.
 button0 = Acil durum düğmesi, bir düğmeye basman gerektiği ama yakınlarda hiç olmadığı zamanlar için mükemmel şekilde dizayn edilmiş.
 
 [Tokens]
 tokenmachine0 = Bu küçük makine [icon:token][name]Jeton[/name] alıyor ve karşılığında hediye veriyor! Bir hediye için [icon:token][name]3 Jeton[/name] harca?
-//Alır
-
-//Bu küçük makine [icon:token][name]Jeton[/name] alıyor ve hediye veriyor! Hediye için [icon:token][name]3 Jeton[/name] harca?
-
 tokenmachine1 = Yeterince [icon:token][name]Jetonun[/name] yok!
 tokenmachine2 = Makine boş!
 tokenmachine0_yes = Tabii ki
@@ -190,7 +184,7 @@ computerself0 = GÜVENCE UYGULAMASINI AÇTINIZ.
 computerself1 = BUGÜN GERÇEKTEN GÜZEL GÖRÜNÜYORSUNUZ.
 computerself2 = SAÇINIZA FARKLI BİR ŞEY Mİ YAPTINIZ? SAĞLIKLI GÖRÜNÜYORSUNUZ.
 computerself3 = DÜZENİ UNUTMAYIN VE ÖNCELİKLİ TUTUN. EĞER YAPILACAKLAR ÜST ÜSTE BİNERSE STRESLİ OLABİLİR.
-//ÇEVİRİ BİRAZ HATALI GİBİ
+//ÇEVİRİ HATALI?
 computerself4 = DIŞARI ÇIKIP TEMİZ HAVA ALMALISINIZ, ALABİLİYORSANIZ. ARA SIRA DIŞARI ÇIKMAK İYİDİR.
 computerself5 = YETERİNCE YEMEYİ UNUTMAYIN. KAHVALTIYI KAÇIRMAMAYA ÇALIŞIN, ÖNEMLİDİR.
 computerself6 = KÖTÜ YANLARINIZIN VE HOŞUNUZA GİTMEYEN ÖZELLİKLERİNİZİN OLMASI NORMALDİR. SİZİN İÇİN RAHAT BİR ŞEKİLDE ONLAR İLE YÜZLEŞMEKTE SORUN YOKTUR. 
