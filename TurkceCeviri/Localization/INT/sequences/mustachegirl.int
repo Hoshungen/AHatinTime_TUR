@@ -1,101 +1,107 @@
 [chapter1muchase]
-tower0 = Hey you,[waitlong] down there! [waitlong][waitlong]Don't think I didn't see you stalking me!
-tower1 = Us kids should stick together, not stalk one another. I mean, [name]Mafia Town[/name] can be a really dangerous place! So whaddaya say, wanna join my little rebellion?
-tower2 = Oh, by the way, did you have anything to do with the [timepiece][icon:timepiece]junk[/timepiece] falling from the sky? Yeah? Yikes, looks like you've got a lot of cleaning up to do, huh?
-tower3 = Tell you what, come up here and I can show you where some of your [timepiece][icon:timepiece]junk[/timepiece] landed!
+tower0 = Hey sen,[waitlong] aşağıdaki! [waitlong][waitlong]Beni sinsice takip ettiğini görmediğimi zannetme!
+tower1 = Biz çocuklar birbirimize kenetlenmeliyiz, sinsice takip etmemeliyiz. Demek istiyorum ki, [name]Mafya Şehri[/name] gerçekten tehlikeli bir yer olabilir! Yani ne diyorsun, benim küçük isyan birliğime katılmak ister misin?
+tower2 = Oh, aklıma gelmişken, Gökten düşen [timepiece][icon:timepiece]çöp[/timepiece] "did you have anything to do with the" Evet mi? Amanın, temizlenecek bir sürü şey var gibi gözüküyor, değil mi?
+tower3 = Ne diyorsun, buraya gel ve bazı [timepiece][icon:timepiece]çöp[/timepiece]lerinin nereye düştüğünü gösterebileyim!
 
-mu_follow0 = Follow me, rebel squad!
+mu_follow0 = Beni takip et, isyan ekibi!
 
-umbrella_there0 = Hey! I think one of your [timepiece][icon:timepiece]junk pieces[/timepiece] fell and smashed right into the market's fountain. Messed it up real good.
+umbrella_there0 = Hey! Bence senin [timepiece][icon:timepiece]çöp parçaları[/timepiece]ndan birisi düştü ve tam marketin fışkiyesini kırdı. Güzelim şeyi mahvetti.
 umbrella_there1 = When going over there, just avoid making eye contact with the Mafia and you'll be fine. Good luck, fellow rebel!
 umbrella_there2 = See ya!
 
 [chapter1combat]
-grabbed0 = Dude, get off[br]of me!!
-grabbed1 = I'm serious! Put me down, you big idiot!
-grabbed2 = What kind of man[br]grabs an innocent[br]little girl?!
-grabbed3 = Your cooking is bad[br]and you're a[br]bad person![br]Now let me go!!
-grabbed4 = I'm not going[br]anywhere with you![br]Let go!!
-grabbed5 = If you don't drop[br]me right now,[br]I'll bite!
-grabbed6 = Quit it!
+grabbed0 = Adamım, bırak[br]beni!!
+grabbed1 = Ciddiyim! Beni yere indir, seni koca aptal!
+grabbed2 = Hangi türden bir adam[br]masum[br]küçük bir kızı tutar?!
+grabbed3 = Yemekleriniz kötü[br]ve sen bir[br]kötüsün![br]Şimdi bırak beni!!
+grabbed4 = Seninle[br]hiçbir yere gitmeyeceğim![br]Bırak da gideyim!!
+grabbed5 = Beni şimdi[br]bırakmazsan,[br]Isırırım!
+grabbed6 = Kes şunu!
 
-battleend0 = Pfft. Can you believe them? What a bunch of losers.
-battleend1 = Hey. You're alright, new kid. Do you have a name?
-battleend2 = No? You shy? That's cool. You're a 'less talk, more fighting' kind of girl, I take it.
-battleend3 = That [timepiece][icon:timepiece]thing[/timepiece] you grabbed there... are you collecting them? Because I know where there's more of them.
-battleend4 = They've been raining from the sky ever since you arrived. I've seen the goons bring them to their headquarters waaay up there.
-battleend5 = We should go up there and get your junk! It'll be fun! I'll take any opportunity that involves messing up the Mafia.
-battleend6 = You with me, buddy?
+battleend0 = Pfft. Onlara inanabiliyor musun? Ne beceriksizler ama.
+battleend1 = Hey. Haklısın, yeni çocuk. Adın nedir?
+battleend2 = Yok mu? Utangaçsın? Bu havalı. Sen az konuşan, kavgacı türden bir kızsın, sanırsam.
+battleend3 = Bu oradan aldığın [timepiece][icon:timepiece]şey[/timepiece] ... onları topluyor musun? Çünkü ben daha fazlasının nerede olduğunu biliyorum.
+battleend4 = Onlar geldiğinden beri gökyüzünden yağıyor. Eşkiyaların yukarıdaki üslerine götürdüğünü gördüm.
+battleend5 = Oraya gidip çöpünü almalıyız! Eğlenceli olacak! İş mafyayla mücadele etmekse hiçbir fırsatı geri çevirmem.
+battleend6 = Benimle misin, dostum?
 
 [intruder]
-PreAwakening0 = Are you ready to take down some Mafia!? Let's do it! I'm psyched!
-PreAwakening1 = Let's go over the plan! All assaults need a good plan, or it'll be a flop!
-PreAwakening2 = First, we strangle them! Choke 'em and watch 'em beg for mercy! That'll show them!
-PreAwakening3 = No, wait, strangling is too kind...
-PreAwakening4 = We smash them together into mush, and put their remains in a jar!
-PreAwakening5 = Then we sell the jar for pocket money! That'll be the ultimate salt in the wound!
-PreAwakening6 = ... [scream]*ahem*[/scream] But first, we have to make it through their [name]Mafia HQ[/name].
-PreAwakening7 = Once we find and dethrone the [name]Mafia Boss[/name], the rest will follow. Then our mush and jar party will be no problem!
-PreAwakening8 = We've gotta get you geared up! Your hat is basic, and we don't do basic in this gang!
-PreAwakening9 = [hint][icon:yarn]Yarn[/hint] can be found around Mafia Town and used to stitch new hats if you're crafty. I've collected one for you!
-PreAwakening10 = You need more yarn for some hats than others. I guess being creative isn't free, huh? So keep an eye out for yarn!
-PreAwakening11 = Now you're a killing machine! Let's go get them!!
+[intruder]
+PreAwakening0 = Biraz Mafya pataklamaya hazır mısın!? Haydi yapalım! Heyecanladım!
+PreAwakening1 = Plan üzerinden hareket edelim! Tüm suikastlerin iyi bir plana ihtiyacı vardır, yoksa fiyasko olurlar!
+PreAwakening2 = Önce, boğalım onları ! Onları boğalım ve nasıl merhamet için yalvardıklarını izleyelim! Bunu onlara göstereceğiz!
+PreAwakening3 = Hayır, bekle, boğmak çok kibar olur...
+PreAwakening4 = Onları parçalayarak lapa yapalım ve kalanları da kavonozun içine dolduralım!
+PreAwakening5 = Sonra da kavanozu cep harçlığı için satalım! Yaralarına tuz basmak olacak bu!
+PreAwakening6 = ... [scream]*öhöm*[/scream] Ama önce, onların [name]Mafya Üssü[/name]ne girmeliyiz.
+PreAwakening7 = Önce [name]Mafya Patronu[/name]nu bulmalı ve onu tahtından indirmeliyiz, geri kalan takip edecektir. Sonra da lapa ve kavanoz partimiz sorunsuz olacaktır!
+
+PreAwakening8 = We've gotta get you geared up! Şapkan basit ve bu çetede basit bir şey yapmıyoruz!
+
+
+
+
+
+PreAwakening9 = [hint][icon:yarn]Yumak[/hint] Mafya Şehrinde bulunabilir ve yeni şapkalar örmek için kullanılabillir. Senin için bir tane topladım!
+PreAwakening10 = Bazı şapkalarda diğerlerinden daha fazla yumağa ihtiyacın olacak. Yaratıcı olmak bedava değil, değil mi? Bu yüzden gözün yumakta olsun!
 
 [mafiahq]
-outside0 = You took your time! Help me out here!
-outside1 = Get these brutes off my case and we can go inside!
-outside2 = Good job, kid!
-outside3 = Let's go,[br]it's showtime[br]baby!
-freezer0 = Go ahead, kid! Open this thing up and I'll keep guard here.
-captured0 = Let go of me,[br]you psycho!!
-mafia_ball_hint0 = Hat kid![br]Hit him already!
-mafia_ball_hint1 = C'mon! Crawl up[br]and hit him!
+outside0 = Zamanını alıyorum ama! Bana yardım et!
+outside1 = Şu canavarlardan kurtulalım da içeri girebilelim!
+outside2 = Aferin, çocuk!
+outside3 = Haydi gidelim,[br]şov zamanı[br]bebeğim!
+freezer0 = Devam et, çocuk! Sen bu şeyi aç, ben burada nöbet tutacağım.
+captured0 = Bırak beni,[br]seni psikopat!!
+mafia_ball_hint0 = Şapkalı çocuk![br]Ona vurdun bile!
+mafia_ball_hint1 = Hadi! üstüne çık[br]ve vur ona!
 
-timepiecebreak0 = So what do these things do, anyway? Are they some sort of rare collector's item for nerds?
-timepiecebreak1 = Are they some sort of rare c... wait, huh?
-timepiecebreak2 = [big][scream]Whoa, WHAT?![/scream][/big]
-timepiecebreak3 = Wha... did, uhm... did you know about this?
-proposal0 = [scream]This is crazy![/scream] Do you even realize what could be done with these?
-proposal1 = We could make it so that you never got punched in the face by the Mafia that one time!
-proposal2 = We could beat up the Mafia, travel back in time, and then beat them up again!
-proposal3 = No, wait, we could make it so the Mafia never arrived on the island!
-proposal4 = Wait, wait, wait, even better! We could be crime-fighting time travellers!
-tantrum0 = Wait, what?! This doesn't make any sense!
-tantrum1 = You have all this power, and you're not gonna use it to fight evil?
-tantrum2 = If you're not gonna use them to fight evil... then I will!
-tantrum3 = I'm not gonna let this island remain as Mafia Town! I'll collect all the [timepiece][icon:timepiece]Time Pieces[/timepiece] for myself! You have my word on it!
-pickpocket_no_va = [name]Mustache Girl[/name] has pickpocketed half your [icon:money][hint]Pons[/hint].
+timepiecebreak0 = O şeyler ne işe yarıyor, her neyse? Onlar koleksiyoncuların topladığı türden şeylerden mi?
+timepiecebreak1 = Onlar koleksiyoncuların topladığı tür... bekle, ne?
+timepiecebreak2 = [big][scream]Dur, NE?![/scream][/big]
+timepiecebreak3 = Ne... bunu, um... bunu biliyor muydun?
+proposal0 = [scream]Bu çılgınca![/scream] Bunlarla neler yapılabileceğinin farkında mısın?
+proposal1 = Bunu kullanarak Mafyadan bir daha asla yumruk yemezdin!
+proposal2 = Mafyayı dövebiliriz, zamanda yolculuk yapıp, onları yeniden dövebiliriz!
+proposal3 = Hayır, bekle, Mafyayı asla bu adaya getirmemiş yapabiliriz!
+proposal4 = Bekle, bekle, bekle, daha da iyisi var! Kendimizi suçla mücadeleye adamış zaman gezginleri olabiliriz!
+tantrum0 = Bekle, ne?! Kulağa saçma geliyor!
+tantrum1 = Tüm bu güce sahipsin ve bunu sen kötülüklere karşı kullanmayacak mısın?
+tantrum2 = Eğer sen kötülerle savaşmayacaksan... bunu öyleyse ben yaparım!
+tantrum3 = Bu adanın Mafya Şehri oarak kalmasına izin vermeyeceğim! Tüm [timepiece][icon:timepiece]Zaman Parçaları[/timepiece]nı kendim toplayacağım! Burada söz hakkım var!
+pickpocket_no_va = [name]Mustache Girl[/name] [icon:money][hint]Pon[/hint]larının yarısını çaldı.
 
 [MuMission_Finale]
-intro0 = Alright, I'm in! I made it! I infiltrated that kid's spaceship without the alarms going off.
-intro1 = I bet she's collected a ton more [timepiece][icon:timepiece]Time Pieces[/timepiece] than I have... now where does she keep em?
-vault0 = Jackpot! This must be where she stores 'em all!
-vault2 = Time to mess with time a little!
+intro0 = Tamamdır, İçerdeyim! Başardım! Ben bu çocuğun uzay gemisine alarmları çalıştırmadan sızdım.
+intro1 = Onun benden daha çok [timepiece][icon:timepiece]Zaman Parçaları[/timepiece] topladığına bahse girerim... şimdi o onları nerede saklıyor?
+vault0 = Bingo! Çocuğun onları sakladığı yer burada olmalı!
+vault2 = Zamanla biraz uğraşma zamanı!
 
 [finale]
-plead0 = Oh wow, what a touching story. Just kidding! Bad guy! NEXT!
-plead1 = I said, NEXT!
-plead2 = Oh, it's you!
-plead3 = You've been kinda a selfish little pest. But eh! You haven't actually stood in my way. You get to go on, you're a good guy, I guess.
-plead4 = Go on. You get to live.
-plead5 = NEXT!
+plead0 = Ah vay be, ne dokunaklı bir hikaye. Şakaydı! Kötü birisin! SONRAKİ!
+plead1 = SONRAKİ, dedim!
+plead2 = Oh, bu sensin!
+plead3 = Bencil küçük bir haşere oldun sayılır. Ama eh! Gerçekten karşımda durmadın. Devam et, sen iyi birisisin, sanırsam.
+plead4 = Devam et. Yaşayacaksın.
+plead5 = SONRAKİ!
 
-slap0 = [scream]EXCUSE ME?[/scream]
-slap1 = Don't you dare get anywhere near me. I don't think you quite understand who's in charge, little missy.
-slap0_alt = [scream]PATHETIC![/scream]
-slap2 = You know, I was willing to forgive you. I once thought we were gonna be best buds.
-slap3 = But NOPE, you turned out to be rotten and selfish. Save the planet from bad guys? Pfft, who needs that, am I right?
-slap4 = Look at all I've done without you. I've restored justice. I AM the justice. No more bad guys, ever.
-slap5 = I don't need you. This planet doesn't need you. Nobody will miss you, and nobody will care.
-slap6 = YOU are the bad guy, and I'll show you how this justice system deals with bad guys.
+slap0 = [scream]ÖZÜR DİLERİM?[/scream]
+slap1 = Yanıma yaklaşmaya nasıl cüret edersin. Kimin suçlu olduğunu anladığını hiç düşünmüyorum, küçük bayan.
+slap0_alt = [scream]ACINASI![/scream]
+slap2 = Biliyor musun, seni affetmeye istekliydim. En iyi dostum olacağımızı düşünmüştüm.
+slap3 = Ama HAYIR, bencil ve kötü oldun. Bu gezegeni kötü adamlardan kurtamak mı? Pfft, kimin umrunda değil mi, haksız mıyım?
+slap4 = Sensiz yaptığım şunca şeye bir bak. Adaleti yerine getirdim. BEN adaletim. Daha fazla kötü adam yok, asla.
+slap5 = Sana ihtiyacım yok. Bu dünyanın sana ihtiyacı yok. Kimse seni özlemeyecek, ve kimse önemsemeyecek.
+slap6 = SEN kötü adamsın, ve bu adalet sistemimin kötü adamlara karşı ne yaptığını göstereyim.
 
-leaving0 = Really? You're leaving? Not even going to put up a fight? Pathetic.
+leaving0 = Gerçekten? Ayrılıyor musun? Kavga bile etmeden mi? Acınası.
 
-group_counter0 = Wh, wha? But I'm fixing everything! No more bad guys! Why can't you see that I'm doing this for all of us!
-group_counter1 = How can you stand behind these people? They're crooks! Criminals! And you're... you're helping them?
-group_counter2 = This ends now!
+group_counter0 = N, ne? Ama her şeyi yoluna sokuyordum! Kötü adamlar yok! Bunu hepimiz için yaptığımı neden anlamıyorsunuz!
+group_counter1 = Nasıl bu insanların arkasında duruyorsun? Onlar hırsız! Suçlu! Ve sen... onlara yardım mı ediyorsun?
+group_counter2 = Bu şimdi bitiyor!
 
-final_phase0 = [scream][big]Enough!![/big][/scream]
+final_phase0 = [scream][big]Yeter!![/big][/scream]
 
-suicide0 = W-what is this!? If everyone disappears but me, then I'd be all alone![br]Bad guys, stop it!
-suicide1 = My... my powers are disappearing!?
+suicide0 = N-ne bu!? Herkes kaybolur ama ben olmazsam, yapayalnız olurum![br]Kötü adamlar, durun!
+suicide1 = Ben... benim güçlerim kayboluyor!?
