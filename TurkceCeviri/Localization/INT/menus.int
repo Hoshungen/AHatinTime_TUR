@@ -331,16 +331,15 @@ Item_Adv_ParticleShadows_Item_Full = Full
 Item_Adv_AllowDetailShadows_Title = Detail Shadows
 Item_Adv_AllowDetailShadows_Desc = Allows minor objects (like collectibles) to cast shadows. Quality and visibility depends on Shadow Resolution.
 
-Header_Adv_Effects = Post-Processing Effects
+Header_Adv_Effects = Post-Processing Efektleri
 Item_Adv_DoF_Title = Alan Derinliği
-Item_Adv_DoF_Desc = Depth of Field applies a blur to background scenery. It allows you to focus on what is in front of you, and removes visual noise from objects far away. Complex Depth of Field is more precise, but at a much higher performance cost.
-Item_Adv_DoF_Item_None = None
-Item_Adv_DoF_Item_Simple = Simple
-Item_Adv_DoF_Item_Standard = Standard
-Item_Adv_DoF_Item_Complex = Complex
-
+Item_Adv_DoF_Desc = Alan Derinliği applies a blur to background scenery. It allows you to focus on what is in front of you, and removes visual noise from objects far away. Complex Depth of Field is more precise, but at a much higher performance cost.
+Item_Adv_DoF_Item_None = Yok
+Item_Adv_DoF_Item_Simple = Basit
+Item_Adv_DoF_Item_Standard = Standart
+Item_Adv_DoF_Item_Complex = Karmaşık
 Item_Adv_Bloom_Title = Bloom
-Item_Adv_Bloom_Desc = Etkinleştirildiğinde, parlak alanlar parıltı efetki olusturacaktır.
+Item_Adv_Bloom_Desc = Etkinleştirildiğinde, parlak alanlar parıltı efetki oluşturacaktır.
 
 Item_Adv_LightShafts_Title = Işık Kaynakları
 Item_Adv_LightShafts_Desc = Güneş, ve diğer parlak ışık kaynakları, will produce rays that can be blocked by objects in front of the camera.
@@ -702,10 +701,9 @@ PrizeBadgeFlair = Rozet Yeteneği
 cruise = Tamamen Yeni bir Bölüm: Buz Gibi Yolculuk!
 deathwish = Yeni Rekabet Modu: Son İstek!
 cruise_acts = 3 yeni Seyahat bölümü!
-//Bölüm=Act?=Perde
 
 rifts = Altı yeni Zaman Yarığı!
-unlocks0 = Tonlarca açılabilir giysiler, yetenekler,
+unlocks0 = Bir sürü açılabilir giysiler, yetenekler,
 unlocks1 = boyalar, kamera filtreleri!
 
 coop_title = Yeni özellik: Kooperatif
@@ -736,8 +734,8 @@ Tüm macerayı bölünmüş ekran saçmalıklarında kendinize hayatta kalmak i�
 
 dlc2_title = Yeni: Nyakuza Metro
 dlc2_bullet0 = İmparatoriçe'nin kontrolündeki
-dlc2_bullet1 = tehlikeli metro tünellerindeki
-dlc2_bullet2 = tamamı yeni Zaman Parçalarını toplayın!
+dlc2_bullet1 = tehlikeli metro tünellerinde
+dlc2_bullet2 = tamamen yeni Zaman Parçalarını toplayın!
 
 ghostparty_title = Yeni: Çevrimiçi Lobi
 ghostparty_bullet0 = Yabancılarla veya
@@ -756,7 +754,7 @@ Splash_ViewStorePage = Mağazada Görüntüle
 Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
 
 [DeathWishMap]
-Locked = Act/Perde/Bölüm Kilitli
+Locked = Perde Kilitli
 Reward = Ödülü al!
 Unlock = Kilidi Aç
 Disable = Deaktif
@@ -765,7 +763,7 @@ Play = Oyna
 HardMode = Zor Modu Etkinleştir
 Reset = Sözleşmeyi Sıfırla
 Tip = Snatcher'ın Önerisi
-Debug = HATA AYIKLAMA Tamam/Temizle
+Debug = HATA AYIKLAMA Tamamla/Temizle
 
 ResetDeathwishQuestion = BU sözleşmedeki ilerlemeyi TÜM sıfırla?
 ResetDeathwishConfirm = Acı ve Gözyaşıyla!
@@ -858,7 +856,7 @@ Item_ScreenshotFolder_View = Aç...
 UndiscoveredCombo = Keşfedilmemiş bir kombo şimdi uygun, onu bulabilecek misin?
 
 [Stickers]
-NewRareSticker = Nadir bir sticker has appeared in [location] - go find it!
+NewRareSticker = Nadir bir sticker has appeared in [location] - git ve bul!
 NewRareStickerUnknownLocation = A rare sticker has appeared somewhere - go find it!
 MachineNoRareSticker = The machine is detecting no anomalies right now, maybe it will pick up a signal later.
 MachineRareSticker = The machine has detected a rare signal, the signal says...[br][stickerloc]
