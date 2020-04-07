@@ -1,13 +1,13 @@
 [chapter1muchase]
-tower0 = Hey sen,[waitlong] aşağıdaki! [waitlong][waitlong]Beni sinsice takip ettiğini görmediğimi zannetme!
+tower0 = Hey sen,[waitlong] aşağıdaki! [waitlong][waitlong]Beni sinsice takip ettiğini görmediğimi sanma!
 tower1 = Biz çocuklar birbirimize kenetlenmeliyiz, sinsice takip etmemeliyiz. Demek istiyorum ki, [name]Mafya Şehri[/name] gerçekten tehlikeli bir yer olabilir! Yani ne diyorsun, benim küçük isyan birliğime katılmak ister misin?
-tower2 = Oh, aklıma gelmişken, Gökten düşen [timepiece][icon:timepiece]çöp[/timepiece] "did you have anything to do with the" Evet mi? Amanın, temizlenecek bir sürü şey var gibi gözüküyor, değil mi?
+tower2 = Oh, aklıma gelmişken, Gökten düşen [timepiece][icon:timepiece]çöp[/timepiece]lerle bir şey yapacak mısın? Öyle mi? Amanın, temizlenecek bir sürü şey var gibi gözüküyor, değil mi?
 tower3 = Ne diyorsun, buraya gel ve bazı [timepiece][icon:timepiece]çöp[/timepiece]lerinin nereye düştüğünü gösterebileyim!
 
-mu_follow0 = Beni takip et, isyan ekibi!
+mu_follow0 = Beni takip et, isyan çetesi!
 
 umbrella_there0 = Hey! Bence senin [timepiece][icon:timepiece]çöp parçaları[/timepiece]ndan birisi düştü ve tam marketin fışkiyesini kırdı. Güzelim şeyi mahvetti.
-umbrella_there1 = When going over there, just avoid making eye contact with the Mafia and you'll be fine. Good luck, fellow rebel!
+umbrella_there1 = Oraya giderken, Mafya ile göz teması kurmaktan kaçın, iyi olacaksın. İyi şanslar, isyankar dostum!
 umbrella_there2 = See ya!
 
 [chapter1combat]
@@ -28,23 +28,16 @@ battleend5 = Oraya gidip çöpünü almalıyız! Eğlenceli olacak! İş mafyayl
 battleend6 = Benimle misin, dostum?
 
 [intruder]
-[intruder]
 PreAwakening0 = Biraz Mafya pataklamaya hazır mısın!? Haydi yapalım! Heyecanladım!
 PreAwakening1 = Plan üzerinden hareket edelim! Tüm suikastlerin iyi bir plana ihtiyacı vardır, yoksa fiyasko olurlar!
-PreAwakening2 = Önce, boğalım onları ! Onları boğalım ve nasıl merhamet için yalvardıklarını izleyelim! Bunu onlara göstereceğiz!
+PreAwakening2 = Önce, boğalım onları! Onları boğalım ve nasıl merhamet için yalvardıklarını izleyelim! Bunu onlara göstereceğiz!
 PreAwakening3 = Hayır, bekle, boğmak çok kibar olur...
 PreAwakening4 = Onları parçalayarak lapa yapalım ve kalanları da kavonozun içine dolduralım!
 PreAwakening5 = Sonra da kavanozu cep harçlığı için satalım! Yaralarına tuz basmak olacak bu!
 PreAwakening6 = ... [scream]*öhöm*[/scream] Ama önce, onların [name]Mafya Üssü[/name]ne girmeliyiz.
 PreAwakening7 = Önce [name]Mafya Patronu[/name]nu bulmalı ve onu tahtından indirmeliyiz, geri kalan takip edecektir. Sonra da lapa ve kavanoz partimiz sorunsuz olacaktır!
-
-PreAwakening8 = We've gotta get you geared up! Şapkan basit ve bu çetede basit bir şey yapmıyoruz!
-
-
-
-
-
-PreAwakening9 = [hint][icon:yarn]Yumak[/hint] Mafya Şehrinde bulunabilir ve yeni şapkalar örmek için kullanılabillir. Senin için bir tane topladım!
+PreAwakening8 = Seni güçlendirmeliyiz! Şapkan basit ve bu çetede basit bir şey yapmıyoruz!
+PreAwakening9 = [hint][icon:yarn]Yumak[/hint] Mafya Şehrinde bulunabilir ve yeni şapkalar örmek için kullanılabillir. Senin için bir tane aldım!
 PreAwakening10 = Bazı şapkalarda diğerlerinden daha fazla yumağa ihtiyacın olacak. Yaratıcı olmak bedava değil, değil mi? Bu yüzden gözün yumakta olsun!
 
 [mafiahq]
@@ -95,7 +88,7 @@ slap4 = Sensiz yaptığım şunca şeye bir bak. Adaleti yerine getirdim. BEN ad
 slap5 = Sana ihtiyacım yok. Bu dünyanın sana ihtiyacı yok. Kimse seni özlemeyecek, ve kimse önemsemeyecek.
 slap6 = SEN kötü adamsın, ve bu adalet sistemimin kötü adamlara karşı ne yaptığını göstereyim.
 
-leaving0 = Gerçekten? Ayrılıyor musun? Kavga bile etmeden mi? Acınası.
+leaving0 = Gerçekten mi? Ayrılıyor musun? Kavga bile etmeden mi? Acınası.
 
 group_counter0 = N, ne? Ama her şeyi yoluna sokuyordum! Kötü adamlar yok! Bunu hepimiz için yaptığımı neden anlamıyorsunuz!
 group_counter1 = Nasıl bu insanların arkasında duruyorsun? Onlar hırsız! Suçlu! Ve sen... onlara yardım mı ediyorsun?
