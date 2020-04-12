@@ -6,7 +6,7 @@ SystemSetting_DefaultValue = Varsayılan:
 SystemSetting_Value_Checked = Aktif
 SystemSetting_Value_Unchecked = Deaktif
 SystemSetting_Requires_Restart = Bu ayarın uygulanması için yeniden başlatılması gerekiyor.
-SystemSetting_ArtStyle_Warning = Uyarı: Oyunun görsel tarzı bu özellik ile tasarlanmıştır. Bunu kapattığınızda çok az bir performans getirisi olacaktır. Bu ayarın varsayılan değerde bırakılmasını tavsiye ediyoruz; sadece kesinlikle eminseniz kapatın.
+SystemSetting_ArtStyle_Warning = Uyarı: Oyunun görsel tarzı bu özelliğin etkin olmasıyla tasarlanmıştır. Bunu kapattığınızda çok az bir performans getirisi olacaktır. Bu ayarın varsayılan değerde bırakılmasını öneriyoruz; sadece kesinlikle eminseniz kapatın.
 SystemSetting_Gameplay_Warning = Uyarı: Bu ayarın varsayılanda bırakılması şiddetle önerilir!
 SystemSetting_Confirm = ONAYLA
 SystemSetting_Back = GERİ
@@ -39,7 +39,7 @@ AudioSettings_Icon_Volume = Ses
 AudioSettings_Icon_Music = Müzik
 
 InputSettings_Title = Girdi Ayarları
-InputSettings_Desc = Giriş metodunu değiştirin, yeni bir gamepad ekleyin veya tuşları yeniden atayın.
+InputSettings_Desc = Giriş metodunu değiştirin, yeni bir oyun kolu ekleyin veya tuşları yeniden atayın.
 InputSettings_Desc_Console = Kontrol ile alakalı ayarları düzenleyin.
 
 InputSettings_Icon_KeyBinds = Girdi Yardımı
@@ -60,7 +60,7 @@ Item_SpeedrunTimer_Item_GameOnly = Sadece Oyun Zamanı
 Item_SpeedrunTimer_Item_ActOnly = Sadece Bölüm Zamanı
 
 Item_Language_Title = Dil
-Item_Language_Desc = Yazılarda gözükecek dili ayarlar. Seslendirmeyi değiştirmez (ses ayarlarından Seslendirmeyi ayarlayabilirsiniz).
+Item_Language_Desc = Yazılarda görünecek dili ayarlar. Seslendirmeyi değiştirmez (ses ayarlarından Seslendirmeyi ayarlayabilirsiniz).
 
 Item_SkipCinematics_Title = Otomatik Atlanabilir Sahneleri Atlama
 Item_SkipCinematics_Desc = Aceleniz varsa, onları zaten görmüşseniz, bu seçeneği etkinleştirerek oyun içi tüm atlanabilir sahneleri atlayabilirsiniz. Unutmayın, bu ayar olmadan da sinematikleri atlayabilirsiniz.
@@ -139,7 +139,7 @@ Item_CameraSmoothRotation_Item_Medium = Orta
 Item_CameraSmoothRotation_Item_Fast = Hızlı
 Item_CameraSmoothRotation_Item_VeryFast = Çok Hızlı
 Item_CameraSmoothRotation_Item_Off = Kapalı
-Item_CameraSmoothRotation_Item_Instant = Hemen
+Item_CameraSmoothRotation_Item_Instant = Anında
 
 Item_CameraFocusDuration_Title = Kamera Snap Hızı
 Item_CameraFocusDuration_Desc = Kameranın deklanşör tuşuna bastığınızda, arkanızdan kamera hareket eder. Bu ayar hareketin ne kadar hızlı olduğunu ayarlar.
@@ -235,7 +235,7 @@ Item_Configure = Ayarla...
 Header_RefreshRate = Tazeleme Oranı
 
 Item_FrameRate_Title = Maksimum Kare Oranı
-Item_FrameRate_Desc = İzin verilen maksimum kare oranını ayarlar, ya da saniyedeki kare sayısını (FPS) ayarlar. Games look best when the frame rate is consistent, but often it changes drastically depending on what is on-screen. This is avoided by setting a maximum frame rate. Oyununuz 60 FPSyi kaldıramıyorsa 60 FPSnin altına ayarlayın.
+Item_FrameRate_Desc = İzin verilen maksimum kare oranını ayarlar, ya da saniyedeki kare sayısını (FPS) ayarlar. Games look best when the frame rate is consistent, but often it changes drastically depending on what is on-screen. This is avoided by setting a maximum frame rate. Sisteminiz 60 FPSyi kaldıramıyorsa 60 FPSnin altına ayarlayın.
 
 Item_FrameRate_Item_Unlocked = Sınırsız
 
