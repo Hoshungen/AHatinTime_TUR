@@ -1,45 +1,30 @@
 [internal]
 conductor0 = Heyy... Batan bir Gemi getir bana, kayalıkların üzerinde olsun. Ve onu ortadan ikiye güzelcene ayır.
 conductor1 = Oh, senin orda olduğunu farketmemiştim, kızım. Seyahate çıktık, değil mi?
-conductor2 = İçtikten sonra, bence onlar they might have some wee bottles of juice. 
-//Cümleyi anlamadım
-conductor3 = Yetenekli birisisin, elbette, fakat what I'm having isnae for young lasses.
-//Cümle saçma oluyor= genç kızlara karşı hiç öyle değilim.
+conductor2 = İçtikten sonra, bence onlar küçük meyve suyu şişesi alabilirler.
+conductor3 = Marifetli birisisin, kesinlikle, fakat küçük kızlar için öyle düşünmüyorum.
 
 [act2]
 conductor0 = [wave].....hık....Ooh, selam, kızım![/wave]
-conductor1 = [wave]Nasıl, nasıl gidiyor, hı? İyi bir tatil geçiriyor musun, kızım?[/wave]
-conductor2 = [wave]Ah, benim için. Grooves yok, film yok. Sadece ben ve benim şuradaki küçük arkadaşlarım. Hayat budur, hı?[/wave]
-conductor3 = [wave]... Geminin geri kalanının nasıl olduğunu merak ediyorum...[wave]
+conductor1 = [wave]Nasıl, nasıl gidiyor, ha? İyi bir tatil geçiriyor musun, kızım?[/wave]
+conductor2 = [wave]Ah, benim için. Grooves yok, film yok. Sadece ben ve benim şuradaki küçük arkadaşlarım. Hayat budur, ha?[/wave]
+conductor3 = [wave]... Geminin tümünün nasıl olduğunu merak ediyorum...[wave]
 
 [docks]
-conductor0 = Peki, bu küçük kızımız değil mi? Yıldız olmak nasıl gidiyor?
-
-conductor1a = Tell you the truth, I'm taking some time off after that [br]gaga kafalı [icon:djgrooves] [name]DJ[/name] tried tae to, peki, biliyosun.
-
-
-conductor1b = Oh ve tüm bu... bıçak vakasında üzgünüm. [br]What's a wee argument between colleagues though, lassy?
-
-
-conductor1c = I'm taking some time off tae relax. Get away from that noisy [br][icon:djgrooves][name]DJ Grooves[/name] fer a while.
-
-
-conductor2 = Neyse, I'd better go ask about the childcare on board. Bu küçük delikanlıları seviyorum ama onları bar'a götüremem, yoksa?
-//^Yoksa ek cümle olarak eklendi
-
-
-
-
-sorsam iyi olur.
-
+conductor0 = Peki, bu küçük kızımız değil mi? Yıldız olmak nasıl?
+conductor1a = Gerçeği söylersem, bir süreliğine ara veriyordum hani şu [br]gaga kafalı [icon:djgrooves] [name]DJ[/name] yapacağı şeyden sonra, peki, biliyosun.
+conductor1b = Ah ve tüm bu... bıçak kazası için üzgünüm. [br]Meslektaşlarımız arasında böyle şeyler olabilir de mi, kızım?
+conductor1c = Dinlenmek için bir süre ara verdim. Şu şamatacı [br][icon:djgrooves][name]DJ Grooves[/name]'ten bir süre kurtuldum.
+conductor2 = Neyse, güvertedeki ocuk Bakıcısına sorsaydım iyi olurdu. Bu küçük delikanlıları seviyorum ama onları bar'a götüremem, yoksa?
 
 [act3]
 finale0 = Bekle, kızım, nireye gidiyon? Onu kurtaracak mısın?
 finale1 = Ben batan bir gemide oyalanamam! Eğer çabuk dönemezsen, sensiz ayrılacağız!
 
 conductor0 = O küçük kız nerede? Bu gemi batıyor, biz şimdi buradan ayrılmalıyız!
-conductor1 = [scream]Buraya gel, kızım! Şimdi ayrılıyoruk ŞİMDİ!![/scream]
-conductor2 = Hayhay, teşekkürler kızım. Küçükler henüz yüzmeyi öğrenemedi!
+conductor1 = [scream]Buraya gel, kızım! ŞİMDİ ayrılıyoruz!![/scream]
+
+conductor2 = Hayhay, teşekkürler kızım. Küçükler yüzmeyi öğrenemedi henüz!
 
 carried0 = Ah! Dikkatli ol, kızım! Tüylerimi düşün!
 
