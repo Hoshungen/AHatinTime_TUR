@@ -242,7 +242,7 @@ Item_FrameRate_Item_Unlocked = Sınırsız
 Item_VSync_Title = Dikey Eşitleme
 Item_VSync_Desc = Forces the game to render at your monitor's refresh rate. This gets rid of screen tearing, but at the cost of delayed input. This option is rarely recommended.
 
-Item_Gamme_Title = Kontrast Parlaklığı
+Item_Gamme_Title = Parlaklık
 Item_Gamme_Desc = Oyunun parlaklığını ayarlar. Eğer oyun bazı yerlerde çok karanlıksa, bu ayarı açmayı düşünün.
 
 Item_ColorBlindness_Title = Renk Körlüğü Düzeltmesi
