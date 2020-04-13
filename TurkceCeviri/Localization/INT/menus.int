@@ -1,4 +1,4 @@
-NOTLAR: Eski dosyalardan transfer işlemi yapılmalı
+Instant Camera=Şipşak kamera? Line'ları kontrol edilmeli.
 
 
 [systemsettings.global]
@@ -112,26 +112,15 @@ Item_CameraShake_Title = Kamera Sallantısı
 Item_CameraShake_Desc = Hafif sallantılar gibi yer sarsıntılarının gerçekçiliğini hissetmek için açın. Mide bulantısı hissediyorsanız kapatın.
 
 Item_ControllerTopDown_Title = Kuş Bakışı Kamera
-Item_ControllerTopDown_Desc = Etkinse the camera will zoom out to a bird's-eye view. If disabled, the camera will rotate freely.
+Item_ControllerTopDown_Desc = Etkinse kamera kuş bakışına küçültülecektir. Deaktifse, kamera özgürce döndürülecektir.
 Item_ControllerTopDown_Item_None = Yok
 Item_ControllerTopDown_Item_Controller = Sadece Controller
 Item_ControllerTopDown_Item_Mouse = Sadece Fare
 Item_ControllerTopDown_Item_All = Her İkisi de
 
 Item_CameraSmoothRotation_Title = Kamera Yumuşatması
-Item_CameraSmoothRotation_Desc = İstenen açıda kamerayı yavaşça hareket ettirir. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching). Effect is most noticeable with a mouse. Kapatmak için Raw Input.
-Item_CameraSmoothRotation_Desc_Console = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching).
-
-
-
-
-
-
-
-
-
-
-
+Item_CameraSmoothRotation_Desc = İstenen açıda kamerayı yavaşça hareket ettirir. Böylece yol tutmasını, titremelerinin azalmasına yardımcı olur. (especially for any third parties watching). Effect is most noticeable with a mouse. Kapatmak için Raw Input.
+Item_CameraSmoothRotation_Desc_Console = Kamerayı istenilen açıya kamerayı pürüzsüzce hareket ettirir. Böylece yol tutmasının, titremelerin azalmasına yardımcı olur. (özellikle for any third parties watching).
 
 Item_CameraSmoothRotation_Item_VerySlow = Çok Yavaş
 Item_CameraSmoothRotation_Item_Slow = Yavaş
@@ -143,31 +132,20 @@ Item_CameraSmoothRotation_Item_Instant = Anında
 
 Item_CameraFocusDuration_Title = Kamera Snap Hızı
 Item_CameraFocusDuration_Desc = Kameranın deklanşör tuşuna bastığınızda, arkanızdan kamera hareket eder. Bu ayar hareketin ne kadar hızlı olduğunu ayarlar.
-//snap=deklanşör
-
-
-
-
-
-
-
-
-
-
 
 Item_CameraDistance_Title = Kamera Mesafesi
-Item_CameraDistance_Desc = Controls how far away the camera is from the player by default.
+Item_CameraDistance_Desc = Kameranın oyuncudan ne kadar uzakta olacağını ayarlar.
 Item_CameraDistance_Item_VeryClose = Çok Yakın
 Item_CameraDistance_Item_Close = Yakın
 Item_CameraDistance_Item_Standard = Standart
 Item_CameraDistance_Item_Far = Uzak
 Item_CameraDistance_Item_VeryFar = Çok Uzak
 
-Item_CameraZoomRestore_Title = Auto-Restore Camera Speed
+Item_CameraZoomRestore_Title = Auto-Restore Kamera Hızı
 Item_CameraZoomRestore_Desc = When you've moved around for a bit, the camera will return to its default camera distance. This setting controls how fast that happens.
 
 Header_Game_Misc = Diğer
-Item_CameraUpscaling_Title = Instant Camera Picture Resolution
+Item_CameraUpscaling_Title = Anında Kamera Resim Çözünürlüğü
 Item_CameraUpscaling_Desc = The game item "Instant Camera" can take pictures at higher resolution than the game is in. Change this option to set at how high a resolution pictures should be taken (at the cost of pictures taking longer to capture).
 Item_CameraUpscaling_Item_0 = Oyunla Aynı
 
@@ -273,17 +251,17 @@ Item_EffectsQuality_Title = Efekt Kalitesi
 Item_EffectsQuality_Desc = Determines the number and quality of post-processing effects, such as anti-aliasing, bloom and depth of field. Higher quality provides better and more accurate effects.
 
 Item_LightingQuality_Title = Gölge Kalitesi
-Item_LightingQuality_Desc = Determines the visual quality of shadows, and which objects are allowed to cast shadows. Higher quality provides sharper shadows and more shadow casters. Lowering this provides a significant performance boost.
+Item_LightingQuality_Desc = Gölgelerin görsel kalitesini belirler, ve hangi nesnelerin gölge saçacığını belirler. Yüksek kalite keskin gölgeler ve daha fazla gölge saçar. Bunu düşürmek performansı oldukça arttırır.
 
 ; Advanced
 Item_AdvancedGraphicsSettings_Title = Gelişmiş Grafik Ayarları
-Item_AdvancedGraphicsSettings_Desc = Open the menu to configure all graphical options individually.
+Item_AdvancedGraphicsSettings_Desc = Tüm grafik ayarlarını menüyü açarak teker teker ayarlayabilirsiniz.
 
 ; Automatic
 Item_AutomaticGraphicsSettings_Title = Otomatik Grafik Ayarları
-Item_AutomaticGraphicsSettings_Desc = Your graphics settings are configured automatically as you play, en iyi performans için optimize edilmiştir!
+Item_AutomaticGraphicsSettings_Desc = Grafik ayarlarınız oyundaki gibi otomatik ayarlanmıştır, en iyi performans için optimize edilmiştir!
 
-Header_Adv_Characters = Characters
+Header_Adv_Characters = Karakterler
 Item_Adv_SkelMeshLODBias_Title = Character Model LOD Bias
 Item_Adv_SkelMeshLODBias_Desc = As you get further away from character models, they will gradually decrease in quality. Increasing this setting increases how far they can be before this happens.
 
@@ -306,34 +284,34 @@ Item_Adv_AnisotropicFiltering_Desc = When some textures are viewed at an angle (
 Item_Adv_WorldTextureQuality_Title = World Texture Quality
 Item_Adv_WorldTextureQuality_Desc = Determines the resolution of textures on the environment. The lowest setting will enforce a maximum texture resolution of 256x256, while the highest can go up to 4096x4096.
 
-Item_Adv_Fog_Title = World Fog
-Item_Adv_Fog_Desc = Renders fog in the environment. This is somewhat expensive on low-end systems.
+Item_Adv_Fog_Title = Sis
+Item_Adv_Fog_Desc = Çevredeki sisleri işler. Alt segmentli sistemlere yük bindirebilir.
 
 Item_Adv_Translucency_Title = Saydamlık
-Item_Adv_Translucency_Desc = Renders translucent objects, surfaces and particles.
+Item_Adv_Translucency_Desc = Şeffaf objeleri, yüzeyleri and parçacıkları işler.
 Item_Adv_Translucency_None = Yok
-Item_Adv_Translucency_Normal = Single Pass
-Item_Adv_Translucency_SepTrans = Double Pass
+Item_Adv_Translucency_Normal = Tek Geçişli
+Item_Adv_Translucency_SepTrans = Çift Geçişli
 
 Header_Adv_Lighting = Işıklandırma
 
 Item_Adv_MaxShadowResolution_Title = Gölge Çözünürlüğü
-Item_Adv_MaxShadowResolution_Desc = Her nesneye göre gölge doku ayarlarını belirler.
+Item_Adv_MaxShadowResolution_Desc = Her nesneye göre gölgelerin doku ayarını belirler.
 Item_Adv_DominantDirectionalLight_Title = Environment Lighting/Shadow Quality
 Item_Adv_DominantDirectionalLight_Desc = The renderer to use for environment lighting and shadows.
 
 Item_Adv_ParticleShadows_Title = Particle Shadows
 Item_Adv_ParticleShadows_Desc = Whether particles should cast shadows.
-Item_Adv_ParticleShadows_Item_None = None
-Item_Adv_ParticleShadows_Item_Player = Player Only
-Item_Adv_ParticleShadows_Item_Full = Full
+Item_Adv_ParticleShadows_Item_None = Yok
+Item_Adv_ParticleShadows_Item_Player = Sadece Oyuncu
+Item_Adv_ParticleShadows_Item_Full = Tam
 
 Item_Adv_AllowDetailShadows_Title = Detail Shadows
 Item_Adv_AllowDetailShadows_Desc = Allows minor objects (like collectibles) to cast shadows. Quality and visibility depends on Shadow Resolution.
 
 Header_Adv_Effects = Post-Processing Efektleri
 Item_Adv_DoF_Title = Alan Derinliği
-Item_Adv_DoF_Desc = Alan Derinliği applies a blur to background scenery. It allows you to focus on what is in front of you, and removes visual noise from objects far away. Complex Depth of Field is more precise, but at a much higher performance cost.
+Item_Adv_DoF_Desc = Alan Derinliği arka sahnelerde bulanıklık uygular. It allows you to focus on what is in front of you, and removes visual noise from objects far away. Karmaşık Alan Derinliği daha kusursuzdur, ama performans götürüsü daha fazladır.
 Item_Adv_DoF_Item_None = Yok
 Item_Adv_DoF_Item_Simple = Basit
 Item_Adv_DoF_Item_Standard = Standart
@@ -344,11 +322,28 @@ Item_Adv_Bloom_Desc = Etkinleştirildiğinde, parlak alanlar parıltı efetki ol
 Item_Adv_LightShafts_Title = Işık Kaynakları
 Item_Adv_LightShafts_Desc = Güneş, ve diğer parlak ışık kaynakları, will produce rays that can be blocked by objects in front of the camera.
 
+
+kameranın önündeki
+ışın üretecektir
+
+
 Item_Adv_ObjectMotionBlur_Title = Per-Object Motion Blur
 Item_Adv_ObjectMotionBlur_Desc = Fast-moving objects get blurred in the direction that they're moving. This is also applied per-limb on characters. This does not blur camera movement at all (that's Screen Blur).
 
-Item_Adv_RadialBlur_Title = Radial Blur
-Item_Adv_RadialBlur_Desc = When enabled, explosions and attacks will create a blur around the area of effect.
+Item_Adv_RadialBlur_Title = Radyal Bulanıklık
+Item_Adv_RadialBlur_Desc = Etkinleştirildiğinde, patlamalar ve saldırılar efekt alanınında bulanıklık oluşturacaktır.
+
+
+
+
+
+
+
+
+
+
+
+
 
 Item_Adv_ScreenBlur_Title = Screen Blur
 Item_Adv_ScreenBlur_Desc = When the camera is moving rapidly, the background is blurred based on movement direction and depth; objects in the distance blur more than ones right in front of the camera.
@@ -432,6 +427,15 @@ Item_HoldBackToCancelDive_Desc = Hold backwards while performing a jump dive to 
 Header_Controller = Bağlanmış Oyun Kolları
 Item_NewController_Title = Yeni Oyun Kolu
 Item_NewController_Desc = Configure a new custom controller!
+
+
+Configure a new custom controller!
+
+
+
+
+
+
 Item_NewController_Item_New = Yeni
 
 Item_ConfigureController_Item_Configure = Düzenle
@@ -449,14 +453,27 @@ BrokenControllerSoftware0 = [name]ATTENTION[/name][br]You're currently using 3rd
 BrokenControllerSoftware1 = Consider turning off the software you're using, and see if A Hat in Time works with your controller by default!
 
 [Loadout]
-TimePieces_Main = Main
-TimePieces_Bonus = Time Rifts
-Loadout_Swap_Hat = Select a Hat!
-Loadout_Swap_Skin = Select a Color!
-Loadout_Swap_Badge = Select a Badge!
-Loadout_Swap_Weapon = Select a Weapon!
-Loadout_Swap_Sticker = Select a Sticker!
-Loadout_BadgeLocked = You need [yarn][num] [icon:yarn]yarn[/yarn] to stitch this!
+TimePieces_Main = Ana
+TimePieces_Bonus = Zaman Yarıkları
+Loadout_Swap_Hat = bir Şapka Seç!
+Loadout_Swap_Skin = bir Renk Seç!
+Loadout_Swap_Badge = Rozet Seç!
+Loadout_Swap_Weapon = bir Silah Seç!
+Loadout_Swap_Sticker = bir Çıkartma Seç!
+Loadout_BadgeLocked = Örmek için [yarn][num] [icon:yarn]yumak[/yarn] gerekiyor!
+
+
+
+
+
+Örmek için 
+
+Press [button:menuconfirm] to spend [yarn][num] [icon:yarn]yarn[/yarn] to stitch!
+Tıkla [button:menuconfirm] to spend [yarn][num] [icon:yarn]yumak[/yarn] to harca!
+
+Örmek için   [button:menuconfirm] tıkla
+
+
 Loadout_BadgeLocked_Affordable = Press [button:menuconfirm] to spend [yarn][num] [icon:yarn]yarn[/yarn] to stitch!
 
 Loadout_AbilityActivation_Trigger = Etkin
@@ -470,24 +487,23 @@ Options_ReturnToHUB_NoSaving_Q = Lobiye Dön?
 Options_QuitGame_Q = Oyundan Çık?
 Options_QuitGame_InGame_Q = Kaydet & Çık...
 Options_QuitGame_InGame_NoSaving_Q = Kaydetmeden Çık...
-Options_QuitGame_InGame_A_MainMenu = Main Menu!
-Options_QuitGame_InGame_A_Desktop = Desktop!
-Options_QuitGame_InGame_A_Return = Go Back!
+Options_QuitGame_InGame_A_MainMenu = Ana Menü!
+Options_QuitGame_InGame_A_Desktop = Masaüstü!
+Options_QuitGame_InGame_A_Return = Geri Dön!
 
 Label_Equipment = EKİPMAN
 Label_Badges = ROZETLER
 Label_Weapon = SİLAH
 Label_Contract = SÖZLEŞME
-//KONTROL^
 
 Options_RestartLevel_Q = Restart the act?
-Options_RestartDeathWish_Q = Restart the Death Wish?
+Options_RestartDeathWish_Q = Restart Sont İsteği?
 
-Coop_NoControllerPluggedIn = Please plug in a controller
-Coop_CantDisableRightNow = Can't disable co-op mode right now
-Coop_CantEnableRightNow = Can't enable co-op right now
-Coop_CantEnableDeathWish = Unavailable for co-op
-Coop_CantEnableDWActive = Can't enable co-op while a Death Wish is active
+Coop_NoControllerPluggedIn = Lütfen bir oyun kolu takın
+Coop_CantDisableRightNow = Co-op devredışı bırakılamıyor
+Coop_CantEnableRightNow = Co-op aktifleştirilemiyor
+Coop_CantEnableDeathWish = Co-op için uygun değil
+Coop_CantEnableDWActive = Son İstek aktifken co-op aktifleştirilemez
 Coop_Disable_Question = Disable Coop?
 Coop_Disable_Confirm = Deaktif
 Coop_Disable_Deny = Geri Dön
@@ -496,7 +512,7 @@ Backpack_Level_Collectables = Bölüm Eşyaları
 
 [MainMenu]
 FileSelect_File = Dosya
-FileSelect_Progress_Completed = oranı Bitti
+FileSelect_Progress_Completed = tamamlandı
 FileSelect_New = Yeni Dosya Oluştur
 
 Action_Delete = Kaydı Sil
@@ -580,7 +596,7 @@ ClockRing2 = ZAMAN BİTTİ
 
 Suspect0 = KARGALAR ŞİMDİ ŞÜPHELİ!
 Suspect1 = EKSPRES BAYKUŞLARI ŞİMDİ ŞÜPHELİ!
-Suspect2 = THE CONDUCTOR ŞİMDİ ŞÜPHELİ!
+Suspect2 = KONDÜKTÖR ŞİMDİ ŞÜPHELİ!
 Suspect3 = BEN ŞİMDİ ŞÜPHELİYİM!
 Suspect4 = [MotherMaidenName] ŞİMDİ ŞÜPHELİ!
 Suspect5 = KURBAN ŞİMDİ ŞÜPHELİ!
@@ -588,14 +604,15 @@ SelectSuspect = KATİL KİM?
 SelectSuspectButton = Bu aşağılık mı?
 ConfirmSuspect = KATİLİN BU AŞAĞILIK OLDUĞUNDAN EMİN MİSİN?
 Suspect_Select0 = Protect and serve[br]at all cost!
+//??
 Suspect_Select1 = Gözümüz[br]her yerdeydi, ve hiçbir şey[br]görmedik!
-Suspect_Select2 = Niye bağa[br]bakıyon, peck neck?
+Suspect_Select2 = Niye bağa[br]bakıyon, gaga kafa?
 Suspect_Select3 = Yapmalıydım,[br]yoksa sesler[br]susmayacaktı!
 Suspect_Select4 = ...
-Suspect_Select5 = Ölü bir baykuşu[br]suçlayamazsın! Diyorum ki...[br]zzzz...
+Suspect_Select5 = Ölü bir baykuşu[br]suçlayamazsın! Yani...[br]zzzz...
 
 [MailDelivery]
-FirePrompt = Fire Mail
+FirePrompt = Posta At
 
 [Decoration]
 PayCost = Onar:
@@ -618,26 +635,25 @@ Starring = BAŞROL
 Highscore = İNCELEMELER...
 
 [PlayTesting]
-PlayTestRate_0 = Az önce oynadığınızı puanlayın!
+PlayTestRate_0 = Oynadığınızı puanlayın!
 PlayTestRate_1 = Çok iyiydi
 PlayTestRate_2 = Fena değildi.
 PlayTestRate_3 = Sıkıcıydı...
 PlayTestRate_4 = O kadar iyi değildi!
 
 [Modding]
-PleaseRate_0 = Help determine the rating of this mod on
-PleaseRate_1 = the Steam Workshop by providing your feedback!
-
-HowToComment = To leave a comment, view this mod in the Steam Workshop.
+PleaseRate_0 = Geri bildiriminizle Steam Atölyesindeki
+PleaseRate_1 = bu modun değerlendirilmesine yardımcı olun!
+HowToComment = Yorum yapmak için, bu modu Steam Atölyesinde görüntüleyin.
 BackToHub = Uzay Gemisine
 //QC gereyor
 NextMap = Sonraki Harita
 BrowseTheWorkshop = ATÖLYEYİ GÖRÜNTÜLE
-NoMods_Steam = You have no mods installed! Try grabbing a few from the workshop.
-NoMods = You have no mods installed! Place them in the HatInTimeGame/Mods folder to install.
+NoMods_Steam = Yüklenmiş modunuz yok! Birkaçını atölyeden edinmeyi deneyin.
+NoMods = Yüklenmiş modunuz yok! Yüklemek için HatInTimeGame/Mods klasörüne yerleştirin.
 
 DownloadingMod = Modu indir
-ModCreatedBy = Tarafından
+ModCreatedBy = Yapımcı
 ModVersion = Sürüm
 HowToAccessLevelMods = Mod Bölümleri[br]Uzay Gemisindeki posta odasından[br]erişilebilir:
 
@@ -673,8 +689,7 @@ DeathWish = Son İstek
 GhostParty = Çevrimiçi Lobi
 DLC1Title = Seal the Deal
 DLC2Title = Nyakuza Metro
-BonusItems = Bonus
-//Bonus Items
+BonusItems = Bonus Ögeler
 Soundtracks = Müzikler
 
 [Cinematics]
@@ -707,35 +722,14 @@ unlocks0 = Bir sürü açılabilir giysiler, yetenekler,
 unlocks1 = boyalar, kamera filtreleri!
 
 coop_title = Yeni özellik: Kooperatif
-coop_bullet0 = Play the entire adventure
-coop_bullet1 = and help eachother to survive
-coop_bullet2 = in split-screen shenanigans!
-
-
-
-
-Tüm bu macerayı
-bölünmüş ekran saçmalıklarında
-
-
-
-
-birbirinize hayatta kalmak için
-yardım edebilirsiniz!
-
-
-
-bölünmüş ekran saçmalıklarında!
-
-Tüm macerayı bölünmüş ekran saçmalıklarında kendinize hayatta kalmak için mücadele edin.
-
-
-
+coop_bullet0 = Bölünmüş ekranda
+coop_bullet1 = bütün macerayı oynayın
+coop_bullet2 = ve birbirinize yardım edin
 
 dlc2_title = Yeni: Nyakuza Metro
-dlc2_bullet0 = İmparatoriçe'nin kontrolündeki
+dlc2_bullet0 = İmparatoriçenin kontrolündeki
 dlc2_bullet1 = tehlikeli metro tünellerinde
-dlc2_bullet2 = tamamen yeni Zaman Parçalarını toplayın!
+dlc2_bullet2 = yepyeni Zaman Parçalarını toplayın!
 
 ghostparty_title = Yeni: Çevrimiçi Lobi
 ghostparty_bullet0 = Yabancılarla veya
@@ -744,7 +738,7 @@ ghostparty_bullet2 = yeni çevrimiçi modu oynayın!
 
 newgamebowkid_title = Teşekkür ederiz!
 newgamebowkid_bullet0 = Hayranımız olduğunuz için teşekkür ederiz!
-newgamebowkid_bullet1 = Yeni maceranıza ana karakter Bow Kid
+newgamebowkid_bullet1 = Yeni maceranıza Bow Kid
 newgamebowkid_bullet2 = olarak başlayabilirsiniz!
 
 [Splash]
@@ -765,7 +759,7 @@ Reset = Sözleşmeyi Sıfırla
 Tip = Snatcher'ın Önerisi
 Debug = HATA AYIKLAMA Tamamla/Temizle
 
-ResetDeathwishQuestion = BU sözleşmedeki ilerlemeyi TÜM sıfırla?
+ResetDeathwishQuestion = BU sözleşmedeki TÜM ilerlemeyi sıfırla?
 ResetDeathwishConfirm = Acı ve Gözyaşıyla!
 ResetDeathwishDeny = Dur!!!
 
@@ -774,16 +768,16 @@ EasyMode0 = Etrafta yardım edecek kimse yok
 EasyMode1 = Hayat zor, hayat stresli
 EasyMode2 = Barış ve huzura ihtiyacım var
 EasyMode3 = Kimseye kendimi kanıtlamak zorunda değilim
-EasyMode4 = Should I make this Death Wish a bit easier for you?
+EasyMode4 = Senin için Son İsteği biraz kolaylaştırayım mı?
 EasyShort = Welcome back to the no-judgement zone
-EasyExit = Endişelenme, keep me in mind when things get heated
+EasyExit = Endişelenme, işler çığırından çıktığında beni anımsa
 EasyAccept0 = Presto! Bu Son İsteği kolaylaştırdı!
 EasyAccept1 = Havalı günleriniz olsun!
 ButtonYes = Evet lütfen!
 ButtonNo = Hayur!
 
 EasyNamePre = İstiyor musun
-EasyNamePost = now available for this Death Wish
+EasyNamePost = bu Son İstekteki uygun olan
 EasyName0 = Barış ve Huzur
 EasyName1 = Barıştaki Huzuru
 EasyName2 = Peck ve Sakinliği
@@ -820,15 +814,15 @@ Item_HatKidPose = Poz
 Pose_None = Yok
 Pose_1 = Peynir
 Pose_2 = Crouched Bleph
-Pose_3 = Peace and Tranquility
-Pose_4 = Shocked
+Pose_3 = Barış ve Huzur
+Pose_4 = Şoke
 Pose_5 = Steppin'
 Pose_6 = Balance
 Pose_7 = Casual Walk
 Pose_8 = Zoomin' By
 Pose_9 = Finger Gun
 Pose_10 = Hmmm
-Pose_11 = Yessir
+Pose_11 = Effendim
 Item_HatKidExpression = Yüz
 Expression_None = Yok
 Expression_1 = Sinirli
@@ -841,7 +835,7 @@ Expression_7 = Nostaljik
 Expression_8 = Mehhaba
 Expression_9 = Usanmış
 
-Item_CameraType = Camera Type
+Item_CameraType = Kamera Tipi
 Item_CameraType_Free = Özgür
 Item_CameraType_Orbit = Yörünge
 
@@ -856,7 +850,7 @@ Item_ScreenshotFolder_View = Aç...
 UndiscoveredCombo = Keşfedilmemiş bir kombo şimdi uygun, onu bulabilecek misin?
 
 [Stickers]
-NewRareSticker = Nadir bir sticker has appeared in [location] - git ve bul!
-NewRareStickerUnknownLocation = A rare sticker has appeared somewhere - go find it!
-MachineNoRareSticker = The machine is detecting no anomalies right now, maybe it will pick up a signal later.
-MachineRareSticker = The machine has detected a rare signal, the signal says...[br][stickerloc]
+NewRareSticker = Nadir bir çıkartma [location] alanında belirdi - git ve bul!
+NewRareStickerUnknownLocation = Nadir bir çıkartma bir yerde belirdi - git ve bul!
+MachineNoRareSticker = Makine no şuan anormallik bulamadı, belki daha sonra sinyal bulabilir.
+MachineRareSticker = Makine nadir bir sinyal buldu, sinyal diyor ki...[br][stickerloc]
