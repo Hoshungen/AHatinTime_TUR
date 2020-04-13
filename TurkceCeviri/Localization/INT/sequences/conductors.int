@@ -1,21 +1,18 @@
-//%70 (29/01//2020)
 [chapter3act1]
 sketch0 = Ehhhh ba ba bab![waitlong] Nireye gittiğini sanıyorsun, kızım?
 sketch1 = Sin artık bir film yıldızısın kızım! Senin çirkin suratına ihtiyacımız var, böylece bu dünyadaki tüm kuşlar filmimi izlemeye gelcek!
 sketch2 = İşte, şu kağıt ve kalemi al ve film posterimi yapmaya başla! Kendini sert göster ve yumruk yumruğa kavgaya hazırlan!
 sketch3 = Kendi kostümünü de hazırla! Her şey nasıl göründüğüne bağlı!
 
-sketch_done0 = Eh he he! Elinden gelenin hepsi bu mu? Tamam, bunları hazırlayacağım!
-//2. kısım hatalı olabilir
+sketch_done0 = Eh he he! Elinden gelenin hepsi bu mu? Peki, bunları düzenleyecem!
 sketch_done1 = İçeri geç. Kuş Tarihindeki EN BÜYÜK aksiyon filminin çekimine hazırlanıyoruz!
 sketch_done2 = Bu film BOMBA olacak!! [wave]GWAHAHAHAHA[/wave]!
 sketch_done3 = ... Ve bombayı iyi anlamda demek istedim, gaga kafa!
 
 trigger_detonation0 = Tamamdır kızım, dinle. Kötü haberlerim var!
 trigger_detonation1 = Az önceki çektigin lövye... trenin kendini yoketme aşamasını başlattı ve bu şaka değil. Treni havaya uçuracak!
-trigger_detonation2 = Etkileyici, GERÇEK aksiyonlu bir filme ihtiyacım var, işte yapacağımız şey tam da bu! Tren birkaç dakika içinde patlayacak!
-//^Yanlış olabilir.
-trigger_detonation3 = Ama hepimizi sen kurtarabilirsin kızım! Kapatmak için trenin başındaki şaltere gitmelisin!
+trigger_detonation2 = OLDUKÇA aksiyonlu bir filme ihtiyacım var, işte yapacağımız şey tam da bu! Tren birkaç dakika içinde patlayacak!
+trigger_detonation3 = Ama hepimizi sen kurtarabilirsin, kızım! Kapatmak için trenin başındaki şaltere gitmelisin!
 trigger_detonation4 = VE BUNU ZAMANINDA YAPIYORSUN TAMAM MI? Baykuşları veya seni umursamıyorum, ama gerçekte trenimi patlatmaya CÜRET ETME! O benim bebeğim!
 trigger_detonation5 = Kameralar peşinden koşacak kızım, şimdi acele et! Haydi! Bitti gitti!
 
@@ -26,59 +23,27 @@ ending3 = Tamamdır burada, sevdiğin şu [icon:timepiece][timepiece]şeyimsiler
 
 [deadbird]
 intro0 = Bu film stüdyosu ikimiz için de çok büyük, [icon:djgrooves][name]DJ Grooves[/name]! Bu film GERÇEK kuşlarla yapılmalı!
-intro1 = Siz [name]Ay Penguenleri[/name] sadece gürültülü, rahatsız edici saçmalıklar yazacaksınız! If I wanted a bunch of peck necks to dance around while on bird seed, torunlarımı ziyaret ederdim!
-
-
-Eğer ben gaga kafalıların kuş yeminde dansını isteseydim
-
-
+intro1 = Siz [name]Ay Penguenleri[/name] sadece gürültülü, rahatsız edici saçmalıklar çekeceksiniz! Eğer bir sürü gaga kafalının kuş yemi etrafında dans etmesini isteseydim, torunlarımı ziyaret ederdim!
 intro2 = NE?! Hayır yapmadık, seni soytarı!
 intro3 = Ah evet?
-intro4 = Pekala, bu zaman zarfında, biz AYRICA yepyeni film butaforumuzla ortamı hareketlendireceğiz!
-//HATALI ^
+intro4 = Pekala, bu süre zarfında, AYRICA biz yepyeni film butaforumuzla ortamı hareketlendireceğiz!
 intro5 = Bu [icon:timepiece][timepiece]kum saati şeyimsileri[/timepiece]ni tren soygunumuzda en kıymetli şeyler olacak!
 intro6 = .......
 intro7 = [scream][big]NEEEEEEEEE?![/big][/scream]
-intro8 = Siz berbat kokuşmuş gaga kafalılar! Siz bizim butaforumuzu kopyalamışsınız!
-//^Butafor
-intro9 = That does it! Get outta here with ye, Çekilecek bir filmimiz var!
-
-
-
-
-
-
-
-intro10 = Oh evet?! Let's see how well ye do when you can't get into the reception! [wave]GWAHAHAHAHA![/wave]
-
-
-Hadi
-sen
-
-
-
-
-
-
-
-
-
+intro8 = Siz lanet kokuşmuş gaga kafalılar! Siz bizim butaforumuzu kopyalamışsınız!
+intro9 = İcabına bakar! Defol git buradan, Çekilecek bir filmimiz var!
+intro10 = Öyle mi?! Hadi danışmaya gidemeyince n'apacağınızı görelim bakalım! [wave]GWAHAHAHAHA![/wave]
 intro11 = Oh bekle, gaga kafalıları stüdyo içine hapsetmek onları daha sıkı çalıştıracaktır.
-intro12 = Tamamdır, gitme zamanı baykuşlar! Etkileyici filmimizi yapalım!!
-intro13 = Oh ve danışman, LÜTFEN şu havalandırmayı kapatır mısın?? Penguen kokusunun ekibime yaklaşmasını istemiyorum!
+intro12 = Tamamdır, gitme zamanı baykuşlar! Müthiş filmimizi yapalım!!
+intro13 = Ah ve danışman, LÜTFEN şu havalandırmayı kapatır mısın? Penguen kokusunun ekibime yaklaşmasını istemiyorum!
 
 outro0 = [scream][big]HEY! SEN NE YAPTIĞINI ZANIYORSUN?!?![/big][/scream]
 outro1 = Sen buraya inip [icon:trophy][trophy]yıllık kuş film ödülleri[/trophy]ni kurcalayamazsın! Bu dolandırıcılık! SAHTEKARLIK! Hey millet, BURADA bir SAHTEKAR VAR!
 outro2 = ...
 outro3 = BAYKUŞ KORUMALARIM NEREDE?! Neden bu lanet baykuşlar çok kullanışsız?!
-outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan seni hapse atamam, öyleyse sen skoruma rağmen bana yardım edeceksin!
-//^Eksik yardım ediyorsan EKSİK seni hapse...
-//^Skoruma rağmen???
+outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan seni hapse atamam, öyleyse sen skorumda bile bana yardım edeceksin!
 outro6 = Bu doğru, sen benim filmlerimde de yıldız olacaksın!
-outro7 = İşte, bizim [icon:timepiece][timepiece]yepyeni butaforumuzu[/timepiece] yakala, practice showing it off ve bunu film stüdyoma yarın getir! Anladın mı? Geç kalma!
-
-pratiğini yap=practise showing it off
-
+outro7 = İşte, bizim [icon:timepiece][timepiece]yepyeni butaforumuzu[/timepiece] yakala, hava atma pratiğini yap ve bunu film stüdyoma yarın getir! Anladın mı? Geç kalma!
 
 [murder]
 intro0=Tekrar hoşgeldin, kızım! Sonraki filmim için senaryo yazmadım, bu yüzden film çekmiyoruz!
@@ -106,22 +71,27 @@ suspect_victim0 = Kurban mı yaptı?!
 suspect_victim1 = Bekle, intihar mı etti?
 
 suspect_generic0 = Ama... neden? Neden Express Owl'ların birini katletsin?
-suspect_generic1 = Nöy ne? KAUÇUK bıçak?!
+suspect_generic1 = Neyinlesi ne? KAUÇUK bıçak?!
 
 suspect_ending0 = Neyse, bu cinayeti çözdüğün için teşekkürler küçük kız.
-suspect_ending1 = Yalnızca katili değil, ayrıca kurbanın zarar görmediğini de ortaya çıkarttın
-///^Noktalama
-
-suspect_ending2 = ... ve sen bize filmimiz için etkileyici görüntüler verdin!
-//etkileyici görüntü verdin=gave us...intense footage
-suspect_ending3 = Ne? You think I'd let a murder happen on MY Owl Express? Think again! It was all just a setup for my newest Owl Express movie:[br][name]Murder on the Owl Express![/name]
-suspect_ending4 = You think [icon:djgrooves][name]DJ Peck Neck[/name] will make a movie that's even remotely as good? Bence değil!
-
-
-
-
+suspect_ending1 = Yalnızca katili değil, kurbanın zarar görmediğini de ortaya çıkarttın.
+suspect_ending2 = ... ve sen bize filmimiz için etkileyici görüntüler sağladın!
+suspect_ending3 = Ne? BENİM trenimde cinayet gerçekleşeceğini mi sanıyorsun? Yine düşün! Bunların hepsi benim yepyeni Baykuş Ekspresi filmimin bir kurgusuydu:[br][name]Baykuş Ekspresindeki Katil![/name]
+suspect_ending4 = Sence [icon:djgrooves][name]DJ Gaga Kafa[/name]nın uzaktan iyi bir film yapacağını mı düşünüyorsun? Bence hayır!
 suspect_ending5 = İşte, bu [icon:timepiece][timepiece]şeyimsileri[/timepiece] al ve defol buradan!
-suspect_ending6 = ... And yer better not star in any of [icon:djgrooves][name]DJ Grooves[/name]' movies! His movies are FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS![br]Also we've got an exclusivity deal, ya?
+
+
+
+
+
+
+
+
+
+
+
+suspect_ending6 = ... Ve sen [icon:djgrooves][name]DJ Grooves[/name]'in filmlerinde yıldız olmasan iyi olur! His movies are FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS![br]Keza münhasırlık anlaşmamız vardı, senle?
+//Onun filmleri FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS dir!
 
 suspect_conductor0 = ... BEN Mİ?!
 suspect_conductor1 = Ben katil olamam, ben Kondüktörüm!
@@ -134,6 +104,9 @@ suspect_conductor7 = ...
 suspect_conductor8 = TAMAM, GÜZEL!
 suspect_conductor9 = Bendim. Ben yaptım. Şimdi, mutlu musun?
 suspect_conductor10 = Benim olduğumu nasıl anladın? I tried really hard to avoid being the villain in me own movie.
+
+
+
 suspect_conductor11 = Ekspres Baykuşu ölmemişti bile, I just gave him the rubber knife and asked him to play dead for a few hours.
 
 suspect_hatkid0 = Sen mi yaptın?!
@@ -145,7 +118,7 @@ suspect_hatkid5 = Then you tore off his limbs, and ate them one by one, kana sus
 suspect_hatkid6 = That's how it happened, wasn't it?!
 suspect_hatkid7 = Bu baykuşu soğukkanlılıkla katlettin!
 
-suspect_hatkid8 = Oh.
+suspect_hatkid8 = Ah.
 suspect_hatkid9 = Yine, bu sefer fazla ileri gittin, dedektif! Kodese gidiyorsun!
 
 [BossBattle]
@@ -161,19 +134,26 @@ hth_intro4 = I got 2nd place at the [icon:trophy][trophy]42nd annual bird award[
 hth_intro5 = I need just one [timepiece][icon:timepiece]Zaman Parçası[/timepiece] to fix this mistake. Can't you spare just one [icon:timepiece][timepiece]Time Piece[/timepiece]?
 hth_intro5_yes = Belki?
 hth_intro5_no = Hayur!
-hth_intro6a = Teşekkürler, kızım! Pişman olmayacaksın! We'll fix this little mistake in history, and go back to having a flawless record!
-hth_intro7a = Unfortunately... I can't let you leave this room. I can't risk word getting out. DJ peck neck will mock me for cheating!
-hth_intro8a = Seni tanımak güzeldi, kızım! Görüşürüz!
-hth_intro6b = You're a greedy young lass, aren't yer? Sadece bir tanesine ihtiyacım var ve niden paylaşmıyoruz?
-hth_intro7b = Well, if you want this [timepiece][icon:timepiece]Time Piece[/timepiece] back so bad, come and get it!
-hth_intro9 = Remember this lil' bomb? This time it's attached to you, instead of me lovely train... [wave]eh he he he![/wave]
+hth_intro6a = Teşekkürler, kızım! Pişman olmayacaksın! Geçmişteki küçük birhatayı düzelteceğiz, ve kusursuz bir çekime döneceğiz!
+hth_intro7a = Maalesef... Bu odadan ayrılamana izin veremem. Lafın yayılması göze alamam. DJ gaga kafa hile yaptığımdan alay edeceK!
 
-Intro0 = Oh ho hoooo, bak burada kim varmış! Sen küçük bodrumumu bulabilmişsin, de mi!
-Intro1 = Bu son [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nın hepsi benim. İstiyorsan, buz gibi soğuk, acımasız ellerimden almak zorundasın!
+
+
+
+
+
+
+hth_intro8a = Seni tanımak güzeldi, kızım! Görüşürüz!
+hth_intro6b = Sen aç gözlü küçük bir kızsın, de mi? Sadece bir tanesine ihtiyacım var ve niden paylaşmıyoruz?
+hth_intro7b = Peki, bu [timepiece][icon:timepiece]Zaman Parçasını[/timepiece] almakta çok istiyorsan, gel de al!
+hth_intro9 = Bu küççük bombayı hatırladın mı? Bu sefer senin üzerinde, canım trenim yerine... [wave]eh he he he![/wave]
+
+Intro0 = Oh ho hoooo, bak burada kimler varmış! Küçük bodrumumu bulabildin demek, ha!
+Intro1 = Bu son [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nın hepsi benim. İstiyorsan, buz kadar soğuk, acımasız ellerimden almak zorundasın!
 
 [award]
 intro0 = Teşekkürler, teşekkürler! Çok kibarsın! Hayır, lütfen, ilerleyin!
-intro1 = Oh! Lassie, it's you! I did it! I won the [icon:trophy][trophy]annual bird movie award[/trophy] once again![br]Imagine the face [icon:djgrooves][name]DJ Grooves[/name] must be pulling now! [scream][wave]EH HE HE HE![/wave][/scream]
+intro1 = Oh! Lassie, bu sensin! Başardım! Bir kez daha [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazandım![br][icon:djgrooves][name]DJ Grooves[/name]'un yüzünü hayal bile  edemiyorum! [scream][wave]EH HE HE HE![/wave][/scream]
 intro2 = İşte, [icon:timepiece][timepiece]minik, önemsiz film butaforunu[/timepiece] al, senin minicik, önemsiz çabaların zaferimi sağlamlaştırdığı için. Belki sen eBird'de beş paraya ve on kuruşa satabilirsin!
 intro3 = Ne? Sen benden dahasını ya da başka bir şeyi mi bekliyorsun?[br]Unut gitsin! Git! Sus! Defol buradan![br]Senin o çirkin suratını bir daha görmek istemiyorum!
 
@@ -190,14 +170,10 @@ outside8 = [scream][big]GAGA KAFA![/big][/scream]
 group_counter0 = Bu doğru, KAYBOL! Kimse seni burada istemiyor! Bu doğru değil mi, koca delikanlı?
 mafiaball0 = Anladın, delikanlı. Haydi ona itebileceği bir şey verelim ki, küçük kırmızı başbelasını defetsin!
 mafiaball1 = Yuvarlanalım, eh he he!! Köçük kız, kırmızı kızın çirkin suratına doğru it bizi!
-//^HATALI
 
 suicide0 = Hehehe... bu Mafya delikanlıkları... çok delicesine cesur. Ama eh, Trenim olmadan yaşamanın anlamı ne?
 suicide1 = Tamam [icon:djgrooves][name]DJ Grooves[/name], İkimizde şapkalı küçük kıza yardım edeceğiz. Aşağılık yumruk için hazır ol ve yüzüme doğru vur, orası zayıf noktam!
 suicide2 = Bu kızgın kırmızı kız...... KAYBOLMALI!
 
 [ending]
-hang0 = Bizi yalnız bırakma, kızım!
-
-[ending]
-hang0 = Don't you dare leave, lass!
+hang0 = Sakın bizi terketmze, kızım!
