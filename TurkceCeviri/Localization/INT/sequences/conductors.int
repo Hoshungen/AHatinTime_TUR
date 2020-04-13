@@ -110,39 +110,39 @@ suspect_conductor10 = Benim olduğumu nasıl anladın? I tried really hard to av
 suspect_conductor11 = Ekspres Baykuşu ölmemişti bile, I just gave him the rubber knife and asked him to play dead for a few hours.
 
 suspect_hatkid0 = Sen mi yaptın?!
-suspect_hatkid1 = Neden, evet, kulağa mantıklı geliyor!
+suspect_hatkid1 = Vay, evet, kulağa mantıklı geliyor!
 suspect_hatkid2 = You saw the Express Owl all by himself, a lonely victim in your master scheme.
 suspect_hatkid3 = With a hatred for society and its rapidly increasing progress of transportation, you struck down the first passenger you saw.
-suspect_hatkid4 = Onun bedeni tıpkı bir mannequin gibi düştü, her tarafa kanlar damlarken, ve o koku... içindeki şeytanı uyandırdı!
-suspect_hatkid5 = Then you tore off his limbs, and ate them one by one, kana susayan bir hayvan gibi 
-suspect_hatkid6 = That's how it happened, wasn't it?!
-suspect_hatkid7 = Bu baykuşu soğukkanlılıkla katlettin!
 
+
+
+
+
+
+
+
+suspect_hatkid4 = Onun bedeni tıpkı bir taş gibi düştü, her tarafa kanlar damlarken, ve o koku... içindeki şeytanı uyandırdı!
+suspect_hatkid5 = Sonra da uzuvlarını kopardın, ve tek tek yedin, kana susamış bir hayvan gibi.
+suspect_hatkid6 = İşte tam da öyle olmuştu, değil mi?!
+suspect_hatkid7 = Bu baykuşu acımasızca katlettin!
 suspect_hatkid8 = Ah.
-suspect_hatkid9 = Yine, bu sefer fazla ileri gittin, dedektif! Kodese gidiyorsun!
+suspect_hatkid9 = Yine de, bu sefer fazla ileri gittin, dedektif! Kodese gidiyorsun!
 
 [BossBattle]
 SupportNotice0 = Kızım, buradayım!
 SupportNotice1 = Sık dişini,[br]Bombayı imha etmenin[br]bir yolunu bulacağım!
 SupportNotice2 = Bozucum[br]hazır, buraya gel!
 
-hth_intro0 = Let's have a little heart-to-heart. Otur, kızım.
-hth_intro1 = Sen geldiginden beri, bu [icon:timepiece][timepiece]Zaman Parçacıkları[/timepiece] gökten yagıyor.
-hth_intro2 = Şimdi, I can understand if you feel they belong to you. Anladım. Ama onların zamanı geri alabilecegini biliyor muydun?
-hth_intro3 = Tek [timepiece][icon:timepiece]Zaman Parçası[/timepiece]yla, I could reclaim the trophy that belongs to me! Aynen öyle, ödül 42nin kaybı!
-hth_intro4 = I got 2nd place at the [icon:trophy][trophy]42nd annual bird award[/trophy]! Me! İnanabiliyor musun? [icon:djgrooves][name]DJ Grooves[/name] ödülde 1inciliğini elde etmeyi başardı!
-hth_intro5 = I need just one [timepiece][icon:timepiece]Zaman Parçası[/timepiece] to fix this mistake. Can't you spare just one [icon:timepiece][timepiece]Time Piece[/timepiece]?
+hth_intro0 = Haydi bunu biraz açık konuşalım. Otur, kızım.
+hth_intro1 = Sen geldiğinden beri, bu [icon:timepiece][timepiece]Zaman Parçacıkları[/timepiece] gökten yağıyor.
+hth_intro2 = Şimdi, sana ait olasalar bile hissettiklerini anlıyorum. Anladım. Ama onların zamanı geri alabilecegini biliyor muydun?
+hth_intro3 = Tek [timepiece][icon:timepiece]Zaman Parçası[/timepiece]yla, bana ait olan bu ganimeti geri alabileyim! Aynen öyle, ödül 42nin kaybı!
+hth_intro4 = [icon:trophy][trophy]42nci yıllık kuş ödülü[/trophy]nde 2. oldum! Ben! İnanabiliyor musun? [icon:djgrooves][name]DJ Grooves[/name] ödülde 1'cilik elde etmeyi başardı!
+hth_intro5 = Bu hatayı düzeltmek için 1 [timepiece][icon:timepiece]Zaman Parçası[/timepiece]na ihtiyacım var. Bir tane [icon:timepiece][timepiece]Zaman Parça[/timepiece]n var mı?
 hth_intro5_yes = Belki?
 hth_intro5_no = Hayur!
-hth_intro6a = Teşekkürler, kızım! Pişman olmayacaksın! Geçmişteki küçük birhatayı düzelteceğiz, ve kusursuz bir çekime döneceğiz!
-hth_intro7a = Maalesef... Bu odadan ayrılamana izin veremem. Lafın yayılması göze alamam. DJ gaga kafa hile yaptığımdan alay edeceK!
-
-
-
-
-
-
-
+hth_intro6a = Teşekkürler, kızım! Pişman olmayacaksın! Geçmişteki küçük bir hatayı düzelteceğiz, ve kusursuz bir çekime döneceğiz!
+hth_intro7a = Maalesef... Bu odadan ayrılamana izin veremem. Lafın yayılmasını göze alamam. DJ gaga kafa hile yaptığımdan alay edecek!
 hth_intro8a = Seni tanımak güzeldi, kızım! Görüşürüz!
 hth_intro6b = Sen aç gözlü küçük bir kızsın, de mi? Sadece bir tanesine ihtiyacım var ve niden paylaşmıyoruz?
 hth_intro7b = Peki, bu [timepiece][icon:timepiece]Zaman Parçasını[/timepiece] almakta çok istiyorsan, gel de al!
