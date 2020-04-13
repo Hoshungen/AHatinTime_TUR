@@ -232,7 +232,7 @@ Item_ColorBlindness_Tritanopia = Sarı-Mavi
 
 Header_Graphics = Graphics
 Item_GraphicalQuality_Title = Evrensel Görüntü Kalitesi
-Item_GraphicalQuality_Desc = Oyunun görsel kalitesini belirler. Yüksek değerler provide a visually better experience, but may slow down some systems. If you're experiencing choppy gameplay, try turning this option down a notch. Similarly, if your game runs very smoothly at a lower setting, try turning the visual quality up.
+Item_GraphicalQuality_Desc = Oyunun görsel kalitesini belirler. Yüksek değerler provide a visually better experience, bazı sistemleri yavaşlatabilir. If you're experiencing choppy gameplay, try turning this option down a notch. Similarly, if your game runs very smoothly at a lower setting, try turning the visual quality up.
 
 Item_GraphicalQuality_Item_VeryLow = Yüksek Performans
 Item_GraphicalQuality_Item_Low = Performans
@@ -333,18 +333,6 @@ Item_Adv_ObjectMotionBlur_Desc = Fast-moving objects get blurred in the directio
 Item_Adv_RadialBlur_Title = Radyal Bulanıklık
 Item_Adv_RadialBlur_Desc = Etkinleştirildiğinde, patlamalar ve saldırılar efekt alanınında bulanıklık oluşturacaktır.
 
-
-
-
-
-
-
-
-
-
-
-
-
 Item_Adv_ScreenBlur_Title = Screen Blur
 Item_Adv_ScreenBlur_Desc = When the camera is moving rapidly, the background is blurred based on movement direction and depth; objects in the distance blur more than ones right in front of the camera.
 
@@ -367,7 +355,7 @@ Item_Adv_LensFlares_Desc = Sprites rendered on top of the environment to indicat
 Item_Adv_Decals_Title = Decals
 Item_Adv_Decals_Desc = Decals are 2D images projected onto a surface to make that surface appear more detailed (such as cracks, dirt or graffiti).
 
-Item_Adv_DynamicLights_Title = Dynamic Lights
+Item_Adv_DynamicLights_Title = Dinamik Işıklandırma
 Item_Adv_DynamicLights_Desc = Real-time lighting effects, such as moving lights or explosions.
 
 Item_Adv_ConservativeShadowBounds_Title = Precise Shadow Bounds
@@ -376,7 +364,7 @@ Item_Adv_ConservativeShadowBounds_Desc = If enabled, the game will try to more p
 Item_Adv_SeparateTranslucency_Title = Two-Layer Translucency
 Item_Adv_SeparateTranslucency_Desc = Translucency is performed before the Depth of Field rendering pass. As a result, a lot of translucent objects get blurred, even if they're right in front of you. Two-layer translucency allows those objects to render after the Depth of Field rendering pass.
 
-Item_Adv_Vignette_Title = Camera Vignette
+Item_Adv_Vignette_Title = Kamera Vinyeti
 Item_Adv_Vignette_Desc = Adds a subtle black border around the screen.
 
 Item_Adv_RigidBody_Title = Simulated World Physics
@@ -393,14 +381,14 @@ Item_Adv_PredictiveCamera_Title = Predictive Traced Camera
 Item_Adv_PredictiveCamera_Desc = Improves camera smoothing by tracing against nearby geometry.
 
 [systemsettings.input]
-Header_Input = Input
-Header_Input_Adv = Input (Advanced)
+Header_Input = Girdi
+Header_Input_Adv = Girdi (Gelişmiş)
 
 Item_OnTheFlyController_Title = Auto-Select Controller
 Item_OnTheFlyController_Desc = If enabled and playing single player, the active controller will automatically change when you press a button on a new controller.
 
-Item_ManageDefinitions_Title = Manage Controllers
-Item_ManageDefinitions_Title_Item = Manage
+Item_ManageDefinitions_Title = Kontrolleri Yönet
+Item_ManageDefinitions_Title_Item = Yönet
 Item_ManageDefinitions_Desc = We've added support for a number of common controllers, but if you're using an uncommon controller, you will need to set it up here in order to use it.
 
 Item_MouseSensitivity_Title = Mouse Sensitivity
@@ -417,33 +405,26 @@ Item_InvertCameraY_Controller_Desc_Console = Inverts vertical camera movement
 Item_Rumble_Controller_Title = Rumble
 Item_Rumble_Controller_Desc = Whether to allow vibrations during specific actions
 
-Item_InputAssist_Title = Input Assist
+Item_InputAssist_Title = Giriş Yardımcısı
 Item_InputAssist_Desc = The game will attempt to improve the input experience by storing inputs that were pressed a tiny bit too soon, as well as try to avoid accidental double button presses.
 
 Item_HoldBackToCancelDive_Title = Hold Backwards To Cancel Diving
 Item_HoldBackToCancelDive_Desc = Hold backwards while performing a jump dive to cancel it.
+basılı tutun
+Hold backwards while performing a jump dive to cancel it.
 
 [systemsettings.controller]
 Header_Controller = Bağlanmış Oyun Kolları
 Item_NewController_Title = Yeni Oyun Kolu
-Item_NewController_Desc = Configure a new custom controller!
-
-
-Configure a new custom controller!
-
-
-
-
-
-
+Item_NewController_Desc = Yeni bir custom oyun kolu ayarla!
+//??
 Item_NewController_Item_New = Yeni
-
 Item_ConfigureController_Item_Configure = Düzenle
 
 [alpha_warnings]
 alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
 alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to be an experience at your own pace, feel free to sit this one out! It's OK, the full game releases [hint]October 5th[/hint]!
-alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. Good luck!![br]- [name]Gears for Breakfast[/name]
+alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. İyi şanslar!![br]- [name]Gears for Breakfast[/name]
 
 [System_Warnings]
 SteamVerifyIntegrityGameCache = [name]ATTENTION[/name][br]It appears that [hint]Steam[/hint] has not properly downloaded all game files.[br]Please [hint]verify integrity of game cache[/hint] for the game if issues persist.
@@ -471,7 +452,7 @@ Loadout_BadgeLocked = Örmek için [yarn][num] [icon:yarn]yumak[/yarn] gerekiyor
 Press [button:menuconfirm] to spend [yarn][num] [icon:yarn]yarn[/yarn] to stitch!
 Tıkla [button:menuconfirm] to spend [yarn][num] [icon:yarn]yumak[/yarn] to harca!
 
-Örmek için   [button:menuconfirm] tıkla
+Örmek için kaldı,  [button:menuconfirm] tıkla
 
 
 Loadout_BadgeLocked_Affordable = Press [button:menuconfirm] to spend [yarn][num] [icon:yarn]yarn[/yarn] to stitch!
@@ -512,11 +493,11 @@ Backpack_Level_Collectables = Bölüm Eşyaları
 
 [MainMenu]
 FileSelect_File = Dosya
-FileSelect_Progress_Completed = tamamlandı
+FileSelect_Progress_Completed = Tamamlandı
 FileSelect_New = Yeni Dosya Oluştur
 
 Action_Delete = Kaydı Sil
-Action_Delete_Q = Are you sure you want to[br]delete save [id]?
+Action_Delete_Q = [id] Kaydını silmek[br]istediğinden emin misin?
 
 Action_NewGame = Yeni Oyun
 Action_NewGame_Q = Yeni bir Oyuna Başla?
