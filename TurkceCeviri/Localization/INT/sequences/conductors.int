@@ -41,7 +41,7 @@ outro0 = [scream][big]HEY! SEN NE YAPTIĞINI ZANIYORSUN?!?![/big][/scream]
 outro1 = Sen buraya inip [icon:trophy][trophy]yıllık kuş film ödülleri[/trophy]ni kurcalayamazsın! Bu dolandırıcılık! SAHTEKARLIK! Hey millet, BURADA bir SAHTEKAR VAR!
 outro2 = ...
 outro3 = BAYKUŞ KORUMALARIM NEREDE?! Neden bu lanet baykuşlar çok kullanışsız?!
-outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan seni hapse atamam, öyleyse sen skorumda bile bana yardım edeceksin!
+outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan seni hapse atamam, öyleyse sen skorumda bile bana yardımcı olacaksın!
 outro6 = Bu doğru, sen benim filmlerimde de yıldız olacaksın!
 outro7 = İşte, bizim [icon:timepiece][timepiece]yepyeni butaforumuzu[/timepiece] yakala, hava atma pratiğini yap ve bunu film stüdyoma yarın getir! Anladın mı? Geç kalma!
 
@@ -71,7 +71,7 @@ suspect_victim0 = Kurban mı yaptı?!
 suspect_victim1 = Bekle, intihar mı etti?
 
 suspect_generic0 = Ama... neden? Neden Express Owl'ların birini katletsin?
-suspect_generic1 = Neyinlesi ne? KAUÇUK bıçak?!
+suspect_generic1 = Ney o ne? KAUÇUK bıçak?!
 
 suspect_ending0 = Neyse, bu cinayeti çözdüğün için teşekkürler küçük kız.
 suspect_ending1 = Yalnızca katili değil, kurbanın zarar görmediğini de ortaya çıkarttın.
@@ -79,19 +79,8 @@ suspect_ending2 = ... ve sen bize filmimiz için etkileyici görüntüler sağla
 suspect_ending3 = Ne? BENİM trenimde cinayet gerçekleşeceğini mi sanıyorsun? Yine düşün! Bunların hepsi benim yepyeni Baykuş Ekspresi filmimin bir kurgusuydu:[br][name]Baykuş Ekspresindeki Katil![/name]
 suspect_ending4 = Sence [icon:djgrooves][name]DJ Gaga Kafa[/name]nın uzaktan iyi bir film yapacağını mı düşünüyorsun? Bence hayır!
 suspect_ending5 = İşte, bu [icon:timepiece][timepiece]şeyimsileri[/timepiece] al ve defol buradan!
-
-
-
-
-
-
-
-
-
-
-
-suspect_ending6 = ... Ve sen [icon:djgrooves][name]DJ Grooves[/name]'in filmlerinde yıldız olmasan iyi olur! His movies are FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS![br]Keza münhasırlık anlaşmamız vardı, senle?
-//Onun filmleri FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS dir!
+suspect_ending6 = ... Ve sen [icon:djgrooves][name]DJ Grooves[/name]'in filmlerinde yıldız olmasan iyi olur! Onun filmleri FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS dir![br]Keza münhasırlık anlaşmamız vardı, ya?
+//??
 
 suspect_conductor0 = ... BEN Mİ?!
 suspect_conductor1 = Ben katil olamam, ben Kondüktörüm!
@@ -103,24 +92,13 @@ suspect_conductor6 = Kes şunu.
 suspect_conductor7 = ...
 suspect_conductor8 = TAMAM, GÜZEL!
 suspect_conductor9 = Bendim. Ben yaptım. Şimdi, mutlu musun?
-suspect_conductor10 = Benim olduğumu nasıl anladın? I tried really hard to avoid being the villain in me own movie.
-
-
-
-suspect_conductor11 = Ekspres Baykuşu ölmemişti bile, I just gave him the rubber knife and asked him to play dead for a few hours.
+suspect_conductor10 = Benim olduğumu nasıl anladın? Kendi filmimde kötü karakter olamamak için gerçekten çok uğraştım.
+suspect_conductor11 = Ekspres Baykuşu ölü bile değildi, Ona kauçuk bir bıçak verdim ve birkaç saat ölü numarası yapmasını istedim.
 
 suspect_hatkid0 = Sen mi yaptın?!
 suspect_hatkid1 = Vay, evet, kulağa mantıklı geliyor!
-suspect_hatkid2 = You saw the Express Owl all by himself, a lonely victim in your master scheme.
-suspect_hatkid3 = With a hatred for society and its rapidly increasing progress of transportation, you struck down the first passenger you saw.
-
-
-
-
-
-
-
-
+suspect_hatkid2 = Ekspres Baykuşunu tek başına gördün, bu yalnız kurbanı da öldürmeyi planladın.
+suspect_hatkid3 = Topluma olan nefretinle ve hızla artan toplu taşımadaki kalabalıkta, gördüğün ilk yolcuyu öldürdün.
 suspect_hatkid4 = Onun bedeni tıpkı bir taş gibi düştü, her tarafa kanlar damlarken, ve o koku... içindeki şeytanı uyandırdı!
 suspect_hatkid5 = Sonra da uzuvlarını kopardın, ve tek tek yedin, kana susamış bir hayvan gibi.
 suspect_hatkid6 = İşte tam da öyle olmuştu, değil mi?!
