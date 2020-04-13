@@ -24,12 +24,12 @@ metrocat_2p_right_1 = Biliyorum, biliyorum. Onlar [hint]renk kodlu[/hint].
 metrocat_2p_knocking_0 = Trenin yukarısından gelen tıkırtıyı duydun mu? [br]Sanki birileri üzerinde yürüyormuş gibi?
 metrocat_2p_knocking_1 = Uh, belki de sen gaipten sesler duyuyorsundur. [br]Kimse trenin üzerine çıkmaz.
 
-metrocat_2p_shortcuts_0 = Benden duyma ama, uh, ama bu rögar kapaklarını biliyor musun? Onlar gerçek değil.
+metrocat_2p_shortcuts_0 = Benden duyma ama, ah, ama bu rögar kapaklarını biliyor musun? Onlar gerçek değil.
 metrocat_2p_shortcuts_1 = Ne? Boyanmışlar mı?
-metrocat_2p_shortcuts_2 = Hayır, öyle değil. Onların lağımla alakası yok. Bir arkadaşım, onlar metronun diğer bölgelerinin kısayolları olduğunu söylemişti.
+metrocat_2p_shortcuts_2 = Hayır, öyle değil. Onların lağımla ilgisi yok. Bir arkadaşım, onlar metronun diğer bölgelerinin kısayolları olduğunu söylemişti.
 
 metrocat_2p_badcrowd_0 = Etrafta koşan küçük çocuğu gördün mü?
-metrocat_2p_badcrowd_1 = Çocuklar yalnız bırakılmamalı! Umarım o, kötü niyetli bir kalabalığa rastlamaz.
+metrocat_2p_badcrowd_1 = Çocuklar yalnız bırakılmamalı! Umarım o, kötü niyetli bir çeteye rastlamaz.
 
 metrocat_2p_chase_0 = Temizlik robotları arkadaş canlısı ve zıpır gibi duruyor.
 metrocat_2p_chase_1 = Arkadaş Canlısı mı? Üzerine çamur bulaşırsa seni kovalamaya başlıyorlar! Bu korkunç.
@@ -58,8 +58,7 @@ metrocat_2p_rightmeow_3 = Boşver. Yanlış duymuş olmalıyım.
 metrocat_2p_outoftown_0 = Duyduğuma göre 'kuyumcu' 'gerçekten kocaman bir kolyeyi' şehrin dışına çıkarmayı planlıyormuş.
 metrocat_2p_outoftown_1 = Bu şeyi nereden duydun?
 metrocat_2p_outoftown_2 = Hiçbir şey duymadım. Ne hakkında konuştuğunu bilmiyorum adamım.
-metrocat_2p_outoftown_3 = Emin misin? Ben muhabire mi benziyorum.
-//HATALI^
+metrocat_2p_outoftown_3 = Emin misin? Ben muhabire falan mi benziyorum.
 metrocat_2p_outoftown_4 = Ben... oldukça eminim, evet.
 
 metrocat_2p_missingvan_0 = Önceden burada burger kamyonu vardı, sürekli burada duruyordu... Onu çok özledim.
@@ -93,24 +92,30 @@ metrocat_2p_beckoning_3 = Yani, ÇOK şanslı olamazsın, değil mi?
 
 metrocat_2p_purehate_0 = Bu istasyondan nefret ediyorum.
 metrocat_2p_purehate_1 = Ah, işte yine başlıyoruz...
-
-
-
-
-
-
-metrocat_2p_purehate_2 = You get off one line, walk over to another, scan two different passes...
+metrocat_2p_purehate_2 = Bir hattan çıkıyorsun, diğerine yürüyorsun, iki farklı bilet okutuyorsun...
 metrocat_2p_purehate_3 = Hı-hııı.
-metrocat_2p_purehate_4 = And I have to switch four more times just to get to where I wanna be.
-metrocat_2p_purehate_5 = Uhuh.
-metrocat_2p_purehate_6 = I'm pretty sure some of these trains aren't even going anywhere!
+metrocat_2p_purehate_4 = Ve olmak istediğim yere gitmek için 4 ayrı bilet daha okutmak zorundayım.
+metrocat_2p_purehate_5 = Hı hı.
+metrocat_2p_purehate_6 = Buradaki bazı trenlerin hiçbir yere gitmediğine bile eminim!
 metrocat_2p_purehate_7 = Bundan sonra bir şeyler yemek ister misin?
 metrocat_2p_purehate_8 = ... Kesinlikle, belki.
 
-metrocat_2p_sphynx_0 = Have you seen this weird looking cat running around?
+metrocat_2p_sphynx_0 = Sen bu etrafta koşan tuhaf görünen kediyi gördün mü?
 metrocat_2p_sphynx_1 = Huh?
-metrocat_2p_sphynx_2 = You know? That weird cat without any fur?
-metrocat_2p_sphynx_3 = Her? I think she's one of those sphynx cats.
+metrocat_2p_sphynx_2 = Yani? Şu tuhaf kedinin kürkü yok?
+metrocat_2p_sphynx_3 = O mu? Bence o sfenks kedilerinden birisi.
+
+
+
+
+
+
+
+
+
+
+
+
 
 metrocat_2p_stash_0 = So what did you do with your cut?
 metrocat_2p_stash_1 = The usual. I stashed it.
@@ -293,15 +298,23 @@ metro_ramen_1 = en rahat yiyecek[br][icon:reviewstar1][icon:reviewstar1][icon:re
 metro_ramen_2 = Hızlı teslim ve tadı güzel.[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
 
 [finale]
-finale_cop0 = Hey, çocuk. Endişelenme, Ben... kuyumcunun maaş bordrosundanım.
-finale_cop1 = Did something happen while I was upstairs? Patron deliye döndü.
-finale_cop2 = Neyse, ona vermem gereken bir şey var, ama I couldn't make the trade with my partner here.
+finale_cop0 = Hey, çocuk. Endişelenme, ben... kuyumcunun maaş bordrosundanım.
+finale_cop1 = Ben üst kattayken bir şeyler mi oldu? Patron deliye döndü.
+finale_cop2 = Neyse, ona vermem gereken bir şey var, ama ben meslektaşlarım arasında ticaret yapamnam.
 
+SHE=Kedi.
+
+
+I couldn't make the trade with my partner here.
 
 
 
 
 finale_cop3 = I know she's had you tracking them down, so take care of it for me.
+
+
+
+benim için onun icabına bak.
 
 [solo]
 hiding_bushes0 = Şşşşt! Defol git buradan!
