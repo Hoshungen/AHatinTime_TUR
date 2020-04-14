@@ -106,7 +106,7 @@ Item_FieldOfView_Item_Custom = Özel...
 Item_FieldOfView_Item_Desc = Daha yüksek Görüş Alanı değerleri görüş açınızı arttıracaktır, düşük değerler de daraltacaktır. Yüksek Görüş Alanı değerleri ekrana yakınsanız önerilir, uzaktaysanız düşük değerler önerilir.
 
 Item_CameraAssist_Title = Kamera Yardımcısı
-Item_CameraAssist_Desc = Etkinken, daha iyi bir deneyim için oyunun kameranızı kontrol etmesine izin verir. El ile kamera kontrolünü sevmiyorsanız önerilir.
+Item_CameraAssist_Desc = Etkinken, daha iyi bir deneyim için oyunun kameranızı kontrol etmesine izin verir. Manüel kamerayı sevmiyorsanız önerilir.
 
 Item_CameraShake_Title = Kamera Sallantısı
 Item_CameraShake_Desc = Hafif sallantılar gibi yer sarsıntılarının gerçekçiliğini hissetmek için açın. Mide bulantısı hissediyorsanız kapatın.
