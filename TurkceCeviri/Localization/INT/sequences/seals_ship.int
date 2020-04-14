@@ -20,7 +20,7 @@ seals4 = Hoşgeldiniz, hanfendi. Şu an bunun için masamız bence yok...
 seals5 = Uh-oh! Bu can yelekleri kapıyı engelliyor!
 seals6 = Bu çok ağır...
 
-bathroom0 = Üzgünüm! Yemek arabasını çarptım ve içeçekleri döktüm, bu yüzden lavobo şu anda kapalı!
+bathroom0 = Üzgünüm! Yemek arabasını çarptım ve içeçekleri döktüm, bu yüzden lavabo şu anda kapalı!
 
 signs0 = Vesepsiyon bu yolda!
 signs1 = Güverteye hoşgeldiniz!
@@ -38,30 +38,16 @@ thankyou1 = Yağdım için teşekkürler!
 
 seals0 = Mehhaba, hanfendi! Size nasıl yağdımcı olabilirim?
 seals1 = Oh? Kayıp eşyanın kutusundan istediğiniz bi şey mi var?
-
-
-
-
-seals2 = Hmm... the Kapdan lets us pick sometwhing from it if we wowk vewy, vewy hard! Yardımcı olur musunuz?!
-
-seals3 = Amaaa... you'd have to ask him nicewy. [hint]Just fowwow the mess to his woom![/hint]
-
-seals4 = The Captain is vewy messy. But he wowks vewy hawd steewing the ship!
-seals5 = We wove him wots and wots!
-
-seals4 = H-anfendi! Siz kapdan demediği sürece bunu açamazsınız!
-
-
-
-
-seals5 = Mehhaba! The captwain said you could take somethwing. Thewe's somethwing vewy shiny in thewe today! 
-
-
-
+seals2 = Hmm... Kapdan buradan bir şey almamıza izin veriyor çok ama, çok sıkı çalışırsak! Yardımcı olur musunuz?!
+seals3 = Amaaa... ona kibarca sormalısınız. [hint]Lüffen yalnızca bu dağınık odayı takip edin![/hint]
+seals4 = Kaptan çok dağınık. Ama o gemiyi sürmekle ilgilenmekten çok meşgul!
+seals5 = Biz onu çok ama çok seviyoruz!
+seals4 = H-anfendi! Bunu siz kapdan demediği sürece açamazsınız!
+seals5 = Mehhaba! Kapdan, bir şeyler alabilirsiniz dedi. Bugün burada çok parlak bir şey var!
 
 [docks]
 seals1 = Yolculuğa hoşgeldiniz, hanfendi!
-seals2 = İyi zaman geçireceğinizi umuyoruz!
+seals2 = Umarım iyi zaman geçirirsiniz!
 
 [act3]
 loudspeaker0 = Mehhaba! Kapdandan bir mesaj va-
@@ -92,7 +78,8 @@ kitchenbubbleseal7 = Tekneler! Bu kapının ilerğisinde!
 seals0 = Bu Havlular çoğk rahat!
 seals1 = Çalışmam gerekiyor, ama bunlar çok güzel...
 seals2 = Lüffen bastığınız yere dikkat edin hanfendi! It's a big dwop past this railing!
+//??
 seals3 = Oops... masaları sağbitlemeyi unutduk! Onlar her yere kayıyorğlar.
 seals4 = Hmmm... kumar oynamak için çok genç duruyorsunuz! Üzgünüm, hanfendi!
 seals5 = Ayrıca, lüffen masadan uzak durun!
-seals6 = Isn't the gawden pwetty, hanfendi?
+seals6 = Bağhçe güssel değil mi, hanfendi?
