@@ -300,7 +300,7 @@ Item_Adv_MaxShadowResolution_Desc = Her nesneye göre gölgelerin doku ayarını
 Item_Adv_DominantDirectionalLight_Title = Environment Lighting/Shadow Quality
 Item_Adv_DominantDirectionalLight_Desc = The renderer to use for environment lighting and shadows.
 
-Item_Adv_ParticleShadows_Title = Particle Shadows
+Item_Adv_ParticleShadows_Title = Gölge Parçacıkları
 Item_Adv_ParticleShadows_Desc = Whether particles should cast shadows.
 Item_Adv_ParticleShadows_Item_None = Yok
 Item_Adv_ParticleShadows_Item_Player = Sadece Oyuncu
@@ -631,7 +631,7 @@ BackToHub = Uzay Gemisine
 NextMap = Sonraki Harita
 BrowseTheWorkshop = ATÖLYEYİ GÖRÜNTÜLE
 NoMods_Steam = Yüklenmiş modunuz yok! Birkaçını atölyeden edinmeyi deneyin.
-NoMods = Yüklenmiş modunuz yok! Yüklemek için HatInTimeGame/Mods klasörüne yerleştirin.
+NoMods = Yüklenmiş mod yok! Yüklemek için HatInTimeGame/Mods klasörüne yerleştirin.
 
 DownloadingMod = Modu indir
 ModCreatedBy = Yapımcı
@@ -648,8 +648,14 @@ Category_AllLevels = TÜM BÖLÜMLER
 Category_Chapters = BÖLÜMLER
 Category_TimeRifts = ZAMAN YARIKLARI
 Category_HatsAndBadges = ŞAPKALAR & ROZETLER
-Category_Collectibles = COLLECTIBLES
+Category_Collectibles = KOLEKSİYON
 Category_Misc = DİĞER
+Category_Featured = ÖNE ÇIKAN
+Category_ChallengeRoad = Medyan Okuma
+
+Category_ChallengeRoad_Description = Sadece 3 canla bu topluluk düellosunu yenebilir misin?
+Category_ChallengeRoad_Clear0 = Kazandınız, tebrikler!
+Category_ChallengeRoad_Clear1 = Yeni bir Meydan Okuma yakın bir gelecekte belirecek...
 
 [ConsoleProfileSwap]
 SwapProfile = Profil Değiştir
@@ -663,7 +669,7 @@ Action_Select = Seç
 ReturnToHUB = HUB'a Dön
 Settings = Ayarlar
 QuitGame = Oyundan Çık
-Coop = Kooperatif
+Coop = CO-OP
 Mods = Modlar
 RestartToLastCheckpoint = Yeniden
 DeathWish = Son İstek
@@ -721,6 +727,9 @@ newgamebowkid_title = Teşekkür ederiz!
 newgamebowkid_bullet0 = Hayranımız olduğunuz için teşekkür ederiz!
 newgamebowkid_bullet1 = Yeni maceranıza Bow Kid
 newgamebowkid_bullet2 = olarak başlayabilirsiniz!
+
+featuremodmap_title = ÖNE ÇIKAN topluluk bölümü
+challengeroad_title = Yeni meydan okuma!
 
 [Splash]
 Splash_Close = Kapat
