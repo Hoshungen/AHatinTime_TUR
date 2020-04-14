@@ -63,12 +63,12 @@ Item_Language_Title = Dil
 Item_Language_Desc = Yazılarda görünecek dili ayarlar. Seslendirmeyi değiştirmez (ses ayarlarından Seslendirmeyi ayarlayabilirsiniz).
 
 Item_SkipCinematics_Title = Otomatik Atlanabilir Sahneleri Atlama
-Item_SkipCinematics_Desc = Aceleniz varsa, onları zaten görmüşseniz, bu seçeneği etkinleştirerek oyun içi tüm atlanabilir sahneleri atlayabilirsiniz. Unutmayın, bu ayar olmadan da sinematikleri atlayabilirsiniz.
+Item_SkipCinematics_Desc = Aceleniz varsa, zaten görmüşseniz, bu seçeneği etkinleştirerek oyun içi tüm atlanabilir sahneleri atlayabilirsiniz. Unutmayın, bu ayar olmadan da sinematikleri atlayabilirsiniz.
 
 Header_Accessibility = Erişebilirlik
 
 Item_AssistMode_Title = Asist Modu
-Item_AssistMode_Desc = Asist modu etkinken, oyunun bazı elementlerini daha erişebilir kılar ve kısa bir süre sonra can alırsınız. Bu modu açtığınız için cezalandırma olmayacaktır.
+Item_AssistMode_Desc = Asist modu etkinken, oyunun bazı elementlerini daha erişebilir kılar ve kısa süre aralıklarla can alırsınız. Bu modu açtığınız için cezalandırma olmayacaktır.
 
 Header_SplitScreen = Kooperatif
 
