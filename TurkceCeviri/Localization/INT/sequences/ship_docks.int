@@ -2,103 +2,115 @@
 yes = Evvveeet!
 no = Hayıır!
 
-desksealA10 = Merhaba! Size nasıl yağrdımcı olabilirim?
-desksealA11 = Bunun gibi [icon:timepiece] biğr şeye mi bakıyodunuz??
+desksealA10 = Merhaba! Size nasıl yağdımcı olabilirim?
+desksealA11 = [icon:timepiece] gibi gözüken biğr şeye mi bakıyodunuz?
 desksealA12 = Hmmm... biz onu gördük...
 desksealA13 = Düşünmek çoğk zoğr...
-desksealA14 = Oh! Hatırladım! Biz Kaptandan saklarken bunlardan birisini kırmıştık! [br]Oğrtalığı batırdığımızı bilseydi çok mutlu olmazdı.
-desksealA15 = Biz demizlemeyi denedik, ama. Um. Hm. Çoğk iyi bir iş çıkartamadık... ve bazı parçalarını kaybettik...
-desksealA16 = Ben çoğk üzgünüm, hanfendi! Lütfen çok üzülmeyin!
+desksealA14 = Oh! Hatırladım! Bir tanesini kırdık ve Kapdandan sakladık! [br]Bu dağınıklığı yapıtğımızı görseydi hiç mutlu olmazdı.
+desksealA15 = Bunu temizlemeyi denedik, ama. Um. Hm. Pek iyi bir iş beceremedik... ve bazı parçalarını kaybettik...
+desksealA16 = Ben çoğk üzgünüm, hanfendi! Lüffen çok üzülmeyin!
 
-smash0 = Hmm... bu hasar ciddi. It's in more pieces than one, which is terrible.
-smash1 = Maybe you could stick it all back together if you find the [hint]missing shards[/hint].
-smash2 = Her odada bri parçası var gibi görünüyor...
+smash0 = Hmm... bu hasar ciddi. Korkunç olan da, bu bir parçadan daha fazlası var.
+smash1 = [hint]Kayıp kırıkları[/hint] bulursan onların hepsini yeniden bir araya getirebilirsin.
+smash2 = Her odada bir parçası var gibi gözüküyor...
 
-captainAttention0 = Dikkat... Kaptanınız konuşuyor
+captainAttention0 = Dikkat... Kaptanınız konuşuyor.
 speaker0 = Bu şey açık mı? Öhöm...
 speaker1 = Tüm yolcular, lütfen resepsiyondan kayıt yaptırın! Birazdan güvertede olacağım...
-speaker2 = Dikkat, yolcular. Ve 'mürettebat'.
-speaker3 = Gemi ayrılıyor. Lütfen düşmeyin.
+speaker2 = Dikkat yolcular ve 'mürettebat'.
+speaker3 = Gemi limandan ayrılıyor. Lütfen sıkı tutunun.
 speaker4 = [wave]Ding! Dong! Ding! Dong![/wave]
 
-checkin0 = You're all checked in!
-checkin1 = Now to track down that timepiece...
-Zaman parçasının izini takip etme zamanı
+checkin0 = Kayıt yaptırdınız!
+checkin1 = Zaman parçasının izini sürme zamanı...
 
-washingmachine0 = Someone started the wash cycle without any detergent! You'd better dunk some in there.
-washingmachine1 = There was a timepiece shard in with the clothes!
+washingmachine0 = Birisi yıkama programını deterjan olmadan başlatmış! Oraya dalarsan iyi olur.
+washingmachine1 = Kıyafetlerle birlikte zaman parçası kırığı var!
 
-restarauntshard0 = Mafia bit down on something hard in this food! Child should take it back to kitchen. Please.
-restarauntshard1 = Underneath the lettuce - that's a shard from the timepiece!
+restarauntshard0 = Mafya bu yemekte sert bir şey "ısırdı"! Çocuk onu mutfağa geri götürsün. Lütfen.
+restarauntshard1 = Marulun altında - bu zaman parçasından bir kırık!
 
-deckshard0 = H-hewwo! I need to get all these empty gwasses, but I dwoppeded them. Can you hewlp me, miss?
-deckshard1 = Looks like one of the missing shards was in someone's drink!
+deckshard0 = M-ehhaba! Tüm bu boş camları almam gerekiyordu, ama onları düşürdüm. Yağdımcı olabilir misiniz, hanfendi?
+deckshard1 = Görünüşe göre birisinin içeceğinde kayıp bir kırık var!
 
-leftshard0 = I huwt mysewlf... will you take me to the captwain, pwease?
-leftshard1 = ...What do you want, pup? One of the crew hurt themselves again?
-leftshard2 = What do I look like, a doctor? [hint]Kiss[/hint] it better yourself.
-leftshard3 = Thank you miss! I fwound this shiny gwass, but it's all youws!
+leftshard0 = Kendimi incittim... kapdana götürür müsünüz lüffen?
+leftshard1 = ...Ne istiyorsun delikanlı? Mürettebattan biri kendini yeniden mi incitti?
+leftshard2 = Neye benziyorum, doktora mı? [hint]Öp[/hint]mek onu kendine getirir.
+leftshard3 = Öptüğünüz için teşekkürler, hanfendi! Şimdiden iyi hissediyorum! [br]bu parlak camı buldum, ama hepsi sizindir!
 
-fishdude2 = Oh, hey dudette. I was just chilling, you know, and I noticed all this broken glass around. Weird, right?
-fishdude3 = ... It belongs to you? Ah, cool, cool. Broken glass would like, totally violate code 1.3a of the maritime safety order, but if it's yours that's like, no big deal.
+fishdude2 = Oh, hey madamım. Dinleniyordum, bilirsin ve etrafta bu kırılmış camı farkettim. Tuhaf, değil mi?
+fishdude3 = ... Sana mı ait? Ah, havalı, havalı. Broken glass would like, totally violate code 1.3a of the maritime safety order, but if it's yours that's like, no big deal.
+
+
+
+
+
+
 fishdude4 = Now this corridor on the other hand, woah. Really sinking my calm vibe, you know?
 
-slotmachine0 = You're getting really good vibes from this machine! You need some chips to play, though...
-slotmachine1 = You're feeling lucky...
-slotmachine2 = There was a shard stuck in the machine!
+slotmachine0 = Sen bu makinede gerçekten şanslı hissediyorsun! Ama, oynabilmek için biraz jeton gerekiyor...
+slotmachine1 = Şanslı hissediyorsun...
+slotmachine2 = Bu makinenin içine bir kırık sıkışmış!
 
-captain0 = Meşgulüm, pup. Bu gemi kendini sürmüyor.
-captain1 = Meşgulüm dedim, pup.
-captain2 = Yapacak daha iyi bir şeyin yok mu? 
+captain0 = Meşgulüm, delikanlı. Bu gemi kendini sürmüyor.
+captain1 = Meşgulüm dedim delikanlı.
+captain2 = Yapacak başka bir işin yok mu?
 captain3 = Bana bunun için yeterince ödeme yapmıyorlar...
 
-mafia0 = Mafia used to shipping containers and fish, not luxury cabins. Tickets definitely worth entire life savings.
-mafia1 = Is nice to take vacation. See people that are not other Mafia. Too many of those at home.
+mafia0 = Mafya önceden konteynır ve balık naklediyordu, ama lüks kabinler değil. Biletler kesinlikle tüm hayata değer.
+mafia1 = Seyahate çıkmaz güzel. Halk diğer Mafyalar gibi olmadığını görüyor. Evde onlardan çok var.
 
 mafiaboss0 = [scream]Agh![/scream] Bu sinir bozucu küçük foklar beni deli ediyor.  
-mafiaboss1 = En azından sen, kaba çocuk, iyi ki sessiz kalma zerafetine sahipsin.
+mafiaboss1 = En azından sen, kaba çocuk, sessiz kalma zarafetine sahipsin.
+
+seals0 = Mehhaba, hanfendi! Umarım gemiyi sevmişsinizdir! Temiz ve nizamda tutmak için çok sıkı çalışırız.
+seals1 = Ö-özürğ diğlerim! Havuz etrafında koşmak yasak, lüffen ve teşekkürler!
+seals2 = Mehhaba! Havuz oyuncağı almak ister misiniz?
+seals3 = Her boyutta ve türde oyuncak bizde var! Ve onlar yüzüyo!
+seals4 = Hoşgeldiniz, hanfendi. Şu an bunun için masamız bence yok...
+seals5 = Uh-oh! Bu can yelekleri kapıyı engelliyor!
+seals6 = Bu çok ağır...
+
+conductor0 = Heyy... Batan bir Gemi getir bana, kayalıkların üzerinde olsun. Ve onu ortadan ikiye güzelcene ayır.
+conductor1 = Oh, senin orda olduğunu farketmemiştim, kızım. Seyahate çıktık, değil mi?
+conductor2 = İçtikten sonra, bence onlar küçük meyve suyu şişesi alabilirler.
+conductor3 = Marifetli birisisin, kesinlikle, fakat genç kızlar için öyle düşünmüyorum.
 
 
-seals0 = Mehhaba, hanfendi! Umarım gemiyi beğenmişsinizdir! We wowk hawd to keep it cwean and tidy.
-seals1 = Ö-Öğzür dileğrim! No wunning by the pool, pwease and thanks!
-seals2 = Hi! Would you like two bwuy a pool twoy?
-seals3 = We have awl kwinds of shapes and sizes! And they fwoat!
-seals4 = Wewcome, ma'am. I don't think we have any tables fow one wight now...
-seals5 = Uh-oh! That wifeboat's bwocking the door!
-seals6 = It's so heavwy...
 
-conductor0 = Hmm... get me a Sinking Ship, oan the rocks. And make the good part a double.
-conductor1 = Oh, I didn't notice yer there, lassy. Out roamin', are we?
-conductor2 = If yer after a drink, I think they might have some wee bottles of juice. 
-conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses.
 
-octopus0 = Watch your step there, spark! It'd be real [shake2]shocking[/shake2] if you slipped.
-octopus1 = I'm [shake2]positive[/shake2] they could make it a little safer down there, but I guess that'd really [shake2]amp[/shake2] up the costs.
-octopus2 = Anyway, it's nice to have a guest down here. Most folks don't appreciate the hard work I put in to keep the mood [shake2]electric[/shake2].
 
-bathroom0 = Sowwy! I cwashed a food cart and spiwled the drinks, so this bathwoom is cwosed wight now!
+octopus0 = Adımına dikkat et, kıvılcım! Kayarsan gerçekten [shake2]çarpılabilirsin[/shake2].
+octopus1 = Ben burayı biraz daha güvenli yapmalarına [/shake2]pozitif[/shake2] bakıyorum ama bence bu masrafları gerçekten [shake2]elektiriklendirirdi[/shake2].
+octopus2 = Neyse, burada bir ziyaretçinin olması güzel. Çoğu kişi [shake2]elektriklenmiş[/shake2] sıkı çalışma halimi takdir etmez.
 
-signs0 = The weception is this way miss!
-signs1 = Wewcome abwoard!
+bathroom0 = Üzgünüm! Yemek arabasını çarptım ve içeçekleri döktüm, bu yüzden lavabo şu anda kapalı!
+
+signs0 = Vesepsiyon bu yolda!
+signs1 = Güvevteye hoşgeldiniz!
 
 [act2]
-yes = Heck yeah!
-no = Nooo!
+yes = Evveeet!
+no = Hayıııır!
 
-thankyou0 = Thankwoo miss!
-thankyou1 = Thanks for tha hewp!
-thankyou2 = Hey, thanks kid.
-thankyou3 = Ah, Mafia needed more towels!
+thankyou0 = Deşekkürlerğ hanfendi!
+thankyou1 = Yağdım için teşekkürler!
+thankyou2 = Hey, teşekkürler çocuk.
+thankyou3 = Ah, Mafyanın daha çok havluya ihtiyacı var!
+
+seals0 = Mehhaba, hanfendi! Size nasıl yağdımcı olabilirim?
+seals1 = Oh? Kayıp eşyanın kutusundan istediğiniz bi şey mi var?
+seals2 = Hmm... Kapdan buradan bir şey almamıza izin veriyor çok ama, çok sıkı çalışırsak! Yardımcı olur musunuz?!
+seals3 = Amaaa... ona kibarca sormalısınız. [hint]Lüffen yalnızca bu dağınık odayı takip edin![/hint]
+seals4 = Kaptan çok dağınık. Ama o gemiyi sürmekle ilgilenmekten çok meşgul!
+seals5 = Biz onu çok ama çok seviyoruz!
 
 
-seals0 = Hi, miss! How can I hewp you?
-seals1 = Oh? There's somethwing you want in the wost and fwound?
-seals2 = Hmm... the Captain lets us pick sometwhing from it if we wowk vewy hard! Maybe you couwd hewp!
-seals3 = Buuut... you'd have to go ask him nicewy. [hint]Just fowwow the mess to his woom![/hint]
-seals4 = The Captain is vewy messy. But he wowks vewy hawd steewing the ship!
-seals5 = We wove him wots and wots!
 
-captainAttention0 = Attention... this is your Captain speaking.
+
+
+
+captainAttention0 = Dikkat... Kaptanınız konuşuyor.
 captain0 = What's that, pup? [br]You want to help out?
 captain1 = Hmph. Sure. Maybe something will get done around this mess of a boat for once. It'd be a first.
 captain2 = Alright. You'll need to deliver drinks, some food, and a few other things. And do it quickly, pup.
