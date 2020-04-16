@@ -1,5 +1,5 @@
-[ActSelects]
-ChapterUnlocked = Şu kısımda güç yeniden geldi: [name][location][/name]![br]Bölüm: [name][chaptername][/name] şimdi erişilebilir!
+﻿[ActSelects]
+ChapterUnlocked = Güç [name][location][/name] kısmında yerine geldi![br][name][chaptername][/name] bölümüne artık erişilebilir!
 
 [locations]
 Location_Bedroom = Yatak Odası
@@ -11,20 +11,21 @@ Location_LandryRoom = Çamaşırhane
 Location_DLC2 = Depo
 
 [Ending]
-ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] bırak ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki [name]Mafya[/name] ile baş edebilsin?[br](Evine dönemeyebilirsin.)
+ThrowMu0 = Bir [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] bırak ve [icon:mugirl][name]kırmızı başlıklı kıza[/name] biraz [icon:timepiece][timepiece]Zaman Parçası[/timepiece] gücü ver ki, [name]Mafya[/name] ile baş edebilsin?[br](Evine dönemeyebilirsin.)
 ThrowMu0_Yes = Evet
 ThrowMu0_No = Hayır
 
 [fluff]
-bookcase0 = Bir Kitaplık. Aynı zamanda bir 'havalı kelime alanı' veya bir 'kendinin bile azıcık dolduramayacağı şey, Steven, asla bir yayımcı bulamayacaksın, ve çalışman üzerinde geçirdiğin tüm zaman çocukların ile geçirebileceğin zamana denk geliyor', geldiğiniz yere göre değişebilir.
-harmoniser0 = Bir 7 Bölümlük Üçlü-Hesaplayan Kuantum Armonizörü. Bayağı pahalıydı, ama kim zaman zaman kendini şımartmayı hak etmez ki?
-brightness0 = Bu kol tam anlamı ile yakındaki panelin, güç açıkken, ne kadar aydınlık olduğunu değiştirmekten başka hiçbir işe yaramıyor.
+bookcase0 = Bu bir Kitaplık. Ayrıca 'havalı sözcük alanı' veya 'kendinin bile azıcık dolduramayacağı şey olarak bilinir, Steven, asla bir yayımcı bulamayacaksın ve çalışmakla geçirdiğin zaman, çocuklarınla geçirebileceğin zamana denk, nereden geldiğine göre değişiyor.
+harmoniser0 = Bir 7 Aşamalı Üçlü-Hesaplayan Kuantum Armonizörü. Bayağı pahalıydı ama kim kendini zaman zaman şımartmayı hak etmez ki?
+brightness0 = Güç açıkken yakındaki panelin parlaklığını değiştiriyor ama bu kol gerçekte hiçbir işe yaramıyor.
 brightness1 = 'Çok parlak, gerçekten'de takılı kalmış.
-radio0 = Bu senin en yenin, yüksek kalite ses aygıtı. 
-radio1 = O olmadan favori radyo yayınlarını dinleyemezdin, mesela 'Masada Tanışıklık', 'Güneş Işığı Kasabasından Elveda' veya 'İki Kardeş ve Aynı Zamanda Bir Ek Kardeş, Ben'.
+radio0 = Bu senin en yeni teknolojili, üstün kalitedeki ses aygıtın.
+radio1 = O olmadan, favori radyo yayınlarını dinleyemezdin, mesela 'Masada Tanıdıklık', 'Güneş Işığı Şehrinden Elveda' veya 'İki Kardeş Ve Aynı Zamanda Bir Ek Kardeş, Ben'.
+
 microwave0 = Bir mikrodalga! Yaramaz olan yemekleri cezalandırmak için kullanırsın.
 wardrobe0 = Bir elbise dolabı! Sadece bir tek kıyafet giyiyorsun, yani iskeletler için bolca yer var.
-button0 = Acil durum düğmesi, bir düğmeye basman gerektiği ama yakınlarda hiç olmadığı zamanlar için mükemmel şekilde dizayn edilmiş.
+button0 = Acil durum düğmesi, bir düğmeye basman gerektiği ama yakında başka bulamadığın zamanlar için mükemmel şekilde tasarlanmış.
 
 [Tokens]
 tokenmachine0 = Bu küçük makine [icon:token][name]Jeton[/name] alıyor ve karşılığında hediye veriyor! Bir hediye için [icon:token][name]3 Jeton[/name] harca?
@@ -35,13 +36,12 @@ tokenmachine0_no = Hediyeleri sevmem
 
 [computer]
 computerstart0 = Ah, evet. VGS 1 - Yapılmış en hızlı, en karmaşık süper bilgisayar.
-computerstart1 = Açalım mı?
+computerstart1 = Başlatalım mı?
 computer_on_yes = Evet!
 computer_on_no = Olmaz!
 computerstart2a = Açıldı. Bilgi sayar dünyası keyfi seni bekler.
 computerstart2b = Bilgisayarı yalnız bıraktın. Bugün o kadar hızlı olmaya hazır değilsin.
-computer0 = MERHABA KULLANICI {TANIMSIZ.KULLANICI}. [br]EV BİLGİ İŞLEM DENEYİMİNİZE HOŞGELDİNİZ.
-//Bilgi sayar-bilgi işlem
+computer0 = MERHABA KULLANICI {TANIMSIZ.KULLANICI}. [br]EV BİLGİ SAYAR DENEYİMİNİZE HOŞGELDİNİZ.
 computer1 = UYGULAMA AÇ?
 computer2 = KAPATILIYOR
 
@@ -64,7 +64,7 @@ computergame0 = YAZI-TABANLI EĞLENCE UYGULAMASINI SEÇTİNİZ.
 computergame01 = BİR OYUN OYNAMAK İSTER MİSİNİZ?
 computer_game_yes = EVET
 computer_game_no = HAYIR
-computergame1a = EVET'İ SEÇTİNİZ. BENİM ÖLÇÜLEMEZ KÜTÜPHANEMDEN TAMAMEN GÖRÜNTÜSÜZ EĞLENCE OLAN BİR OYUN SEÇECEĞİM.
+computergame1a = EVET'İ SEÇTİNİZ. BENİM ÖLÇÜLEMEZ KÜTÜPHANEMDEN GÖRSEL OLMAYAN EĞLENCE BİR OYUN SEÇECEĞİM.
 computergame1b = HAYIR'I SEÇTİNİZ. {TANIMSIZ.KULLANICI} İÇİN GEZEGENLER ARASI TERMONÜKLEER SAVAŞ OYUNUNDA YENİ YÜKSEK SKOR KAYDEDİLİYOR.[br]YAZI-TABANLI EĞLENCE UYGULAMASI KAPATILIYOR.
 computergame2 = SEÇİMİM: CORGI MACERASI 7 - BAĞLANAN TASMALAR.
 corgiquest_a5a = BİR CORGISİN. ADIN, ALAN. SENİ BU PİSLİK ALANINA BAĞLAYAN BÜYÜLÜ TASMAYI KOPARMALISIN. ÇIKIŞLAR KUZEY, DOĞU VE GÜNEYDE.
