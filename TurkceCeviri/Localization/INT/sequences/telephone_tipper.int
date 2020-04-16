@@ -1,5 +1,5 @@
 ﻿[murder]
-FirstTip0 = [shake2]Alo, şapkalı çocuk mu? Umarım hediyemi beğenirsin... [wave]he he he.[/wave][/shake2]
+FirstTip0 = [shake2]Şapkalı çocukla mı görüşüyorum? Umarım hediyemi beğenirsin... [wave]he he he.[/wave][/shake2]
 FirstTip1 = [shake2][hint]Trenin arkasına git[/hint]. Amcanın kız kardeşi [MotherMaidenName] seni ziyarete geldi.[/shake2]
 FirstTip2 = [shake2]Ona biraz sevgi göstersen iyi olur, yoksa sonraki sefer bir cesetle konuşuyor olacağım.[/shake2]
 FirstTip3 = [scream]*DIT*[/scream]
@@ -21,8 +21,8 @@ PetWarning1 = [shake2]Neden arkanı dönmüyor ve çok geç olmadan [PetName] [b
 
 suspect_mothermaiden0 = ...
 suspect_mothermaiden1 = Tamamdır, beni yakaladın, canım.
-suspect_mothermaiden2 = Farkettiysen, canım, ben gerçekten Bayan [MotherMaidenName] değilim. Bu benim, [icon:djgrooves][name]DJ Grooves[/name]!
-suspect_mothermaiden3 = Film çekerken sorun yaşadığını bildiğim için canım, bu planı bu yüzden ilginç bir film hikayesi yaratmana yardımcı olmak için yaptım!
+suspect_mothermaiden2 = Farkettiysen, canım, ben gerçekte Bayan [MotherMaidenName] değilim. Bu benim, [icon:djgrooves][name]DJ Grooves[/name]!
+suspect_mothermaiden3 = Film çekerken sorun yaşadığını bildiğim için canım, bu düzmeceyi ilgi çekici bir film senaryosu yaratmana yardımcı olmak için yaptım!
 suspect_mothermaiden4 = Ekspres Baykuşu, bıçağı bana saplamak ve ölü numarası yapmamda yardımcı olmakta yeterince kibardı.
 ending_revealed0 = Beni iyi yakaladın, ha, canım? Sen varken kimse cinayet gerçekleştiremeyecek!
 
