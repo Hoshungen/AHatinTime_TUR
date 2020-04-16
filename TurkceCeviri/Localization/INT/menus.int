@@ -323,17 +323,17 @@ Item_Adv_LightShafts_Title = Işık Kaynakları
 Item_Adv_LightShafts_Desc = Güneş, ve diğer parlak ışık kaynakları, will produce rays that can be blocked by objects in front of the camera.
 
 
-kameranın önündeki
+kamera önündeki nesneler
 ışın üretecektir
 
 
-Item_Adv_ObjectMotionBlur_Title = Per-Object Motion Blur
+Item_Adv_ObjectMotionBlur_Title = Objesel Hareket Bulanıklığı
 Item_Adv_ObjectMotionBlur_Desc = Fast-moving objects get blurred in the direction that they're moving. This is also applied per-limb on characters. This does not blur camera movement at all (that's Screen Blur).
 
 Item_Adv_RadialBlur_Title = Radyal Bulanıklık
 Item_Adv_RadialBlur_Desc = Etkinleştirildiğinde, patlamalar ve saldırılar efekt alanınında bulanıklık oluşturacaktır.
 
-Item_Adv_ScreenBlur_Title = Screen Blur
+Item_Adv_ScreenBlur_Title = Ekran Bulanıklığı
 Item_Adv_ScreenBlur_Desc = When the camera is moving rapidly, the background is blurred based on movement direction and depth; objects in the distance blur more than ones right in front of the camera.
 
 Item_Adv_Distortion_Title = Distortion
@@ -381,8 +381,8 @@ Item_Adv_PredictiveCamera_Title = Predictive Traced Camera
 Item_Adv_PredictiveCamera_Desc = Improves camera smoothing by tracing against nearby geometry.
 
 [systemsettings.input]
-Header_Input = Girdi
-Header_Input_Adv = Girdi (Gelişmiş)
+Header_Input = Giriş
+Header_Input_Adv = Giriş (Gelişmiş)
 
 Item_OnTheFlyController_Title = Auto-Select Controller
 Item_OnTheFlyController_Desc = If enabled and playing single player, the active controller will automatically change when you press a button on a new controller.
@@ -391,7 +391,7 @@ Item_ManageDefinitions_Title = Kontrolleri Yönet
 Item_ManageDefinitions_Title_Item = Yönet
 Item_ManageDefinitions_Desc = We've added support for a number of common controllers, but if you're using an uncommon controller, you will need to set it up here in order to use it.
 
-Item_MouseSensitivity_Title = Mouse Sensitivity
+Item_MouseSensitivity_Title = Fare Hassasiyeti
 Item_MouseSensitivity_Desc = The higher the sensitivity, the more of an impact mouse movement has on the game.
 
 Item_InvertCameraX_Controller_Title = Invert Horizontal Camera (Controllers)
@@ -651,7 +651,7 @@ Category_HatsAndBadges = ŞAPKALAR & ROZETLER
 Category_Collectibles = KOLEKSİYON
 Category_Misc = DİĞER
 Category_Featured = ÖNE ÇIKAN
-Category_ChallengeRoad = Meydan Okuma
+Category_ChallengeRoad = MEYDAN OKUMA
 
 Category_ChallengeRoad_Description = Sadece 3 canla bu topluluk düellosunu yenebilir misin?
 Category_ChallengeRoad_Clear0 = Kazandınız, tebrikler!
@@ -666,7 +666,7 @@ Action_Play = Oyna
 Action_Select = Seç
 
 [LoadoutMenuOptions]
-ReturnToHUB = HUB'a Dön
+ReturnToHUB = Salona Dön
 Settings = Ayarlar
 QuitGame = Oyundan Çık
 Coop = CO-OP
@@ -807,10 +807,10 @@ Pose_2 = Crouched Bleph
 Pose_3 = Barış ve Huzur
 Pose_4 = Şoke
 Pose_5 = Steppin'
-Pose_6 = Balance
+Pose_6 = Denge
 Pose_7 = Casual Walk
 Pose_8 = Zoomin' By
-Pose_9 = Finger Gun
+Pose_9 = Parmak Silah
 Pose_10 = Hmmm
 Pose_11 = Effendim
 Item_HatKidExpression = Yüz
