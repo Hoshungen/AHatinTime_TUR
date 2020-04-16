@@ -842,5 +842,5 @@ UndiscoveredCombo = Keşfedilmemiş bir kombo şimdi uygun, onu bulabilecek misi
 [Stickers]
 NewRareSticker = Nadir bir çıkartma [location] alanında belirdi - git ve bul!
 NewRareStickerUnknownLocation = Nadir bir çıkartma bir yerde belirdi - git ve bul!
-MachineNoRareSticker = Makine no şuan anormallik bulamadı, belki daha sonra sinyal bulabilir.
+MachineNoRareSticker = Makine şu an anormallik bulamadı, belki daha sonra sinyal bulabilir.
 MachineRareSticker = Makine nadir bir sinyal buldu, sinyal diyor ki...[br][stickerloc]
