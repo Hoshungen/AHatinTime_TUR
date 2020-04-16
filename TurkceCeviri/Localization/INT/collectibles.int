@@ -14,7 +14,7 @@ GenericYarnSuffix = Yumağı
 //??
 GenericHatSuffix = Şapka
 GenericFlairSuffix = Yeteneği
-//__
+//??
 
 [trigger_abilities]
 BadgeCollect0 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor; sadece [yarn][badgepoints_left][/yarn] kaldı!
@@ -52,7 +52,7 @@ ChemicalName = Karışım Şapkası
 ChemicalDescFun0 = Çılgın karışımlar hazırla!
 ChemicalDescTech0 = Patlayıcı karışımı atmak için [button:badge] tuşuna bas!
 
-TimeStopName = Zaman Durduran Şapka
+TimeStopName = Zamanı Durduran Şapka
 TimeStopDescFun0 = Ölüm kaçınılmaz, zaman değerlidir.
 TimeStopDescTech0 = Zamanı yavaşlatmak için [button:badge] tuşuna bas!
 
