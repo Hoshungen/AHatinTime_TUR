@@ -11,10 +11,10 @@ Plural1 = Bir
 TwoItemsAnd = ve
 
 GenericYarnSuffix = Yumağı
-//^HATALI
+//??
 GenericHatSuffix = Şapka
 GenericFlairSuffix = Yeteneği
-//^HATALI
+//__
 
 [trigger_abilities]
 BadgeCollect0 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor; sadece [yarn][badgepoints_left][/yarn] kaldı!
@@ -35,7 +35,7 @@ SprintDesc0 = Koşmak için [button:badge] tuşuna basılı tut!
 
 StatueFallName = Buz Şapkası
 StatueFallFun0 = Buz gibi!
-StatueFallTech0 = Buz kütlesi oluşturmak için [button:badge] basılı tut!
+StatueFallTech0 = Buz kütlesi oluşturmak için [button:badge] tuşuna basılı tut!
 
 HoverName = Süzülme Şapkası
 //Oyun içi test
@@ -48,7 +48,7 @@ HelpName = Çocuğun Şapkası
 HelpDescTech0 = Sonraki [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nı aramak için [button:badge]!
 HelpUsage = Hedefini bulmak için [icon:activehat] kullan!
 
-ChemicalName = Brewing Şapkası
+ChemicalName = Karışım Şapkası
 ChemicalDescFun0 = Çılgın karışımlar hazırla!
 ChemicalDescTech0 = Patlayıcı karışımı atmak için [button:badge] tuşuna bas!
 
@@ -119,7 +119,7 @@ HatCooldownBonusBadgeName = Hızlı Şapkacı Rozeti
 HatCooldownBonusBadgeDesc0 = Şapkaları kullanırken bekleme süresini ciddi ölçüde azaltır!
 
 MirrorBadgeName = Ayna Rozeti
-MirrorBadgeDesc0 = !Ririveç sret iyes reh
+MirrorBadgeDesc0 = !Ririveç sret iyeş reh
 
 NostalgiaBadgeName = Nostalji Rozeti
 NostalgiaBadgeDesc0 = Her şey kötü olduğunda her şey daha iyi olacak!
@@ -374,21 +374,17 @@ ShoyuRamenName = Shoyu Eriştesi
 ShoyuRamenDesc = Sıcak bir tavuk ve sebze çorbası, isteğe bağlı soslarla servis edilir. Soğuk gecedeki günün son trenini kaçırdıktan sonra iyi hisettmek için mükemmel bir geleneksel yiyecektir.
 
 KatsuCurryName = Katsu Körisi
-KatsuCurryDesc = Şeritler halinde kesilmiş leziz bir domuz külbastısı, yanında zengin körü tadıyla ve genellikle pilavla servis edilir. Kedi metrosundayken Kelime oyunu dayanılamazken, hoş görülmeyecektir.
+KatsuCurryDesc = Şeritler halinde kesilmiş leziz bir domuz külbastısı, yanında zengin körü tadıyla ve genellikle pilavla servis edilir. Kelime oyunları dayanılamazken, bir Kedi metrosundayken hoş görülmeyecektir.
 
 RiceName = Pilav
-RiceDesc = Pilav dünyadaki en çok tüketilen besinlerden birisidir. Hazırlaması kolay ve ucuz; ve ıslanmış cep telefonlarının kurtarıcısıdır.
+RiceDesc = Pilav dünyadaki en çok tüketilen besinlerden biridir. Hazırlaması kolay ve ucuz; ve ıslanmış cep telefonlarının kurtarıcısıdır.
 
 CookiesName = Kurabiyeler
-CookiesDesc = Hafif pişirilmiş bisküviler, genellikle çikolata kaplıdır, üzümle, ya da başka şeylerle. Atıştırmak için harikadır ve ayrıca kırıntılarını her yere dökmek için de.
+CookiesDesc = Hafif pişirilmiş bisküviler, genellikle çikolatayla,üzümle, ya da başka şeylerle kaplıdır. Atıştırmak ve kırıntılarını her yere dökmek için harikadır.
 
 JuiceBoxName = Meyve Suyu
 JuiceBoxDesc = Meyveyi sıkmışlar ve kutuya koymuşlar. Kaliteli nektar bol topak topak posa içerir, insanlığın bozuk süt içmeye razı olmamasını gösteren riyakarlığıdır.
-//[[showing the hypocrisy]] [[in [[mankind's unwillingness [to drink] spoiled milk]].
-//insanlığın riyakarlığını bozuk süt içme isteksizliğini gösteren.
-//insanlığın bozuk süt içme riyakarlığını gösteren.
-//içmek istememesi
-^HATALI
+//??
 
 PizzaSliceName = Pizza Dilimi
 PizzaSliceDesc = Ana malzemesi yuvarlak hamur; domates, peynir ve malzemelerle süslenmiş. Çoğu aşçı, bu üçgen güzellikle karşılaştıklarında gözyaşlarına hakim olamaz.
@@ -407,7 +403,6 @@ ComboFound = Karışım elde edildi:
 ComboCoffeeCookies = Kahve & Kurabiyeler
 ComboYumCha = Yum Çayı
 ComboIceCreamFloat = Dondurma Taşkını
-//^Ice Cream Float
 ComboFishChips = Balık & Patates Kızartması
 ComboBurgerMenu = Burger Menü
 ComboCurryRice = Köri & Pilav
