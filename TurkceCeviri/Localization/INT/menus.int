@@ -783,9 +783,15 @@ EasyName9 = Hoş İsteği
 Help_TakePicture = Resim Çek
 Help_ChangeFilter = Filtreyi Değiştir
 Help_ChangeDoF = Alan Derinliğini Değiştir
-Help_EnableDoF = Alan Derinliğini Aktif
-Help_DisableDoF = Alan Derinliğini Deaktif
+Help_EnableDoF = Alan Derinliği Aktif
+Help_DisableDoF = Alan Derinliği Deaktif
 Help_Exit = Çık
+Help_ShowMenu = Menüyü Göster
+Help_HideMenu = Menüyü Gizle
+Help_Sticker_Apply = Uygula
+Help_Sticker_Rotate = Döndür
+Help_Sticker_Zoom = Yakınlaştır
+Help_Sticker_Grab = Tut
 
 Msg_Filter = Filtre
 Msg_DoF = Alan Derinliği
