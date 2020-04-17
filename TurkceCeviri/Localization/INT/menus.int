@@ -526,7 +526,7 @@ ItemUnlock_Equip = KUŞAN
 Help_GoToAct = Perdeyi Başlat
 Help_UnlockAct = Perdeyi Aç
 Help_GoToBonus = Zaman Yarığına Gir
-Help_GoToFreeRoam = Start Free Roam
+Help_GoToFreeRoam = Gezintiyi Başlat
 Help_GoToBoss = Boss'u Başlat
 Help_GoToMiniBoss = Mini Boss'u Başlat
 Help_SeeDreamWorld = Fotoğrafa Bak
@@ -534,10 +534,10 @@ Help_UnSeeDreamWorld = Fotoğrafı Kapat
 Help_Exit = Çık
 
 Action_EnterCompletedAct = Bu perdeyi tamamladın. Yine de gir?
-Action_MissingItem = You're missing a key item[br]and won't be able to complete this act. Yine de gir?
+Action_MissingItem = Gerekli bir eşya eksik[br]ve bu perdeyi tamamlayamayacaksın. Yine de gir?
 
 StandOff_Confirm_Conductor0 = Kondüktör yüksek skora sahip! Onu kazanan olarak belirle?
-StandOff_Confirm_Conductor1 = He's kinda smug about it. Onun kazanan olmasını istiyor musun?
+StandOff_Confirm_Conductor1 = O bu konuda kendini beğenmiş. Onun kazanan olmasını istiyor musun?
 
 StandOff_Confirm_DJGrooves0 = DJ Grooves yüksek skora sahip! Onu kazanan olarak belirle?
 StandOff_Confirm_DJGrooves1 = Onun dansı biraz garip. Onun kazanan olmasını istiyor musun?
@@ -565,7 +565,7 @@ MenuDecline = Hayır!
 RetryLevelQuestion = Perdeyi yeniden dene?
 RetryDeathWishQuestion = Son İsteği yeniden dene?
 RetryLevel_Yes = Yeniden
-RetryLevel_HUB = HUB'a geri dön
+RetryLevel_HUB = Salona geri dön
 
 [DecorationMap]
 DecorationMap_NoMarkers = Yakınlarda kalıntı yok
@@ -637,7 +637,7 @@ DownloadingMod = Mod indiriliyor
 ModCreatedBy = Yapımcı
 ModVersion = Sürüm
 HowToAccessLevelMods = Mod Bölümleri[br]Uzay Gemisindeki posta odasından[br]erişilebilir:
-VisitModMenu = Visit the mail room to give it a try!
+VisitModMenu = Posta odasını ziyaret edip bir deneyin!
 
 PreviewButtonsText_Play = Oyna!
 PreviewButtonsText_Enable = Aktif
@@ -718,7 +718,7 @@ coop_bullet0 = Bölünmüş ekranda
 coop_bullet1 = bütün macerayı oynayın
 coop_bullet2 = ve birbirinize yardım edin
 
-dlc2_title = Yeni: Nyakuza Metrosu
+dlc2_title = Yeni: Miyakuza Metrosu
 dlc2_bullet0 = İmparatoriçenin kontrolündeki
 dlc2_bullet1 = tehlikeli metro tünellerinde
 dlc2_bullet2 = yepyeni Zaman Parçalarını toplayın!
@@ -730,7 +730,7 @@ ghostparty_bullet2 = yeni çevrimiçi modu oynayın!
 
 newgamebowkid_title = Teşekkür ederiz!
 newgamebowkid_bullet0 = Hayranımız olduğunuz için teşekkür ederiz!
-newgamebowkid_bullet1 = Yeni maceranıza Bow Kid
+newgamebowkid_bullet1 = Yeni maceranıza Tokalı Çocuk
 newgamebowkid_bullet2 = olarak başlayabilirsiniz!
 
 featuremodmap_title = ÖNE ÇIKAN topluluk bölümü
