@@ -10,6 +10,10 @@
 > 2. Sırasıyla 'Özellikler → Yerel Dosyalar → Yerel Dosyalara Gözat' yolunu izleyin.
 > 3. HatinTimeGame/Mods dizinine gelin, dosyanın içerisindeki **TurkceCeviri** klasörünü, bu klasör dizinine yapıştırın.
 
+## Linkler
+Steam Workshop
+[Trello](https://trello.com/b/EY0H9mOr/a-hat-in-time-t%C3%BCrk%C3%A7e-%C3%A7eviri "Trello Sayfası")
+
 ## Katkıda Bulunanlar/Contributors
 ### Çevirmenler
 > * Hoshungen
