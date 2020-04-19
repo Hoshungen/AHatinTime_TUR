@@ -20,4 +20,3 @@
 
 ## Değişiklik Kaydı
 > * 19/04//20 - 0.9.5
-> * Projenin Başlama Tarihi: 10//2018
