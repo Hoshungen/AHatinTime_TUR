@@ -2,8 +2,8 @@
 <p align="center"><img width="300" height="300" src="https://github.com/Hoshungen/AHatinTime_TRK/blob/master/TurkceCeviri/icon_TRK.jpg"></p>
 > Bu Türkçe çeviri modu ```A Hat in Time``` adındaki Steam oyunu için yapılmıştır. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Dokuların çevrilmesi için **Asset Replacement** gerekmektedir.
 
-* Proje Sürümü: **Devam Etmekte (18.04.2020-2018, QC)**
-* Şimdiki Sürüm: **%90 - BETA**
+* Proje Sürümü: **18.04.2020-2018, QC**
+* Şimdiki Sürüm: **BETA**
 
 ## Nasıl Yüklenir?
 > 1. Steam'dan 'A Hat in Time' oyununu seçin.
@@ -20,5 +20,5 @@
 > * Lantan
 
 ## Değişiklik Kaydı
-> * 23/04//20 - 0.9.3
+> * 19/04//20 - 0.9.3
 > * Projenin Başlama Tarihi: 10//2018
