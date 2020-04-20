@@ -16,12 +16,12 @@ grabbed1 = Ciddiyim! Beni yere indir, seni koca aptal!
 grabbed2 = Nasıl bir adam[br]masum küçük bir kızı[br]tutar?!
 grabbed3 = Yemekleriniz kötü[br]ve sen bir[br]kötüsün![br]Şimdi bırak beni!!
 grabbed4 = Seninle[br]hiçbir yere gitmeyeceğim![br]Bırak da gideyim!!
-grabbed5 = Beni şimdi[br]bırakmazsan,[br]Isırırım!
+grabbed5 = Beni şimdi[br]bırakmazsan,[br]ısırırım!
 grabbed6 = Kes şunu!
 
 battleend0 = Pfft. Onlara inanabiliyor musun? Ne beceriksizler ama.
 battleend1 = Hey. Haklısın, yeni çocuk. Adın nedir?
-battleend2 = Yok mu? Utangaçsın? Bu havalı. Sen az konuşan, kavgacı türden bir kızsın, sanırsam.
+battleend2 = Yok mu? Utangaçsın? Önemli değil. Sen az konuşan, kavgacı türden bir kızsın sanırsam.
 battleend3 = Bu oradan aldığın [timepiece][icon:timepiece]şey[/timepiece] ... onları topluyor musun? Çünkü ben daha fazlasının nerede olduğunu biliyorum.
 battleend4 = Onlar geldiğinden beri gökyüzünden yağıyor. Eşkiyaların yukarıdaki üslerine götürdüğünü gördüm.
 battleend5 = Oraya gidip çöpünü almalıyız! Eğlenceli olacak! İş mafyayla mücadele etmekse hiçbir fırsatı geri çevirmem.
@@ -36,12 +36,12 @@ PreAwakening4 = Onları parçalayarak lapa yapalım ve kalanları da kavonozun i
 PreAwakening5 = Sonra da kavanozu cep harçlığı için satalım! Yaralarına tuz basmak olacak bu!
 PreAwakening6 = ... [scream]*öhöm*[/scream] Ama önce, onların [name]Mafya Üssü[/name]ne girmeliyiz.
 PreAwakening7 = Önce [name]Mafya Patronu[/name]nu bulup tahtından indirmeliyiz, kalanları da takip edecek. Sonra lapa ve kavanoz partimiz sorunsuz olacak!
-PreAwakening8 = Seni güçlendirmeliyiz! Şapkan basit ve bu çetede basit bir şey yapmıyoruz!
+PreAwakening8 = Seni güçlendirmeliyiz! Şapkan basit ve bu çetede basit şeyler yapmıyoruz!
 PreAwakening9 = [hint][icon:yarn]Yumak[/hint] Mafya Şehrinde bulunabilir ve yeni şapkalar örmek için kullanılabillir. Senin için bir tane aldım!
 PreAwakening10 = Bazı şapkalarda diğerlerinden daha çok yumağa ihtiyacın olacak. Yaratıcı olmak bedava değil, değil mi? Bu yüzden bir gözün yumakta olsun!
 
 [mafiahq]
-outside0 = Zamanını alıyorum ama! Bana yardım et!
+outside0 = Zamanını alıyorum ama bana yardım et!
 outside1 = Şu canavarlardan kurtulalım da içeri girebilelim!
 outside2 = Aferin, çocuk!
 outside3 = Haydi gidelim,[br]şov zamanı[br]bebeğim!
@@ -50,48 +50,47 @@ captured0 = Bırak beni,[br]seni psikopat!!
 mafia_ball_hint0 = Şapkalı çocuk![br]Ona vurdun bile!
 mafia_ball_hint1 = Hadi! üstüne çık[br]ve vur ona!
 
-timepiecebreak0 = O şeyler ne işe yarıyor, her neyse? Onlar koleksiyoncuların topladığı türden şeylerden mi?
-timepiecebreak1 = Onlar koleksiyoncuların topladığı tür... bekle, ne?
+timepiecebreak0 = O şeyler ne işe yarıyor ki zaten? Koleksiyoncuların topladığı türden şeylerden mi?
+timepiecebreak1 = Koleksiyoncuların topladığı tür... bekle, ne?
 timepiecebreak2 = [big][scream]Dur, NE?![/scream][/big]
 timepiecebreak3 = Ne... bunu, um... bunu biliyor muydun?
 proposal0 = [scream]Bu çılgınca![/scream] Bunlarla neler yapılabileceğinin farkında mısın?
 proposal1 = Bunu kullanarak Mafyadan bir daha asla yumruk yemezdin!
-proposal2 = Mafyayı dövebiliriz, zamanda yolculuk yapıp, onları yeniden dövebiliriz!
-proposal3 = Hayır, bekle, Mafyayı asla bu adaya getirmemiş yapabiliriz!
+proposal2 = Mafyayı dövebiliriz, sonra zamanda yolculuk yapıp onları yeniden dövebiliriz!
+proposal3 = Hayır, bekle, Mafyanın asla bu adaya gelmemiş olmasını sağlayabilirsin!
 proposal4 = Bekle, bekle, bekle, daha da iyisi var! Kendimizi suçla mücadeleye adamış zaman gezginleri olabiliriz!
 tantrum0 = Bekle, ne?! Kulağa saçma geliyor!
-tantrum1 = Böylesine bir güce sahipsin ve bunu sen kötülüklere karşı kullanmayacak mısın?
+tantrum1 = Böylesine bir güce sahipsin ve bunu kötülüklere karşı kullanmayacak mısın?
 tantrum2 = Eğer sen kötülerle savaşmayacaksan... öyleyse bunu ben yaparım!
 tantrum3 = Bu adanın Mafya Şehri olarak kalmasına izin vermeyeceğim! Tüm [timepiece][icon:timepiece]Zaman Parçaları[/timepiece]nı kendim toplayacağım! Burada söz hakkım var!
 pickpocket_no_va = [name]Bıyıklı Kız[/name] [icon:money][hint]Pon[/hint]larının yarısını çaldı.
 
-[MuMission_Finale]
-intro0 = Tamamdır, içerdeyim! Başardım! Ben bu çocuğun uzay gemisine alarmları çalıştırmadan sızdım.
-intro1 = Onun benden daha çok [timepiece][icon:timepiece]Zaman Parçası[/timepiece] topladığının iddiasına girerim... şimdi o onları nerede saklıyor?
-vault0 = Bingo! Çocuğun onları sakladığı yer burası olmalı!
+[MuMission_Finale
+intro0 = Tamamdır, içerdeyim! Başardım! Ben, çocuğun uzay gemisine alarmları çalıştırmadan sızdım.
+intro1 = Benden daha çok [timepiece][icon:timepiece]Zaman Parçası[/timepiece] topladığının iddiasına girerim... şimdi onları nerede saklıyor peki?
+vault0 = Bingo! Sakladığı yer burası olmalı!
 vault2 = Zamanla biraz uğraşma zamanı!
 
 [finale]
 plead0 = Ah vay be, ne dokunaklı bir hikaye. Şakaydı! Kötü birisin! SONRAKİ!
 plead1 = SONRAKİ, dedim!
-plead2 = Oh, bu sensin!
+plead2 = Oh, sensin!
 plead3 = Bencil küçük bir haşere oldun sayılır. Ama eh! Gerçekten karşımda durmadın. Devam et, sen iyi birisisin, sanırsam.
 plead4 = Devam et. Yaşayacaksın.
 plead5 = SONRAKİ!
 
-slap0 = [scream]ÖZÜR DİLERİM?[/scream]
-slap1 = Yanıma yaklaşmaya nasıl cüret edersin. Kimin suçlu olduğunu anladığını hiç düşünmüyorum, küçük bayan.
+slap0 = [scream]AFEDERSİN?[/scream]
+slap1 = Yanıma yaklaşmaya nasıl cüret edersin? Kimin suçlu olduğunu anladığını hiç düşünmüyorum, küçük bayan.
 slap0_alt = [scream]ACINASI![/scream]
 slap2 = Biliyor musun, seni affetmek istiyordum. Dost olabileceğimizi bile düşünmüştüm.
-slap3 = Ama HAYIR, bencil ve kötü oldun. Bu gezegeni kötülerden kurtamak mı? Pfft, kimin umrunda değil mi, haksız mıyım?
-slap4 = Sensiz yaptığım şunca şeye bir bak. Adaleti yerine getirdim. BEN adaletim. Kötüler artık yok, asla.
+slap3 = Ama HAYIR, bencil ve kötü oldun. Bu gezegeni kötülerden kurtamak mı? Pfft, kimin umrunda, haksız mıyım?
+slap4 = Sensiz yaptığım bunca şeye bir bak. Adaleti yerine getirdim. BEN adaletim. Kötüler artık yok, asla.
 slap5 = Sana ihtiyacım yok. Bu dünyanın sana ihtiyacı yok. Kimse seni özlemeyecek ve kimse önemsemeyecek.
 slap6 = SEN kötü birisisin ve bu adalet sistemimin kötülere karşı ne yaptığını göstereyim.
 
 leaving0 = Gerçekten mi? Ayrılıyor musun? Kavga bile etmeden mi? Acınası.
-
-group_counter0 = N, ne? Ama her şeyi yoluna sokuyordum! Kötüler yok! Bunu hepimiz için yaptığımı neden anlamıyorsunuz!
-group_counter1 = Nasıl bu insanların arkasında duruyorsun? Onlar hırsız! Suçlu! Ve sen... onlara yardım mı ediyorsun?
+group_counter0 = N-ne? Ama her şeyi yoluna sokuyordum! Kötüler yok! Bunu hepimiz için yaptığımı neden anlamıyorsunuz!
+group_counter1 = Nasıl bu insanların arkasında durursun? Onlar hırsız! Suçlu! Ve sen... onlara yardım mı ediyorsun?
 group_counter2 = Bu şimdi sona eriyor!
 
 final_phase0 = [scream][big]Yeter!![/big][/scream]
