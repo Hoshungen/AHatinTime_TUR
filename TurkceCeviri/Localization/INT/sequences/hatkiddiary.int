@@ -90,50 +90,39 @@ Cruise_Boarding_1 = Her neyse, bu eğlenceli olmalı! O kadar koşuşturmadan so
 Cruise_Working_0 = Keeeeesinlikle bu gemide [icon:timepiece][timepiece]Zaman Parçaları[/timepiece] var! Kimse onları istemiyor bile! 
 Cruise_Working_1 = Şu kıl kaptan bana gemisini temizlettirdi (ağhh!!!)! En burada kimse öldürülmüyor veya patlamalar olmuyor.
 
-Cruise_Sinking_0 = Uhhhh..... whoops. I don't think anyone saw me do that. Should I come up with an excuse just in case?
-Cruise_Sinking_1 = It was a freak accident? Icebergs just get in the way of ships sometimes? I really wanted to do it?
+Cruise_Sinking_0 = Uhhhh..... uuups. Yaptığımı gören olduğunu sanmam. Her türlü bir bahane uydursam mı ki?
+Cruise_Sinking_1 = Sadece garip bir hataydı? Bazen buzul dağları gemilerin önüne geçer? Gerçekten yapmak istedim?
 Cruise_Sinking_2 = Belki bu gezegende batan yolcu gemileri yasa dışı değildir?
 
 //THE METRO
-Metro_Intro_0 = Bu yer kalabalık, ha? There's cats travelling from all over the place! Ve... trenleri kediler mi sürüyor? Garip.
+Metro_Intro_0 = Burası epey dolu, ha? Her yerden yolculuk yapan kediler var! Ve... trenler de kediler tarafından çekiliyor? Garip.
+Metro_Intro_1 = Burada bir zaman parçası vardı... ama büyük, KORKUNÇ bir bayan ona vermemi söyledi. Derdi ne ki?? Neden by kadar kaba???
 
+Metro_RouteA_0 = 'İmparatoriçe' beni etrafta koşuşturup zaman parçası toplatıyor ama sonra benden alıyor onları! Kaba!!!
+Metro_RouteA_1 = Bana biraz 'para' verdi karşılığında. Yeşil ve kedi kürkü gibi kokuyor. Ne işe yarıyor acaba?
 
+Metro_RouteB_0 = Burada koşarken yemek sesleri dikkatimi dağıtıyor...
+Metro_RouteB_1 = Eğer aramayı kesip biraz yemek yesem fark eder mi?
 
-some big SCARY lady made me hand it over to her
+Metro_RouteC_0 = Bu tüneller biraz ürkünç! Tamamen karanlıklar ve sonra büyük bir kedi geçip gidiyor...
+Metro_RouteC_1 = Burada da kırılmış bir zaman parçası vardı ama diğerleri gibi vermek zorunda kaldım. Grr....
 
-Metro_Intro_1 = Burada bir zaman parçası vardı... ama KORKUNÇ kadının teki made me hand it over to her. Teklifi neydi?? Neden o çok kaba???
+Metro_RouteD_0 = Vay canına! Bu gergindi. Neredeyse pestilim çıkıyordu! Hepsi de bu 'para' şeysi için.
+Metro_RouteD_1 = Bayağı 'para' kazanıyorum görünüşe göre. Ama ben zaman parçalarımı istiyorum, bu çöpü değil!!!
 
-Metro_RouteA_0 = The 'Empress' has me running around finding timepieces, but then she keeps taking them back off me! Rude!!!
-Metro_RouteA_1 = She gave me some 'cash' for it. It's green and smells of cat fur. What is it for?
+Metro_ManholeA_0 = Bir kanalizasyona düştüm ve daha da fazla metro vardı?? Neeeeee?
+Metro_ManholeA_1 = VE orada bir zaman parçası vardı! Bende kalmadı gerçi...
 
-Metro_RouteB_0 = The smell of food is so distracting when I'm running around this place...
-Metro_RouteB_1 = I wonder if that rude lady will notice if I stop looking and go eat instead.
+Metro_ManholeB_0 = Yani... Metro yeraltı oluyor. Ama bir yeraltı tren yolu var?
+Metro_ManholeB_1 = Ve bu iniş delikleri yeraltı-atlına gidiyor? Kediler garip!
 
-Metro_RouteC_0 = These tunnels are kinda spooky! They're all dark, and then a big cat comes whooshing along it...
-Metro_RouteC_1 = There was a smashed up timepiece down here too, but I had to give it over like the rest. Grr....
+Metro_ManholeC_0 = Ne kadar var ki burada? Bende hiçbirisi kalmıyor gerçi!!!
+Metro_ManholeC_1 = Oraya gizlice girip çalacağım bir şekilde...
 
-Metro_RouteD_0 = Woah! That was tense. I nearly got squished! All that for more of this 'cash' stuff.
-Metro_RouteD_1 = I'm making lots of 'money' apparently. But I want my timepieces, not this junk!!!
+Metro_Escape_0 = Vay canına... bu yakındı. Şu edepsiz kedi bayan neredeyse yakalamıştı beni!
+Metro_Escape_1 = Ama tamamen kendi başıma zar zor kaçmayı başardım ve TÜM zaman parçaları benim. Elveda, Metro!
 
-Metro_ManholeA_0 = I fell through a sewer grate and there was more metro down there?? Whaaaat?
-Metro_ManholeA_1 = VE there was a timepiece down here! But I didn't get to keep it...
-
-Metro_ManholeB_0 = So...the Metro is underground. But there's an underground train line?
-Metro_ManholeB_1 = Ve these manhole covers lead under-underground? Cats are weird!
-
-Metro_ManholeC_0 = How many are there in this place? Not that I'm getting to keep any!!!
-Metro_ManholeC_1 = I'm going to sneak in there and get them back somehow...
-
-Metro_Escape_0 = Hop... çok yakındı. O nahoş kedi kadın beni neredeyse yakalıyordu!
-
-
-
-
-Metro_Escape_1 = But I bravely escaped completely on my own, and ALL the timepieces are mine. Bye-bye, Metro!
 
 //FINALE
-Mu_Finale_0 = That got out of hand. As if this planet didn't have enough lava on it already!
-Mu_Finale_1 = I'm sick of people here sneaking into my ship! It's rude! Time for me to go home.
-
-That got out of hand.
-Olaylar ığrından çıktı.
+Mu_Finale_0 = İşler çığrından çıktı. Bu gezegen zaten yeterince lava sahip değilmiş gibi!
+Mu_Finale_1 = Buradakilerin gemime sızmasından gına geldi! Kaba! Eve gitme vaktim geldi.
