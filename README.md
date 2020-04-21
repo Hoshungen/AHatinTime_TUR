@@ -1,6 +1,7 @@
-<h2 align="center"> A Hat in Time - Türkçe Çeviri </h1>
+<h2 align="center"> A Hat in Time - Türkçe Çeviri </h2>
 <p align="center"><img width="300" height="300" src="https://github.com/Hoshungen/AHatinTime_TRK/blob/master/TurkceCeviri/icon_TRK.jpg"></p>
-> Bu Türkçe çeviri modu `A Hat in Time` adındaki Steam oyunu için yapılmıştır. Sadece diyaloglar, menü içerikleri **Türkçeye** çevrilir. Dokuların çevrilmesi için **Asset Replacement** gerekmektedir.
+
+> Türkçe çeviri modu `A Hat in Time` adındaki Steam oyunu için yapılmıştır. Sadece diyaloglar, menü içerikleri **Türkçeye** çevrilir. Dokuların çevrilmesi için **Asset Replacement** gerekmektedir.
 
 * Proje Sürümü: **19.04.2020-2018, BETA**
 
