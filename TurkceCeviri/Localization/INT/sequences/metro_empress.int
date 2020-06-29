@@ -1,21 +1,21 @@
 ﻿[finale]
 empress_finale0 = Küçük hırsızımızı bana getiren kediye bir milyon dolar.
-empress_finale1 = İstersen koş. Fazla uzağa gidemezsin.
+empress_finale1 = İstersen koşabilirsin. Fazla uzağa gidemezsin.
 empress_finale2 = Yakalayın onu. Çabuk olun.
 empress_finale3 = Hepinizi değiştirmem mi gerekiyor? Bir çocuğu bile yakalayamıyor musunuz?
-empress_finale4 = İkramiye İKİ milyon. Şu küçük yaramazı getirene.
+empress_finale4 = Ödül İKİ milyon. Şu küçük yaramazı getirene.
 empress_finale5 = Koşmaya devam çocuk. Henüz evinde değilsin.
-empress_finale6 = Peki peki peki. Bak bakalım kim burada.
-empress_finale7 = İçeri gir, olmaz mı?
+empress_finale6 = Bak, bak, bak. Bakın kimler gelmiş.
+empress_finale7 = İçeri girer misin lütfen?
 empress_finale8 = Kaçabileceğini mi zannediyordun? Akıllı olduğunu mu düşünmüştün, küçük kız?
 empress_finale9 = Sana güvenebileceğimi düşünmüştüm. Kötü bir yatırım yaptığım çok nadirdir.
-empress_finale10 = Benden çalmak için oldukça açgözlü olabileceğini de - çok cesurca, çok küçük birisi için.
+empress_finale10 = Bunu benden çalmak için oldukça açgözlü olabileceğini de - çok cesurca, çok küçük birisi için.
 empress_finale11 = Hepsi benim hatam, gerçekten. Cesaretlendirdiğim kişiler için daha iyi gözlem yapmam lazım.
-empress_finale12 = Bir gün burada önemli birisi olabilirdin. Ama sen beni hayal kırıklığına uğrattın -
+empress_finale12 = Burada önemli birisi olabilirdin bir gün. Ama sen beni hayal kırıklığına uğrattın -
 empress_finale13 = - ve parayı çekmenin sırası.
 empress_finale14 = Oh! Polisler!
 empress_finale15 = Ne... zamanlama ama. Ben de tam gidiyordum.
-empress_finale16 = [small]Onlar, senden kurtulmaktan çok daha zor.[/small]
+empress_finale16 = [small]Onlardan kurtulmak, senden çok daha zor.[/small]
 empress_finale17 = Tekrar görüşeceğiz, yaramaz şey.
 
 [timepiece1]
@@ -93,17 +93,17 @@ empress_dir_pinkM2 = Pembe Pati'de ikinci bir tünel var. Bu yeri ara.
 
 [postfinale]
 empress_post_finale_0 = Pençelerime doğru yine geldin. Cesurca.
-empress_post_finale_1 = Hata yapma, çocuk. Eğer bu polisler şu anda soruşturma yapmıyor olsaydı, senin peşini ikinci bir kez bırakmazdım.
-empress_post_finale_2 = Küçük engelinize teşekkürler, Şefin isteği... anlaşmamızın yeniden müzakeresi. Bana baskı yaratacak birkaç kedi yavrusu göndermeyi düşünüyor o, buraya.
-empress_post_finale_3 = Onlar hiçbir şey bulamayacak, tabii ki. Onlar bu kadar aptal değil. Ama bu şu anlama geliyor, işleri bir süreliğine nizama göre yapmalıyım Herkese olanlar tesadüf değil, biliyorsun.
-empress_post_finale_4 = Bunların hepsi yakında dağılacak. Akıllı olsaydın, koşardın.
+empress_post_finale_1 = Hata yapma, çocuk. Eğer bu polisler şu anda soruşturma yapıyor olmasaydı, bu sefer elimden kaçamazdın.
+empress_post_finale_2 = Küçük dublorümüze teşekkürler, Şef'in istediği... anlaşmanın yeniden müzakeresi. O, buraya baskı yaratacak kendi kedi yavrularını göndermeyi düşünüyor.
+empress_post_finale_3 = Onlar hiçbir şey bulamayacak, tabii ki. Onlar bu kadar aptal değil. Ama bu şu anlama geliyor, işleri bir süreliğine nizamına göre yapmalıyım Herkese olanlar kaza değildi, biliyorsun.
+empress_post_finale_4 = Yakında bunların hepsi gidecek. Akıllı olsaydın, koşardın.
 
 [cutscenes]
 Intro0 = Bu şeyi bana getirdiğin için teşekkür ederim.
 Intro1 = Kimin için çalışıyorsun, hiç kimseye mi?
 Intro2 = Peki...
-Intro3 = Seni etrafta dolaşmana izin veremem,
-Intro4 = kuyumculuk işime kimse engel olmamalı.
+Intro3 = Etrafta böylece koşturamaz,
+Intro4 = kuyumculuk işime engel olamazsın.
 Intro5 = Yani, şimdi benim için çalışıyorsun.
 Intro6 = Dükkanıma gel, konuşmamız gereken bir iş var.
 
@@ -113,4 +113,3 @@ Midpoint2 = Buna izin verme... kendin ol.
 
 Finale0 = Yakalayın onu. Çabuk olun.
 Finale1 = Ödül... bir milyon.
-//
