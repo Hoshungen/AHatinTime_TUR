@@ -3,7 +3,7 @@ Conditions_3Lives = 3 canın var
 Conditions_3Checkpoints = 3 hakkın var
 Conditions_NoHealth = Can ponları yok
 Conditions_NoCheckpoints = Kayıt noktası yok
-Conditions_ClearLevel = Zaman Parçasını toplamak zorundasın
+Conditions_ClearLevel = Zaman Parçasını toplamalısın
 Conditions_EasyMode = Barış ve Huzur etkin
 
 Contract_Clear = Tamamlandı!
@@ -13,48 +13,48 @@ Obj_Complete = Tamamlandı
 Obj_Failed = Başarısız
 Best_Time = En İyi Zaman
 Best_Score = En İyi Puan
-Lives_Remaining = Kalan Can/lar
+Lives_Remaining = Kalan Can
 
 [Hat_SnatcherContract_DeathWish_Intro_100Pons]
 Title = Pon Hayranı
 Objective = 20 Pon Topla
 50Pons = 50 Pon Topla
 100Pons 100 Pon Topla
-Tip0 = [icon:money] [name]Pon[/name]ların ne olduğunu biliyorsun değil mi? Hani şu küçük yeşil şeyler?[br]Her yerdeler. Lütfen [icon:money] [name]Pon[/name]ların ne olduğunu söyle bana.
+Tip0 = [icon:money] [name]Pon[/name]ların ne olduğunu biliyorsun değil mi? Hani şu küçük yeşil şeyler?[br]Her yerdeler. Lütfen [icon:money] [name]Pon[/name]ların ne olduğunu anlat bana.
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
-Title = Koskocaman Büsbüyük Müzik Konseri
+Title = Devasa Büyük Müzik Konseri
 Objective = Geçit Törenini Tamamla
-AllTokens = DJ Grooves jetonlarının bitmesine izin verme
+AllTokens = DJ Grooves jetonlarının tükenmesine izin verme
 NoHit = Ekspres Bandosuna çarpma
-BigBand = Bir sürü takipçi kazanmışsın gibi görünüyor
+BigBand = Epeyce takipçi kazanmışsın gibi görünüyor
 Tip0 = Bu aptal baykuşlar seni her yerde takip edecek. Belki onları [name]etrafında daireler çizerek[/name] meşgul edebilirsin.
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = Kendini Yoketmeye 10 saniye
 Objective = Tam Zamanındayı tamamla
-NoHat = Şapka yetenekleri yok, One-Hit Hero equipped
+NoHat = Şapka yetenekleri yok, Tek Vuruşta Öldüren kuşanılmış
 Tokens = Kondüktör jetonlarını topla
-Condition = Baykuş Ekspresi seferinin gerisinde
-//^ olmamış çeviri
-Tip0 = Ne zaman 10 saniye dersem, ciddiyimdir! Çok hızlı olmalısın ufaklık!
+Condition = Baykuş Treni tarifesinin gerisinde
+//tarifesi=seferi?
+Tip0 = Ne zaman 10 saniye dersem, ciddiyimdir! Hızlı koşsan iyi olur ufaklık!
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
 Title = Güvenlik Zafiyeti
-Objective = Dead Bird Stüdyosunu Tamamla
+Objective = Ölü Kuş Stüdyosunu Tamamla
 NoCaught = Yakalanmadan tamamla
-NoFees = 200,000den daha az bir ceza ile tamamla
-NoFees_Easy = 600,000den daha az bir cezayla tamamla
+NoFees = 200,000den daha az cezayla tamamla
+NoFees_Easy = 600,000den daha az cezayla tamamla
 Condition = Güvenlik Arttırılmış, belli
-Tip0 = Bu en zor görevin olacak: [name]Baş belası olmamak![/name]
+Tip0 = En zor görevin bu olacak: [name]Baş belası olmamak![/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
 Title = Isıyı Yen
 Objective = Tüm Lav musluklarını kapat
 AvoidLava = Ateşlenme!
 MinWater = Kendini 2 kereden fazla soğutma
-Condition = Hava normalden daha sıcak, kendini serinlet!
-Tip0 = Aynı anda yapman gereken görevler hakkında endişelenme. [name]Daha sonra gelip[/name] tamamlayabilirsin bile, bunu önemsemem! Gerçekten![br][shake][scream]İHTİYACIN OLDUĞU HER ZAMAN.[/scream][/shake]
+Condition = Hava normalden daha sıcak, serinlet kendini!
+Tip0 = Aynı anda yapman gereken görevler hakkında endişelenme. [name]Daha sonra gelip[/name] yapabilirsin bile, buna aldırmam! Gerçekten![br][shake][scream]ZAMANA İHTİYACIN OLDUĞU HER ZAMAN.[/scream][/shake]
 EasyTip = Her musluktan sonra suya dal!
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
@@ -62,54 +62,58 @@ Title = Hiç Zıplama
 Objective = Zıplamadan herhangi bir Zaman Parçası topla
 Condition = Zıplarsan, ölürsün!
 Collect4 = 4 Zaman Parçasını zıplamadan topla
-TrainRush = Tam Zamanındayı zıplamadan tamamla
-Tip0 = Ufak bir dokunuşla, şapkan olan [icon:icehat] zıplamaya gerek kalmadan daha fazla yükseklik için kullanılabilir. Ne kullanışlı ama!
+TrainRush = Tam Zamanında'yı zıplamadan tamamla
+Tip0 = Ufak bir dokunuşla, şapkan olan [icon:icehat] ile zıplamaya gerek kalmadan daha fazla yükseklik için kullanılabilir. Ne kullanışlı ama!
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
-Title = Wound-Up Windmill
+Title = Gerilmiş Yel Değirmeni
 Objective = Yel Değirmeninin zirvesine ulaş
-OneHit = Şapka yeteneği yok, One-Hit Hero equipped
+OneHit = Şapka yeteneği yok, Tek Vuruşta Öldüren kuşanılmış
 TimeLimit = Bitişe 4 dakikada ulaş
 TimeLimit_Easy = Bitişe 10 dakikada ulaş
 Condition = Yel Değirmeni "zirve" performansında çalışıyor
-Tip0 = Having trouble with speedy platforms? Try not jumping so high, you'll land sooner. Then try using the platform's [name]momentum[/name] to your advantage![br]Remember kid, [name]timing is everything[/name]!
+Tip0 = Süratli platformlarda zorlanıyor musun? Fazla yükseğe zıplama, daha çabuk inersin. Sonra platformların [name]momentum[/name]unu avantajını kullan![br]Unutma çocuk, [name]zamanlama her şeydir[/name]!
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
 Title = Gizli Kasa
 Objective = Altın Kasayı Aç
 Condition = Kasa Kodları etrafa saçılmış
 Condition2 = Kasa sadece only partially points to the codes
+kodları kısmen gösteriyor
 
 [Hat_SnatcherContract_DeathWish_BossRush]
 Title = Boss Rush
-Objective = Down with the Mafia (and Everyone Else!)
-NoMiss = Don't miss any chance to hit
+Objective = Mafyayı Alt Et (ve Diğer Herkesi!)
+NoMiss = Vuruşlarını kaçırma
 OneHit = Win with One-Hit Hero equipped
-Condition = No healing between fights
-Tip0 = If you find a [icon:health] [name]Health Pon[/name] you don't need, don't grab it right away! You might need it later...
+Tek 
+Condition = Mücadelelerde iyileşme
+Tip0 = İhtiyacın olmadığı bir [icon:health] [name]Can Pon[/name]u bulursan, hemen alayım deme! Belki sonra gerekebilir...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
 Title = Seal the Deal
-Objective = Defeat your strongest foes
-Condition = Good luck!
-NoHats = Don't use any hat abilities
-FewHits = Don't let your health drop to 1 HP
-Tip0 = Don't forget to take breaks! Not moving for long periods of time is bad for your health!
+Objective = En güçlü düşmanını yen
+Condition = İyi şanslar!
+NoHats = Şapka yeteneklerini kullanma
+FewHits = Sağlığının 1'e düşmesine izin verme
+Tip0 = Ara vermeyi unutma! Uzun süre hareketsizlik sağlığın için kötüdür!
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
 Title = Collect-a-thon
 Objective = Simply collect 100 Pons
 NoBoxes = Don't break any crates or barrels
+Kutu ya da Varilleri asla kırma
+
 FewPons = Don't pick up more than 200 Pons in total
-Condition = Collection progress drains over time
-Tip0 = Never stop collecting Pons, kiddo! Keep an eye out for boxes, barrels, bullies, and other things you can [name]crack open[/name] to get a lot at once!
+Condition = Toplanılanların ilerlemesi zamanla tükenir
+Tip0 = Pon'ları toplamayı sakın bırakma, ufaklık! Keep an eye out for boxes, barrels, bullies, and other things you can [name]crack open[/name] to get a lot at once!
 EasyTip = Break crates and barrels!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
-Title = Snatcher Coins in Mafia Town
+Title = Mafya Şehrindeki Snacther Jetonları
 Objective = Find a Snatcher Coin in Mafia Town
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
+2Tokens = 2 Snatcher Jetonunu Bul
+3Tokens = 3 Snatcher Jetonunu Bul
 Tip0 = If you have [icon:compassbadge], finding these should be like shooting fish in a barrel!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
@@ -129,8 +133,8 @@ Tip0 = If you have [icon:compassbadge], finding these should be as easy as falli
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
 Title = Snatcher Coins in Alpine Skyline
 Objective = Find a Snatcher Coin in Alpine Skyline
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
+2Tokens = 2 Snatcher Jetonunu Bul
+3Tokens = 3 Snatcher Jetonunu Bul
 Tip0 = If you have [icon:compassbadge], finding these should be a breeze!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Metro]
@@ -142,6 +146,9 @@ Tip0 = If you have [icon:compassbadge], finding these should be like taking catn
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
 Title = She Speedran from Outer Space
+//Uzay Boşluğunda Speedran
+//She Speedran from Outer Space
+
 Objective = Clear 'She Came From Outer Space' in 1:50 or less
 Bonus1 = Clear in 1:35 or less
 Bonus2 = Clear in 1:20 or less
@@ -355,8 +362,10 @@ Tip0 = Stop ringing those bells, kid. You're giving me a headache.
 Title = Community Rift: The Mountain Rift
 ShortTitle = The Mountain Rift
 Condition = Contributed by Devan 'Mr.Brawls' Miller
-Objective = Complete the Time Rift
-AllPons = Collect every Rift Pon
+Objective = Zaman Yarığını Tamamla
+
+AllPons = Tüm Yarık Jetonunlarını Topla
+
 AllPages = Collect all the Storybook Pages
 Tip0 = I love mountains, don't you? All those scenic vertical drops!
 
