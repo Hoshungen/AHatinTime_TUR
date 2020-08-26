@@ -12,7 +12,7 @@ Location_MafiaHQ = Mafya Üssü
 
 Chapter1_Bonus_Secret_Sewer = Kanalizasyon
 Chapter1_Bonus_Secret_Bazaar = Pazar
-Chapter1_Bonus_Cave_Intro = Aşçılar Mafyası
+Chapter1_Bonus_Cave_Intro = Aşçı Mafyası
 Chapter1_Bonus_Cave_Raccoon = Miskin Subcon
 
 
@@ -26,7 +26,7 @@ Act_2_6 = Ateş Ruhlarının Ritüeli
 Act_2_7 = Sözleşmen Sona Erdi
 Location_Subcon = Subcon Ormanı
 Location_SubconCave = Subcon Mağarası
-Location_VanessaManor = Vanessa'nın Konağı
+Location_VanessaManor = Vanessa'nın Köşkü
 Location_SubconVillage = Subcon Köyü
 
 Chapter2_Bonus_Vanessa = Köy
@@ -76,13 +76,13 @@ DeathWish = Son İstek
 NiceWish = Hoş İstek
 Community = Topluluk Haritası
 
-TimeRift_Cave_RhythmJumpStudio = Ritmik Adım Stüdyosu
+TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Stüdyosu
 TimeRift_Cave_TwilightTravels = Alacakaranlık Gezileri
 TimeRift_Cave_MountainRift = Dağ Yarığı
 
 secretlevel_beta_space = Beta Hero's Challenge
 
-Chapter7_Metro = Miyakuza Metrosu
+Chapter7_Metro = Nyakuza Metrosu
 Location_Metro_HUB = Ana İstasyon
 Location_Metro_RouteA = Sarı Üstgeçit İstasyonu
 Location_Metro_RouteB = Yeşil İstasyon
@@ -105,13 +105,13 @@ Mission_Race = Görev: Adil olarak kazan- pfffft hahaha
 Mission_Safe = Görev: Bu koca kasayı aç!
 Mission_Boss =  Görev: Mafyayı alt et!
 Mission_Lava = Görev: Söndürmece!
-Sweating_No = Terleme: Umarım yoktur
-Sweating_Nope = Terleme: Hiç yolu yok
+Sweating_No = Terleme: Umarım olmaz
+Sweating_Nope = Terleme: Mümkünatı yok
 Sweating_Yes = Terleme: Evet, maalesef
 Sweating_Rain = Terleme: Gökyüzü terliyor gibi görünüyor
 
-Mission_Studio = Görev: Zaman Parçasının nereye gittiğini bul!
-Mission_Award = Görev: Kutlayabilirsin! Başardın!
+Mission_Studio = Görev: Zaman Parçalarının nereye gittiğini bul!
+Mission_Award = Görev: Kutla! Başardın!
 Mission_Uncanny = Burada garip bir şeyler mi dönüyor?
 ReviewScore = İnceleme: "2 1/2 Yıldız, Aktörlerin Hepsi Berbat"
 ReviewScore2 = İnceleme "5 Yıldız, Yeni Aktris Harika"
@@ -164,7 +164,7 @@ LavaCake = Lava Pastası
 Mini1 = Keçi Gözlem Borusu
 Mini2 = Keçi Rafinerisi
 OwlBrewMountain = Sarı Kuşak Tepeleri
-SnatcherTeleportMountain = Esrarengiz Zaman Mesa Ovası
+SnatcherTeleportMountain = Esrarengiz Zaman Ovası
 BirdPathHorn = Serpentine Bird Borusu
 BirdPath1 = Kuş Geçiş Çatalı
 BellPath1 = Alacakaranlık Patikası
@@ -173,5 +173,3 @@ LavaPath2 = Ember Zirvesi
 WindmillPath1 = Rüzgarlı Geçit
 CatEasy = Kıvrımlı Kuyruk Boynuzu Patikası
 CatHard = The Mırlanmış Köy
-
-test
