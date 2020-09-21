@@ -9,7 +9,8 @@ playerdied6 = [shake2]Umarım hiç kimse senin yok oluşunu izlemiyordur ufaklı
 playerdied7 = [shake2]Hızlı yaşa, genç öl ve arkanda güzelim cesedi bırak, ha? En azından üçte ikisini doğru yapardın.[/shake2]
 playerdied8 = [shake2]Yapabileceğinin hepsi bu mu? Ayağa kalk, çocuk![/shake2]
 playerdied9 = [shake2]Umarım eğleniyorsundur ufaklık, çünkü geldiği yerde bundan çok var![/shake2]
-playerdied10 = [shake2]Oh ho ho, umarım önemsiz bir ölümün seni anlaşmadan kurtaracağını düşünmüyorsundur! Daha yeni başlıyoruz...[/shake2]
+playerdied10 = [shake2]Oh ho ho, umarım küçücük bir ölümün seni sözleşmeden kurtaracağını düşünmüyorsundur! Daha yeni başlıyoruz...[/shake2]
+//minnacık->önemsiz->ufacık
 playerdied11 = [shake2]Bir şeyi kaybedince değerini işte o zaman anlarsın, diyorlar...[br]Hayatına şükretmeni sağlıyorum![/shake2]
 playerdied12 = [shake2]Oh olamaz, sözleşmeden bu kadar kolay kaytaramazsın![/shake2]
 playerdied13 = [shake2]Eyvah![/shake2]
