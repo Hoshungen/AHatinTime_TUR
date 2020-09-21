@@ -18,9 +18,9 @@ playerdied15 = [shake2]Hakkını vermeliyim ki, çocuk. Hiç kimse senin öldü�
 playerdied16 = [shake2]'En iyi dostlar' şeyinden pişman mı oldun artık, çocuk? Bunu senin yapabileceğinden çok daha uzun bir süre yapabilirim.[/shake2]
 playerdied17 = [shake2][wave]Ahhh[/wave], gittikçe daha da iyi oluyor![/shake2]
 playerdied18 = [shake2]Deneme'den kastın bu mu? Bu sözleşmeler kendilerini imzalamıyor, çocuk.[/shake2]
-playerdied19 = [shake2]Eğleniyor musun, çocuk? Senin için heyecanlı mı??[/shake2]
+playerdied19 = [shake2]Eğleniyor musun, çocuk? Senin için heyecanlı mı?[/shake2]
 
-QuietMoment0 = [shake2]Bilirsin, hep sevginin içini ısıtan bir his olduğunu söylerler... Ama tecrübelerimce [wave]üşütücü.[/wave][/shake2]
+QuietMoment0 = [shake2]Bilirsin, sevginin hep içini ısıtan bir his olduğunu söylerler... Ama tecrübelerimce [wave]üşütücü.[/wave][/shake2]
 QuietMoment1a = [shake2]Yıllık vergi beyannameni dosyaladın mı? Bekle, YAPMADIN mı? İnanılmaz. Bir avukata ihtiyacın olacak![/shake2]
 QuietMoment1b = [shake2]Keşke bir avukat bilseydin. Dur bakalım, biliyorsun! O benim! En azından [/wave]eskiden[/wave] bir avukattım. Ben bakarım senin davana! Teminatı olarak bir ruh vermen yeterli.[/shake2]
 QuietMoment2 = [shake2]Ah, onu eski günlerde görmeliydin. Lazer ışığı olan bir dinamit gibi, anlarsın ya.[/shake2]
