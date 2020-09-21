@@ -9,45 +9,54 @@ playerdied6 = [shake2]Umarım hiç kimse senin yok oluşunu izlemiyordur ufaklı
 playerdied7 = [shake2]Hızlı yaşa, genç öl ve arkanda güzelim cesedi bırak, ha? En azından üçte ikisini doğru yapardın.[/shake2]
 playerdied8 = [shake2]Yapabileceğinin hepsi bu mu? Ayağa kalk, çocuk![/shake2]
 playerdied9 = [shake2]Umarım eğleniyorsundur ufaklık, çünkü geldiği yerde bundan çok var![/shake2]
-playerdied10 = [shake2]Oh ho ho, umarım minnack bir ölümün seni anlaşmadan kurtaracağını düşünmüyorsundur! Daha yeni başlıyoruz...[/shake2]
+playerdied10 = [shake2]Oh ho ho, umarım önemsiz bir ölümün seni anlaşmadan kurtaracağını düşünmüyorsundur! Daha yeni başlıyoruz...[/shake2]
 playerdied11 = [shake2]Bir şeyi kaybedince değerini işte o zaman anlarsın, diyorlar...[br]Hayatına şükretmeni sağlıyorum![/shake2]
 playerdied12 = [shake2]Oh olamaz, sözleşmeden bu kadar kolay kaytaramazsın![/shake2]
 playerdied13 = [shake2]Eyvah![/shake2]
 playerdied14 = [shake2]Vay be, aferin! Gerçekten güzel bir iş çıkardın ufaklık. Etkileyici iş.[/shake2]
 playerdied15 = [shake2]Hakkını vermeliyim ki, çocuk. Hiç kimse senin öldüğün kadar iyi ölemez.[/shake2]
-playerdied16 = [shake2]'En iyi dostlar' şeyinden pişman oldun mu artık, çocuk? Bunu senden çok daha uzun bir süre yapabilirim.[/shake2]
+playerdied16 = [shake2]'En iyi dostlar' şeyinden pişman mı oldun artık, çocuk? Bunu senin yapabileceğinden çok daha uzun bir süre yapabilirim.[/shake2]
 playerdied17 = [shake2][wave]Ahhh[/wave], gittikçe daha da iyi oluyor![/shake2]
 playerdied18 = [shake2]Deneme'den kastın bu mu? Bu sözleşmeler kendilerini imzalamıyor, çocuk.[/shake2]
 playerdied19 = [shake2]Eğleniyor musun, çocuk? Senin için heyecanlı mı??[/shake2]
 
-QuietMoment0 = [shake2]Hep sevginin içini ısıtan bir his olduğunu söylerler... Ama benim tecrübeme göre [wave]dondurucu.[/wave][/shake2]
-QuietMoment1a = [shake2]Yıllık vergi beyannameni dosyaladın mı? Bekle, YAPMADIN mı? Hadi be. Bir avukata ihtiyacın olacak![/shake2]
-QuietMoment1b = [shake2]Keşke bir avukat biliyor olsaydın. Oh bekle, biliyorsun ya! Ben! En azından [/wave]eskiden[/wave] bir avukattım. Ben alırım senin davanı! Ön ödeme olarak bir ruh vermen yeterli.[/shake2]
-
-
-QuietMoment2 = [shake2]Ah, onu eskiden görmeliydin. Lazer ışığı olan bir dinamit gibi, anlarsın ya.[/shake2]
-QuietMoment3 = [shake2]"Ölüm Kaçınılmaz, Vaktiniz Değerli"? Bunu [icon:timestophat] kim etiketlemiş? Bu şapkaların çocuklar için olduğunu sanıyordum![/shake2]
-QuietMoment4 = [shake2]Hepimizin bir ruh eşi vardır - güya. Yani, benim de olduğunu biliyorum. Beni bekliyor! Seni bekleyen birini görmüyorum gerçi.[/shake2]
-QuietMoment5 = [shake2]Hey çocuk, ebeveynlerini buldum. Daha yeni selam söylemeye geldiler. Oh, onları kaçırdın ama. Çoktan gittiler. [wave]Vah vah![/wave][/shake2]
-QuietMoment6 = [shake2]Aynı ebeveynlerin gibisin, biliyor muydun? En azından bana göre - ruhları biraz bulanık görünüyor. Şaka şaka! Belki de değildir. [wave]Kim bilebilir ki?[/wave][/shake2]
+QuietMoment0 = [shake2]Bilirsin, hep sevginin içini ısıtan bir his olduğunu söylerler... Ama tecrübelerimce [wave]üşütücü.[/wave][/shake2]
+QuietMoment1a = [shake2]Yıllık vergi beyannameni dosyaladın mı? Bekle, YAPMADIN mı? İnanılmaz. Bir avukata ihtiyacın olacak![/shake2]
+QuietMoment1b = [shake2]Keşke bir avukat bilseydin. Dur bakalım, biliyorsun! O benim! En azından [/wave]eskiden[/wave] bir avukattım. Ben bakarım senin davana! Teminatı olarak bir ruh vermen yeterli.[/shake2]
+QuietMoment2 = [shake2]Ah, onu eski günlerde görmeliydin. Lazer ışığı olan bir dinamit gibi, anlarsın ya.[/shake2]
+QuietMoment3 = [shake2]"Ölüm Kaçınılmaz, Vaktiniz Değerli" mi? Kim [icon:timestophat] bunu etiketlemiş? Bu şapkaların çocuklar için olduğunu sanıyordum![/shake2]
+QuietMoment4 = [shake2]Hepimizin bir ruh ikizi vardır - güya. Yani, benim de olduğunu biliyorum. Beni bekliyor! Gerçi, seni bekleyen birini görmüyorum.[/shake2]
+QuietMoment5 = [shake2]Hey çocuk, ebeveynlerini buldum. Daha yeni merhaba demeye geldiler. Oh, onları kaçırdın ama. Çoktan gittiler. [wave]Vah vah![/wave][/shake2]
+QuietMoment6 = [shake2]Tıpkı ebeveynlerin gibisin, biliyor muydun? En azından bana göre - ruhları biraz bulanık görünüyor. Şaka şaka! Belki de değildir. [wave]Kim bilebilir ki?[/wave][/shake2]
 QuietMoment7 = [shake2]Bak, bu işe girişen sendin. Belki gelecek sefere bir anlaşmanın şartlarını değiştireceğinde iki kere düşünürsün, çocuk.[/shake2]
-QuietMoment8 = [shake2]Hayattaki en iyi şeyler tekrar ve tekrar tecrübe edilmeye değerdir, lakin çoğu kişi sadece bir kere ölebilir! [wave]Sen çooooook şanslısın![/wave][/shake2]
-QuietMoment9 = [shake2]Tozlu, eski bir evde yaşayan kimsesiz, eski bir dostum var. Onu ziyaret etmelisin... kurabiyeleri uğrunda [scream]ÖLÜNECEK[/scream] kadar güzel.[/shake2]
-QuietMoment10 = [shake2]Ölümün kucaklamasının en soğuk şey olduğunu düşünüyor olabilirsin ama tecrübeden söyleyebilirim ki... değil.[/shake2]
-QuietMoment11 = [shake2]Seni öldürmeye çalıştığım güzel, eski günleri hatırlıyor musun? Eğlenceliydiler. Bir ara tekrar yapmalıyız onu.[/shake2]
-QuietMoment12 = [shake2]Kendime aldığım bu kendini geliştirme kitabı her kuruşuna değer! Cidden sana bir suret almalıyım.[/shake2]
-QuietMoment13 = [shake2]Anlaşma yaptığın kişiyi öldürmeye iznin olmadığını biliyor muydun? Görünüşe göre "usulsüz" falanmış. Şansımıza, birkaç kaçamak biliyorum![/shake2]
-QuietMoment14 = [shake2]Öyle bakma bana, takım çalışması bu! Ben takımım, sen çalışmasın. Yani iş başına, asker![/shake2]
-QuietMoment15 = [shake2]Müziği severim, biliyor muydun? Favori parçam, bir bakalım... "DeathScream.wav". Ne ezgi ama! Sahiden vaktinin önünde.[/shake2]
+QuietMoment8 = [shake2]Hayattaki en iyi şeyler tekrar ve tekrar yaşanmaya değerdir, lakin çoğu kişi sadece bir kere ölebilir! [wave]Sen çooooook şanslısın![/wave][/shake2]
+QuietMoment9 = [shake2]Tozlu, eski bir evde kimsesiz yaşayan, eski bir dostum var. Onu ziyaret etmelisin... kurabiyeleri uğrunda [scream]ÖLÜNECEK[/scream] kadar güzel.[/shake2]
+
+QuietMoment10 = [shake2]Ölümle kucaklaşmak en soğuk şey olduğunu düşünüyor olabilirsin ama tecrübeden söyleyebilirim ki... öyle değil.[/shake2]
+QuietMoment11 = [shake2]Seni öldürmeye çalıştığım güzel, eski günleri hatırlıyor musun? Eğlenceliydi. Bir ara bunu tekrar yapmalıyız.[/shake2]
+QuietMoment12 = [shake2]Kendime aldığım bu kişisel gelişim kitabı her kuruşuna değer! Cidden bir tane de sana almalıyız.[/shake2]
+QuietMoment13 = [shake2]Anlaşma yaptığın kişiyi öldürmeye iznin olmadığını biliyor muydun? Görünüşe göre "yasak" falanmış. Şansımıza, birkaç kanun boşluğu biliyorum![/shake2]
+QuietMoment14 = [shake2]Bana öyle bakma, takım çalışması bu! Ben takımım, sen de çalışmasın. Yani işinin başına, asker![/shake2]
+QuietMoment15 = [shake2]Müziği severim, bunu biliyor muydun? Favori parçam, bir bakalım... "DeathScream.wav". Ne ezgi ama! Sahiden zamanının ötesinde.[/shake2]
 QuietMoment16 = [shake2]İşte ilginç bir gerçek: Uzayda çocuk işçiliği kuralları yok![/shake2]
 QuietMoment17 = [shake2]Did you know you can unlock a "Luigi" by completing every Death Wish on the first attempt? I don't even know what that is, but that has to be genuine. I read it online![/shake2]
-QuietMoment18 = [shake2]I've got a new Death Wish for you, it's called "Quit To Desktop".[/shake2]
-QuietMoment19 = [shake2]Hey kid, do you remember that angry little red girl? What was her deal anyway? She a friend of yours?[/shake2]
-QuietMoment20 = [shake2]Hey, see that ledge over there? Jump off it! I want to see what happens.[/shake2]
+
+//"Luigi" biliyor muydun?
+
+QuietMoment18 = [shake2]Senin için yeni bir Son İsteğim var, adı da "Masaüstüne dön".[/shake2]
+QuietMoment19 = [shake2]Hey çocuk, şu kırmızılı kızgın çocuğu hatırlıyor musun? Teklifi neydi ki? O senin arkadaşın mıydı?[/shake2]
+QuietMoment20 = [shake2]Hey, şu çıkıntıyı gördün mü?? Atla oradan! Ne olacağını görmek istiyorum.[/shake2]
+
 QuietMoment21 = [shake2]Endişelenme, çocuk. I'm an equal opportunity employer! All souls are good to me, regardless of age, race, gender, or their position on the endangered species list![/shake2]
-QuietMoment22 = [shake2]You taking a break, kid? Oh, no I don't mind... I have an [wave]eternity[/wave]. YOU'RE the one who should be worried...[/shake2]
+
+//Tüm ruhlar benim için iyidir, ne olursa olsun yaş, ırk, cinsiyet, nesli tükenmekte olan canlılar olmasına rağmen.
+
+QuietMoment22 = [shake2]Ara mı veriyorsun, çocuk? Bunu önemsemem... Benim [wave]ölümsüzlüğüm[/wave] var. Endişelenmesi gereken SENsin...[/shake2]
+
+
+
 QuietMoment23 = [shake2]Don't mind me, kid. I'm only harassing you because it's encouraging! It's encouraging, right? [wave]Good![/wave][/shake2]
-QuietMoment24 = [shake2]Burn some paintings, unclog a toilet, deliver some mail... Oh you thought my contracts were [wave]so easy[/wave] back then...[/shake2]
+QuietMoment24 = [shake2]Burn some paintings, unclog a toilet, posta teslim et... Oh you thought my contracts were [wave]so easy[/wave] back then...[/shake2]
 QuietMoment25 = [shake2]You know, that forest of mine used to look a lot different to how it does now... but that was a lifetime ago.[/shake2]
 
 [FastWindmill]
@@ -72,7 +81,7 @@ Intro8 = [shake2]Getting too warm, kid? I'm sure there's someone here who can co
 Intro9 = [shake2]It must be hard to think straight in all that heat, kiddo. There's no shame in [wave]giving up.[/wave][/shake2]
 
 [StudioMoreGuards]
-Intro0 = [shake2]Filmlerinden birini daha önce görmüştüm. It was in the bargain bin. Almadım.[/shake2]
+Intro0 = [shake2]Bu filmlerinden birini daha önce görmüştüm. It was in the bargain bin. Almadım.[/shake2]
 Intro1 = [shake2]Hey ufaklık. Just dropping by to let you know I pirated your movie. Ve bitirmedim bile.[/shake2]
 
 [PonFrenzy]
