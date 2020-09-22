@@ -4,26 +4,26 @@ FirstTip1 = [shake2][hint]Trenin arkasına git[/hint]. Amcanın kız kardeşi [M
 FirstTip2 = [shake2]Ona biraz sevgi göstersen iyi olur, yoksa sonraki sefer bir cesetle konuşuyor olacağım.[/shake2]
 FirstTip3 = [scream]*DIT*[/scream]
 
-SecondTip0 = [shake2]Yani gerçekten de trende böyle sinsice dolaşabileceğini mi sanıyorsun?[/shake2]
+SecondTip0 = [shake2]Yani gerçekten trende böyle sinsice dolaşabileceğini mi sanıyorsun?[/shake2]
 SecondTip1 = [shake2]Dedektif rolünü bırak artık. Asla gerçek katili bulamayacaksın...[br][wave]he he he.[/wave][/shake2]
 SecondTip2 = [shake2]İpucu olmadan öylece parmağınla birini gösteremezsin.[br]Vaktin daralıyor. Katili parmağınla gösterebilecek kadar kanıt bulabilecek misin?[/shake2]
 
 PetTrap0 = [shake2]Hiç pes etmiyorsun, değil mi?[/shake2]
 PetTrap1 = [shake2]Görünüşe göre senden kurtulmanın tek yolu var... zamanının tükenmesini sağlamak.[/shake2]
-PetTrap2 = [shake2]İşte eğlenceli bir zaman kaybı: [PetName] kendini olağandışı bir[br]durumda buldu. Biricik canı için incecik bir ipe tutunuyor, hemen bir odun kesme makinesinin üstünde. Ne tuhaf bir tesadüf ama![/shake2]
+PetTrap2 = [shake2]İşte eğlenceli bir zaman kaybettirici: [PetName] kendini olağandışı bir[br]durumda buldu. Biricik canı için incecik bir ipe tutunuyor, hemen bir odun kesme makinesinin üstünde. Ne tuhaf bir tesadüf ama![/shake2]
 PetTrap3 = [shake2]Ne yapacaksın?[br][PetName]'i un ufak olmak olmaktan kurtaracak mısın, yoksa katilin kim olduğunu mu bulacaksın?[/shake2]
 
 DogThankYou0 = Beni kurtardığın için teşekkürkler, kibar insan. Hav. Hav.
 DogThankYou1 = Katilin üstünde bu ipucunu buldum. Umarım yardımcı olur. Hav. Hav.
 
 PetWarning0 = [shake2][PetName]'i asılı bırakmak istediğine emin misin?[/shake2]
-PetWarning1 = [shake2]Neden arkanı dönmüyor ve çok geç olmadan [PetName]'e [br] zaman tüketici bir yardım eli uzatmıyorsun?[/shake2]
+PetWarning1 = [shake2]Neden arkanı dönmüyor ve çok geç olmadan [PetName]'e [br] zaman kaybettirici bir yardım eli uzatmıyorsun?[/shake2]
 
 suspect_mothermaiden0 = ...
 suspect_mothermaiden1 = Tamam, beni yakaladın, tatlım.
 suspect_mothermaiden2 = Farketmiş olabileceğin üzere, tatlım, ben gerçekte Bayan [MotherMaidenName] değilim. Aslında ben [icon:djgrooves][name]DJ Grooves[/name]!
 suspect_mothermaiden3 = Film çekerken sorun yaşadığını biliyordum, tatlım, o yüzden bu düzmeceyi ilgi çekici bir film senaryosu yaratmana yardımcı olmak için oluşturdum!
-suspect_mothermaiden4 = Ekspres Baykuşu bıçağı bana saplamak ve ölü numarası yapmamda yardımcı olacak kadar kibardı.
+suspect_mothermaiden4 = Tren Baykuşu bıçağı bana saplamak ve ölü numarası yapmamda yardımcı olacak kadar kibardı.
 ending_revealed0 = Beni iyi yakaladın, ha, tatlım? Görünüşe göre sen etraftayken kimse cinayet işleyemez!
 
 [spaceship]
