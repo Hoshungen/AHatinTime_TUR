@@ -192,7 +192,7 @@ dw_all_complete9 = [shake2]Yeterince bariz olmadıysa, işbirliğimiz buraya kad
 
 deathwish_revisit0 = [shake2]Yine mi sen? Neden beni yalnız bırakmıyorsun?[/shake2]
 deathwish_revisit1 = [shake2]Daha sözleşme kalmadığını biliyorsun, değil mi?[/shake2]
-deathwish_revisit2 = [shake2]Birkaç eski yaraları tekrardan açmak mı istiyorsun? Bana uyar.[/shake2]
+deathwish_revisit2 = [shake2]Birkaç eski yarayı tekrardan açmak mı istiyorsun? Bana uyar.[/shake2]
 deathwish_revisit3 = [shake2]Öldüğün zamanı hatırlıyor musun? Onu tekrar görmek isterim.[/shake2]
 deathwish_revisit4 = [shake2]Defol çocuk, beni rahatsız ediyorsun.[/shake2]
 deathwish_revisit5 = [shake2]Sana verecek işim kalmadı, çocuk. Neden gerçek bir iş bulmuyorsun?[/shake2]
