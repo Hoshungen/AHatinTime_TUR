@@ -87,6 +87,7 @@ Intro1 = [shake2]Hey ufaklık. Filmini korsan olarak izlediğimi söylemek için
 
 [PonFrenzy]
 Intro0 = [shake2]Umarım vergilerinde tüm bu Pon'lara sahip çıkarsın.[/shake2]
+//vergilerinde(ki)?
 Intro1 = [shake2]Durma, toplamaya başla! Tüm bu mürekkep için ödeme yapmam lazım...[/shake2]
 Intro2 = [shake2]Parayı göster![/shake2]
 
@@ -141,11 +142,13 @@ deathwish_intro5 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scre
 
 deathwish_post_intro0 = [shake2]İyi iş ufaklık! Mum yakabiliyorsun, gerçekten etkilendim. Bu sözleşmeleri [hint]herhangi bir bölümde[/hint] tamamlayabilirsin. Bazı bölümler diğerlerinden daha uygun olabilir, yani git beğendiğini seç![/shake2]
 deathwish_post_intro1 = [shake2]Ne duruyorsun? Yürü! Kışt![/shake2]
+//^^Ne duruyorsun=(daha) Neyi bekliyorsun?
 
 deathwish_coop_disabled = Snatcher yasal olarak sadece bir kalfaya sahip olabilir ne yazık ki.
 
 deathwish_open0 = [shake2]Dahası için mi döndün, çocuk? Pekala, haydi haritana bir göz atalım...[/shake2]
 deathwish_open1 = [shake2]Çıkar şu haritayı, çocuk. Birkaç sözleşme yapacağız.[/shake2]
+//Birkaç sözleşme yapacağız=Birkaç sözleşme yapalım
 deathwish_open2 = [shake2]Ne istiyorsun, çocuk? Kitabın en sevdiğim kısmını tekrardan okuyorum.[/shake2]
 deathwish_open3 = [shake2]Daha çok ölmeye hazır mısın? Harika![/shake2]
 deathwish_open4 = [shake2]Hey bakın, bu durmadan ölen şu sinir bozucu çocuk![/shake2]
@@ -158,23 +161,15 @@ dw_25_complete1 = [shake2]Epey sözleşmeyi görmüş geçirmişsin, ama bunlar�
 dw_25_complete2 = [shake2]Yani işine geri dön, ufaklık. Tik tak.[/shake2]
 
 dw_50_complete0 = [shake2]Görünüşe göre sözleşmelerimin birçoğunu tamamlamışsın...[/shake2]
-dw_50_complete1 = [shake2]Ama kendinle çok guru duyma, seninle işim daha bitmedi![/shake2]
+dw_50_complete1 = [shake2]Ama kendinle çok gurur duyma, seninle işim daha bitmedi![/shake2]
 dw_50_complete2 = [shake2]Burada bitirilmesi gereken tonla sözleşme var. Sadece ana hedefleri tamamlayarak kurtulacağını düşünmüyordun herhalde?[/shake2]
-
-
-
-
-
-
 dw_50_complete3 = [shake2]Şimdi yürü, işinin başına![/shake2]
 dw_75_complete0 = [shake2]Sahiden de bu sözleşmeleri yarıp geçiyorsun, değil mi?[/shake2]
-
-Gerçekten bu sözleşmelerin üstesinden geliyorsun, değil mi?
-//Daha anlamlı yapılabilir
-
+//ÖNERİ:Gerçekten bu sözleşmelerin üstesinden geliyorsun//(hakkını veriyorsun), değil mi?
 
 dw_75_complete1 = [shake2]Bu gidişle göz açıp kapayana kadar hepsini bitirmiş olacaksın![/shake2]
 dw_75_complete2 = [shake2]...Sana karşı tamamen dürüst olmalıyım, çocuk. Bu kadar uzun süredir bu ölümlü dünyada kalmanı beklemiyordum, biliyor musun?[/shake2]
+//ÖNERİ: Sana karşı tamamen dürüst olmalıyım (ki), çocuk
 
 dw_75_complete3 = [shake2]Ama hey, kim bilir? Gelecek ölümün belki sonuncu olur![br]Şanslı olabiliriz![/shake2]
 dw_75_complete4 = [shake2]Tamamdir, iş başına![/shake2]
@@ -185,18 +180,19 @@ dw_all_complete2 = [shake2]Of. Tüm sözleşmelerimi tamamladın ama bir şekild
 
 dw_all_complete3 = [shake2]Gerçekten. Mükemmel. Tebrikler.[/shake2]
 dw_all_complete4 = [shake2]...Hah? Ödül mü istiyorsun? Bak, çocuk. Daha önce bu konunun üstünden geçtik.[br]Gerçekten açık şekilde müzakere etmeyi öğrenmelisin.[/shake2]
+//ÖNERİ:...konunun üstünden geçmiştik ((We've done this before))
+
 dw_all_complete5 = [shake2]Sana bir şey devretmediğim sürece beni rahat bırakmayacağını seziyorum. [br]Hep senin hakkında olacak, ha?[/shake2]
-dw_all_complete6 = [shake2]Bak, bu noktaya varmış olmamaman gerekiyordu. Şu anda senin için milletin çiçek topluyor olması lazım.[/shake2]
+dw_all_complete6 = [shake2]Bak, bu noktaya varmış olmaman gerekiyordu. Şu anda milletin senin için çiçek topluyor olması lazım.[/shake2]
 dw_all_complete7 = [shake2]Ancak her zaman istediğimizi alamıyoruz![/shake2]
 dw_all_complete8 = [shake2]Tamam, sıkma canını. En azından bir şeyi başardığın hissine kapılıyorsun. [br]Bunu [wave]hak ettin[/wave].[/shake2]
 
 dw_all_complete9 = [shake2]Yeterince bariz olmadıysa, işbirliğimiz buraya kadardı. Git başkasını rahatsız et, ufaklık.[/shake2]
-
-, işimiz bitti.
+//işbirliğimiz=işimiz?
 
 deathwish_revisit0 = [shake2]Yine mi sen? Neden beni yalnız bırakmıyorsun?[/shake2]
 deathwish_revisit1 = [shake2]Daha sözleşme kalmadığını biliyorsun, değil mi?[/shake2]
-deathwish_revisit2 = [shake2]Birkaç eski yarayı tekrardan açmak mı istiyorsun? Bana uyar.[/shake2]
+deathwish_revisit2 = [shake2]Birkaç eski yaraları tekrardan açmak mı istiyorsun? Bana uyar.[/shake2]
 deathwish_revisit3 = [shake2]Öldüğün zamanı hatırlıyor musun? Onu tekrar görmek isterim.[/shake2]
 deathwish_revisit4 = [shake2]Defol çocuk, beni rahatsız ediyorsun.[/shake2]
 deathwish_revisit5 = [shake2]Sana verecek işim kalmadı, çocuk. Neden gerçek bir iş bulmuyorsun?[/shake2]
