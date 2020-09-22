@@ -1,9 +1,9 @@
 ﻿[Tutorial]
-BellHint = [timepiece]Yarık kapıları[/timepiece] [hint]zil[/hint] kullanılarak ortaya çıkarılır! [name]Çocuğun Şapkası'nı[/name][icon:hat] onları bulmak için bulabilirsin!
+BellHint = [timepiece]Yarık kapıları[/timepiece] [hint]zil[/hint] kullanılarak ortaya çıkarılır! [name]Çocuğun Şapkası'nı[/name][icon:hat] onları bulmak için kullanabilirsin!
 
 [DeepLore]
-Grave0 = Efsanelere göre uzun zaman önce müthiş bir kahraman, [hint]Alacakaranlık Çanı'na[/hint] ulaşmak için haşmetli bir yolculuğa atıldı. Evinden ayrıldı ve yolunda bir sürü belayla karşılaştı, ama azmetti.
-Grave1 = Bu statü onun anısına yapılmış.
+Grave0 = Efsanelere göre uzun zaman önce müthiş bir kahraman, [hint]Alacakaranlık Çanı'na[/hint] ulaşmak için haşmetli bir yolculuğa atıldı. Evinden ayrıldı ve yolunda bir sürü belayla karşılaştı ancak azmetti.
+Grave1 = Bu heykel onun anısına yapılmış.
 Grave2 = Bu taşın arkasında bir alıntı var, iddialara göre keçinin kendisinden.
 Grave3 = Şöyle yazıyor: [name]Asla unutma, azimli olmak seni bildiğinden daha iyi yerlere getirebilir. İşinle gurur duy, küçük bir şey olsa bile.[/name]
 Grave4 = İnsanın bu keçiyle karşılaşası geliyor; konuşmasa bile, iyi bir arkadaş olurmuş gibi.
