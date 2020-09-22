@@ -1,6 +1,7 @@
 ﻿[lavatown]
 intro0 = Karmaşaya bak! Bu korkunç!
-intro1 = Birisi Mafya Kasabası'ndaki tüm muslukları açtı... kasaba volkanını kontrol eden muslukları!
-intro2 = O sen miydin, çocuk? Hayır? Mafya [icon:mugirl][hint]küçük bir kızın[/hint] tüm muslukları açtığını gördüğünü düşünüyor.
-intro3 = Şapkalı küçük kız, Mafya Kasabası'nı [hint]tüm muslukları kapatarak[/hint] kurtarabilir mi?
+intro1 = Birisi Mafya Şehrindeki tüm muslukları açmış... şehrin volkanını kontrol eden muslukları!
+intro2 = O sen miydin, çocuk? Hayır mı? Mafya [icon:mugirl][hint]küçük bir kızın[/hint] tüm muslukları açtığını görmüş.
+//^^3 eylem vardı=açtığını gördüğünü düşünüyor, olasılık cümleden atıldı
+intro3 = Şapkalı küçük kız, Mafya Şehrini [hint]tüm muslukları kapatarak[/hint] kurtarabilir mi?
 intro4 = Hepsini kapatırsan belki su tekrar akmaya başlar!
