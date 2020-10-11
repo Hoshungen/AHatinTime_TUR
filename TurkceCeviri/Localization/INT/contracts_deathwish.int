@@ -20,7 +20,7 @@ Title = Pon Hayranı
 Objective = 20 Pon Topla
 50Pons = 50 Pon Topla
 100Pons 100 Pon Topla
-Tip0 = [icon:money] [name]Pon[/name]ların ne olduğunu biliyorsun değil mi? Hani şu küçük yeşil şeyler?[br]Her yerdeler. Lütfen [icon:money] [name]Pon[/name]ların ne olduğunu anlat bana.
+Tip0 = [icon:money] [name]Ponların[/name] ne olduğunu biliyorsun değil mi? Hani şu küçük yeşil şeyler?[br]Her yerdeler. Lütfen [icon:money] [name]Ponları[/name] bildiğini söyle.
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
 Title = Devasa Büyük Müzik Konseri
@@ -28,42 +28,41 @@ Objective = Geçit Törenini Tamamla
 AllTokens = DJ Grooves jetonlarının tükenmesine izin verme
 NoHit = Ekspres Bandosuna çarpma
 BigBand = Epeyce takipçi kazanmışsın gibi görünüyor
-Tip0 = Bu aptal baykuşlar seni her yerde takip edecek. Belki onları [name]etrafında daireler çizerek[/name] meşgul edebilirsin.
+Tip0 = Bu aptal baykuşlar seni her yerde takip edecek. Belki onları [name]daire çizerek[/name] meşgul edebilirsin.
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = Kendini Yoketmeye 10 saniye
-Objective = Tam Zamanındayı tamamla
+Objective = Tam Zamanında'yı tamamla
 NoHat = Şapka yetenekleri yok, Tek Vuruşta Öldüren kuşanılmış
 Tokens = Kondüktör jetonlarını topla
-Condition = Baykuş Treni tarifesinin gerisinde
-//tarifesi=seferi?
-Tip0 = Ne zaman 10 saniye dersem, ciddiyimdir! Hızlı koşsan iyi olur ufaklık!
+Condition = Baykuş Treni programın gerisinde
+Tip0 = 10 saniye dediğimde ciddiydim! Hızlı koşsan iyi olur ufaklık!
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
-Title = Güvenlik Zafiyeti
-Objective = Ölü Kuş Stüdyosunu Tamamla
+Title = Güvenlik İhlali
+Objective = Ölü Kuş Stüdyosuna sız
 NoCaught = Yakalanmadan tamamla
-NoFees = 200,000den daha az cezayla tamamla
-NoFees_Easy = 600,000den daha az cezayla tamamla
-Condition = Güvenlik Arttırılmış, belli
+NoFees = 200,000'den daha az cezayla tamamla
+NoFees_Easy = 600,000'den daha az cezayla tamamla
+Condition = Güvenlik Arttırılmış, kayda değer seviyede
 Tip0 = En zor görevin bu olacak: [name]Baş belası olmamak![/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
 Title = Isıyı Yen
-Objective = Tüm Lav musluklarını kapat
-AvoidLava = Ateşlenme!
+Objective = Tüm lav musluklarını kapat
+AvoidLava = Isınma!
 MinWater = Kendini 2 kereden fazla soğutma
 Condition = Hava normalden daha sıcak, serinlet kendini!
-Tip0 = Aynı anda yapman gereken görevler hakkında endişelenme. [name]Daha sonra gelip[/name] yapabilirsin bile, buna aldırmam! Gerçekten![br][shake][scream]ZAMANA İHTİYACIN OLDUĞU HER ZAMAN.[/scream][/shake]
+Tip0 = Sözleşmedeki görevlerin hepsini aynı anda yapmak konusunda endişelenme. [name]Daha sonra gelip[/name] de yapabilirsin, dert etme! Gerçekten![br][shake][scream]HİÇ ACELE ETME.[/scream][/shake]
 EasyTip = Her musluktan sonra suya dal!
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = Hiç Zıplama
-Objective = Zıplamadan herhangi bir Zaman Parçası topla
-Condition = Zıplarsan, ölürsün!
-Collect4 = 4 Zaman Parçasını zıplamadan topla
+Objective = Zıplamadan herhangi bir Zaman Parçasını topla
+Condition = Zıpla, öl!
+Collect4 = Zıplamadan 4 Zaman Parçası topla
 TrainRush = Tam Zamanında'yı zıplamadan tamamla
-Tip0 = Ufak bir dokunuşla, şapkan olan [icon:icehat] ile zıplamaya gerek kalmadan daha fazla yükseklik için kullanılabilir. Ne kullanışlı ama!
+Tip0 = Ufak bir dokunuşla, [icon:icehat] kullanarak zıplamadan yükseklik kazanabilirsin. Ne kullanışlı ama!
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
 Title = Gerilmiş Yel Değirmeni
@@ -72,49 +71,45 @@ OneHit = Şapka yeteneği yok, Tek Vuruşta Öldüren kuşanılmış
 TimeLimit = Bitişe 4 dakikada ulaş
 TimeLimit_Easy = Bitişe 10 dakikada ulaş
 Condition = Yel Değirmeni "zirve" performansında çalışıyor
-Tip0 = Süratli platformlarda zorlanıyor musun? Fazla yükseğe zıplama, daha çabuk inersin. Sonra platformların [name]momentum[/name]unu avantajını kullan![br]Unutma çocuk, [name]zamanlama her şeydir[/name]!
+Tip0 = Süratli platformlarda zorlanıyor musun? Fazla yükseğe zıplamamaya çalış, daha çabuk inersin. Sonra platformların [name]momentumunu[/name] avantajına kullan![br]Unutma çocuk, [name]zamanlama önemlidir[/name]!
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
 Title = Gizli Kasa
 Objective = Altın Kasayı Aç
 Condition = Kasa Kodları etrafa saçılmış
-Condition2 = Kasa sadece only partially points to the codes
-kodları kısmen gösteriyor
+Condition2 = Kasa kodlara giden yolu kısmen gösterir
 
 [Hat_SnatcherContract_DeathWish_BossRush]
-Title = Boss Rush
-Objective = Mafyayı Alt Et (ve Diğer Herkesi!)
-NoMiss = Vuruşlarını kaçırma
-OneHit = Win with One-Hit Hero equipped
-Tek 
-Condition = Mücadelelerde iyileşme
-Tip0 = İhtiyacın olmadığı bir [icon:health] [name]Can Pon[/name]u bulursan, hemen alayım deme! Belki sonra gerekebilir...
+Title = Patron Akını
+Objective = Mafyayı alt et (ve diğer herkesi!)
+NoMiss = Vuruş şansını kaçırma
+OneHit = Tek Vuruşta Öldüren ile kazan
+Condition = Dövüş arası iyileşme yok
+Tip0 = İhtiyacın yokken [icon:health] [name]Can Ponu[/name] bulursan hemen alayım deme! Belki sonra gerekir...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
-Title = Seal the Deal
-Objective = En güçlü düşmanını yen
+Title = İşi Bitir
+Objective = En güçlü düşmanlarını yen
 Condition = İyi şanslar!
 NoHats = Şapka yeteneklerini kullanma
-FewHits = Sağlığının 1'e düşmesine izin verme
+FewHits = Sağlığını 1'e düşürme 
 Tip0 = Ara vermeyi unutma! Uzun süre hareketsizlik sağlığın için kötüdür!
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
-Title = Collect-a-thon
-Objective = Simply collect 100 Pons
-NoBoxes = Don't break any crates or barrels
-Kutu ya da Varilleri asla kırma
-
-FewPons = Don't pick up more than 200 Pons in total
-Condition = Toplanılanların ilerlemesi zamanla tükenir
-Tip0 = Pon'ları toplamayı sakın bırakma, ufaklık! Keep an eye out for boxes, barrels, bullies, and other things you can [name]crack open[/name] to get a lot at once!
-EasyTip = Break crates and barrels!
+Title = Toplama Simülasyonu
+Objective = Sadece 100 Pon topla
+NoBoxes = Fıçı veya kasa kırma
+FewPons = Toplamda 200 Pondan fazlasını toplama
+Condition = Zaman geçtikçe Ponların azalır
+Tip0 = Ponları toplamayı bırakma, ufaklık! Tek seferde birdan fazla alabilmek için kutu, fıçı, kabadayılar ve diğer [name]yarabileceğin[/name] şeylere dikkat et!
+EasyTip = Fıçı ve kasa kır!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
 Title = Mafya Şehrindeki Snacther Jetonları
-Objective = Find a Snatcher Coin in Mafia Town
-2Tokens = 2 Snatcher Jetonunu Bul
-3Tokens = 3 Snatcher Jetonunu Bul
-Tip0 = If you have [icon:compassbadge], finding these should be like shooting fish in a barrel!
+Objective = Mafya Şehrinde bir Snatcher Jetonu bul
+2Tokens = 2 Snatcher jetonu bul
+3Tokens = Tüm 3 Snatcher Jetonunu da bul
+Tip0 = Üstünde [icon:compassbadge] varsa bu iş fıçıda balık vurmak gibi olacaktır!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
 Title = Snatcher Coins in Battle of the Birds
@@ -366,10 +361,10 @@ Objective = Zaman Yarığını Tamamla
 
 AllPons = Tüm Yarık Jetonunlarını Topla
 
-AllPages = Collect all the Storybook Pages
-Tip0 = I love mountains, don't you? All those scenic vertical drops!
+AllPages = Tüm Hikaye Kitabı Sayfalarını bul
+Tip0 = Dağları seviyorum, ya sen? Tüm bu dikey düşüşler!
 
 [Hat_SnatcherContract_ChallengeRoad]
-Title = Challenge Road
+Title = Mücadele Yolu
 
 test
