@@ -27,8 +27,10 @@ Title = Devasa Büyük Müzik Konseri
 Objective = Geçit Törenini Tamamla
 AllTokens = DJ Grooves jetonlarının tükenmesine izin verme
 NoHit = Ekspres Bandosuna çarpma
+//Tren bandosu?
 BigBand = Epeyce takipçi kazanmışsın gibi görünüyor
 Tip0 = Bu aptal baykuşlar seni her yerde takip edecek. Belki onları [name]daire çizerek[/name] meşgul edebilirsin.
+//Her yerde(N)?
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = Kendini Yoketmeye 10 saniye
@@ -40,7 +42,7 @@ Tip0 = 10 saniye dediğimde ciddiydim! Hızlı koşsan iyi olur ufaklık!
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
 Title = Güvenlik İhlali
-Objective = Ölü Kuş Stüdyosuna sız
+Objective = Ölü Kuş Stüdyosuna Sız
 NoCaught = Yakalanmadan tamamla
 NoFees = 200,000'den daha az cezayla tamamla
 NoFees_Easy = 600,000'den daha az cezayla tamamla
@@ -50,7 +52,8 @@ Tip0 = En zor görevin bu olacak: [name]Baş belası olmamak![/name]
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
 Title = Isıyı Yen
 Objective = Tüm lav musluklarını kapat
-AvoidLava = Isınma!
+AvoidLava = Ateşlenme!
+//Isınma, Ateşlenme'nin daha uygun olacağını düşünüyorum, Title'nin Isıyı yen olmasına rağmen
 MinWater = Kendini 2 kereden fazla soğutma
 Condition = Hava normalden daha sıcak, serinlet kendini!
 Tip0 = Sözleşmedeki görevlerin hepsini aynı anda yapmak konusunda endişelenme. [name]Daha sonra gelip[/name] de yapabilirsin, dert etme! Gerçekten![br][shake][scream]HİÇ ACELE ETME.[/scream][/shake]
@@ -59,29 +62,29 @@ EasyTip = Her musluktan sonra suya dal!
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = Hiç Zıplama
 Objective = Zıplamadan herhangi bir Zaman Parçasını topla
-Condition = Zıpla, öl!
+Condition = Zıplarsan, ölürsün!
 Collect4 = Zıplamadan 4 Zaman Parçası topla
 TrainRush = Tam Zamanında'yı zıplamadan tamamla
 Tip0 = Ufak bir dokunuşla, [icon:icehat] kullanarak zıplamadan yükseklik kazanabilirsin. Ne kullanışlı ama!
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
 Title = Gerilmiş Yel Değirmeni
-Objective = Yel Değirmeninin zirvesine ulaş
+Objective = Yel Değirmeninin Zirvesine Ulaş
 OneHit = Şapka yeteneği yok, Tek Vuruşta Öldüren kuşanılmış
 TimeLimit = Bitişe 4 dakikada ulaş
 TimeLimit_Easy = Bitişe 10 dakikada ulaş
 Condition = Yel Değirmeni "zirve" performansında çalışıyor
-Tip0 = Süratli platformlarda zorlanıyor musun? Fazla yükseğe zıplamamaya çalış, daha çabuk inersin. Sonra platformların [name]momentumunu[/name] avantajına kullan![br]Unutma çocuk, [name]zamanlama önemlidir[/name]!
+Tip0 = Süratli platformlarda zorlanıyor musun? Fazla yükseğe zıplamazsan, daha çabuk inersin. Ardından platformların [name]momentum[/name] avantajını kullan![br]Unutma çocuk, [name]zamanlama önemlidir[/name]!
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
 Title = Gizli Kasa
 Objective = Altın Kasayı Aç
-Condition = Kasa Kodları etrafa saçılmış
+Condition = Kasa Kodları Etrafa Saçılmış
 Condition2 = Kasa kodlara giden yolu kısmen gösterir
 
 [Hat_SnatcherContract_DeathWish_BossRush]
 Title = Patron Akını
-Objective = Mafyayı alt et (ve diğer herkesi!)
+Objective = Mafyayı Alt Et (ve diğer herkesi!)
 NoMiss = Vuruş şansını kaçırma
 OneHit = Tek Vuruşta Öldüren ile kazan
 Condition = Dövüş arası iyileşme yok
@@ -94,50 +97,53 @@ Condition = İyi şanslar!
 NoHats = Şapka yeteneklerini kullanma
 FewHits = Sağlığını 1'e düşürme 
 Tip0 = Ara vermeyi unutma! Uzun süre hareketsizlik sağlığın için kötüdür!
+//Kötüdür (MuGirl Ref)=Zararlıdır?
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
-Title = Toplama Simülasyonu
+Title = Bir-ikim
+//Collect-a-thon
 Objective = Sadece 100 Pon topla
-NoBoxes = Fıçı veya kasa kırma
+NoBoxes = Fıçı veya kutu kırma
 FewPons = Toplamda 200 Pondan fazlasını toplama
 Condition = Zaman geçtikçe Ponların azalır
-Tip0 = Ponları toplamayı bırakma, ufaklık! Tek seferde birdan fazla alabilmek için kutu, fıçı, kabadayılar ve diğer [name]yarabileceğin[/name] şeylere dikkat et!
-EasyTip = Fıçı ve kasa kır!
+Tip0 = Ponları toplamayı bırakma, ufaklık! Tek seferde birden fazla alabilmek için kutu, fıçı, zorbalar ve diğer [name]patlatabileceğin[/name] şeylere dikkat et!
+EasyTip = Fıçıları ve kutuları kır!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
 Title = Mafya Şehrindeki Snacther Jetonları
 Objective = Mafya Şehrinde bir Snatcher Jetonu bul
-2Tokens = 2 Snatcher jetonu bul
-3Tokens = Tüm 3 Snatcher Jetonunu da bul
-Tip0 = Üstünde [icon:compassbadge] varsa bu iş fıçıda balık vurmak gibi olacaktır!
+2Tokens = 2 Snatcher Jetonu Bul
+3Tokens = 3 Snatcher Jetonunu da Bul
+Tip0 = Sende [icon:compassbadge] varsa, bu iş fıçıda balık yakalamak gibi olacak!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
-Title = Snatcher Coins in Battle of the Birds
-Objective = Find a Snatcher Coin in Battle of the Birds
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be a piece of cake!
+Title = Kuşların Mücadelesindeki Snatcher Jetonları
+Objective = Kuşların Mücadelesinde bir Snatcher Jetonu bul
+2Tokens = 2 Snatcher Jetonu Bul
+3Tokens = 3 Snatcher Jetonunu da Bul
+Tip0 = Sende [icon:compassbadge] varsa, bulmak çantada keklik olacak!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Subcon]
-Title = Snatcher Coins in Subcon Forest
-Objective = Find a Snatcher Coin in Subcon Forest
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be as easy as falling off a log!
+Title = Subcon Ormanındaki Snatcher Jetonları
+Objective = Subcon Ormanında bir Snatcher Jetonu bul
+2Tokens = 2 Snatcher Jetonu Bul
+3Tokens = 3 Snatcher Jetonunu da Bul
+Tip0 = Sende [icon:compassbadge] varsa, bulmak çocuk oyuncağı olacak!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
-Title = Snatcher Coins in Alpine Skyline
-Objective = Find a Snatcher Coin in Alpine Skyline
-2Tokens = 2 Snatcher Jetonunu Bul
-3Tokens = 3 Snatcher Jetonunu Bul
-Tip0 = If you have [icon:compassbadge], finding these should be a breeze!
+Title = Alplerin Silüetindeki Snatcher Jetonları
+Objective = Silüetinde bir Snatcher Jetonu Bul
+2Tokens = 2 Snatcher Jetonu Bul
+3Tokens = 3 Snatcher Jetonunu da Bul
+Tip0 = Sende [icon:compassbadge] varsa, oldukları yerde yeller esecek!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Metro]
-Title = Snatcher Coins in Nyakuza Metro
-Objective = Find a Snatcher Coin in Nyakuza Metro
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be like taking catnip from a baby!
+Title = Nyakuza Metro sundaki Snatcher Jetonları
+Objective = Nyakuza Metrosunda bir Snatcher Jetonu Bul
+2Tokens = 2 Snatcher Jetonu Bul
+3Tokens = 3 Snatcher Jetonunu da Bul
+Tip0 = Sende [icon:compassbadge] varsa, finding these should be like taking catnip from a baby!
+, bulmak
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
 Title = She Speedran from Outer Space
@@ -225,23 +231,24 @@ Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something
 [Hat_SnatcherContract_DeathWish_NoAPresses_MafiaAlien]
 Title = Mafia's Jumps
 Objective = Complete 'She Came From Outer Space' in only 15 jumps
-Presses1 = Complete in 11 jumps
-Presses2 = Complete in 7 jumps
-Objective_Easy = Complete 'She Came From Outer Space' in only 24 jumps
-EasyPresses1 = Complete in 18 jumps
-EasyPresses2 = Complete in 14 jumps
+Presses1 = 11 zıplamayla Tamamla
+Presses2 = 7 zıplamayla Tamamla
+Objective_Easy = 'She Came From Outer Space' sadece 24 zıplamayla Tamamla
+EasyPresses1 = 18 zıplamayla Tamamla
+EasyPresses2 = 14 zıplamayla Tamamla
 Tip0 = With a light tap, your [icon:icehat] can be used to climb up ledges without having to actually jump. Sounds useful!
+Ufak bir dokunuşla, . Kullanışlı!
 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
 Title = Quality Time with Snatcher
-Objective = Survive Snatcher for 2 minutes
-Medium = Survive for 4 minutes
-Long = Survive for 6 minutes
-Objective_Easy = Survive Snatcher for 1 minute
-Medium_Easy = Survive Snatcher for 2 minutes
-Long_Easy = Survive Snatcher for 3 minutes
-Condition = This time, no blue potions!
-Tip0 = Come on, kid! Lets just be pals! How about I don't throw any blue potions at you, and you don't hit me with your umbrella. Deal?
+Objective = Snatcher'a 2 dakika Dayan
+Medium = 4 dakika boyunca dayan
+Long = 6 dakika boyunca dayan
+Objective_Easy = Snatcher'a 1 dakika Dayan
+Medium_Easy = Snatcher'a 2 dakika Dayan
+Long_Easy = Snatcher'a 3 dakika Dayan
+Condition = Bu kez Mavi İksir yok!
+Tip0 = Hadi ama çocuk! Lets just be pals! How about I don't throw any blue potions at you, and you don't hit me with your umbrella. Deal?
 
 [Hat_SnatcherContract_DeathWish_HardCastle]
 Title = The Mustache Gauntlet
@@ -366,5 +373,3 @@ Tip0 = Dağları seviyorum, ya sen? Tüm bu dikey düşüşler!
 
 [Hat_SnatcherContract_ChallengeRoad]
 Title = Mücadele Yolu
-
-test
