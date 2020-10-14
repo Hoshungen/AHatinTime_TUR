@@ -62,7 +62,7 @@ EasyTip = Her musluktan sonra suya dal!
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = Hiç Zıplama
 Objective = Zıplamadan herhangi bir Zaman Parçasını topla
-Condition = Zıplarsan, ölürsün!
+Condition = Zıplarsan ölürsün!
 Collect4 = Zıplamadan 4 Zaman Parçası topla
 TrainRush = Tam Zamanında'yı zıplamadan tamamla
 Tip0 = Ufak bir dokunuşla, [icon:icehat] kullanarak zıplamadan yükseklik kazanabilirsin. Ne kullanışlı ama!
@@ -74,12 +74,12 @@ OneHit = Şapka yeteneği yok, Tek Vuruşta Öldüren kuşanılmış
 TimeLimit = Bitişe 4 dakikada ulaş
 TimeLimit_Easy = Bitişe 10 dakikada ulaş
 Condition = Yel Değirmeni "zirve" performansında çalışıyor
-Tip0 = Süratli platformlarda zorlanıyor musun? Fazla yükseğe zıplamazsan, daha çabuk inersin. Ardından platformların [name]momentum[/name] avantajını kullan![br]Unutma çocuk, [name]zamanlama önemlidir[/name]!
+Tip0 = Süratli platformlarda zorlanıyor musun? Fazla yükseğe zıplamazsan daha çabuk inersin. Ardından platformların [name]momentum[/name] avantajını kullan![br]Unutma çocuk, [name]zamanlama önemlidir[/name]!
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
 Title = Gizli Kasa
 Objective = Altın Kasayı Aç
-Condition = Kasa Kodları Etrafa Saçılmış
+Condition = Kasa Kodları etrafa saçılmış
 Condition2 = Kasa kodlara giden yolu kısmen gösterir
 
 [Hat_SnatcherContract_DeathWish_BossRush]
