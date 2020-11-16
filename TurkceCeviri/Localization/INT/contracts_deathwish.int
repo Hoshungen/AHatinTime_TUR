@@ -138,7 +138,7 @@ Objective = Silüetinde bir Snatcher Jetonu Bul
 Tip0 = Sende [icon:compassbadge] varsa, oldukları yerde yeller esecek!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Metro]
-Title = Nyakuza Metro sundaki Snatcher Jetonları
+Title = Nyakuza Metro'sundaki Snatcher Jetonları
 Objective = Nyakuza Metrosunda bir Snatcher Jetonu Bul
 2Tokens = 2 Snatcher Jetonu Bul
 3Tokens = 3 Snatcher Jetonunu da Bul
@@ -150,17 +150,17 @@ Title = She Speedran from Outer Space
 //Uzay Boşluğunda Speedran
 //She Speedran from Outer Space
 
-Objective = Clear 'She Came From Outer Space' in 1:50 or less
-Bonus1 = Clear in 1:35 or less
-Bonus2 = Clear in 1:20 or less
-Objective_Easy = Clear 'She Came From Outer Space' in 3:40 or less
-Bonus1_Easy = Clear in 3:10 or less
-Bonus2_Easy = Clear in 2:40 or less
-Tip0 = It sure would be nice if you could leave that weirdo with the goofy glasses behind, but [name]he has something you need[/name].
+Objective = 'Uzaydan geldi'yi 2.00 dakika içinde tamamla
+Bonus1 = 1.35 dakika içinde tamamla
+Bonus2 = 1.20 dakika içinde tamamla
+Objective_Easy = 'Uzaydan Geldi'yi 3.40 dakika içinde tamamla
+Bonus1_Easy = 3.10 dakika içinde tamamla
+Bonus2_Easy = 2.40 dakika içinde tamamla
+Tip0 = Şu tuhaf gözlüklü değişiği arkanda bırakabilsen şüphesiz hoş olurdu, ama belki onda [name]sana gerekn bir şey vardır[/name].
 
 [Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
 Title = Speedrun Well
-Objective = Clear 'Subcon Well' in 2:00 or less
+Objective = 'Uzaydan Geldi'yi 2.00 dakika veya altında tamamla
 Bonus1 = Clear in 1:40 or less
 Bonus2 = Clear in 1:25 or less
 Objective_Easy = Clear 'Subcon Well' in 4:00 or less
