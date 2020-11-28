@@ -146,7 +146,7 @@ Tip0 = Sende [icon:compassbadge] varsa, finding these should be like taking catn
 , bulmak
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
-Title = She Speedran from Outer Space
+Title = Uzayda Rekor Kırdı
 //Uzay Boşluğunda Speedran
 //She Speedran from Outer Space
 
@@ -156,37 +156,37 @@ Bonus2 = 1.20 dakika içinde tamamla
 Objective_Easy = 'Uzaydan Geldi'yi 3.40 dakika içinde tamamla
 Bonus1_Easy = 3.10 dakika içinde tamamla
 Bonus2_Easy = 2.40 dakika içinde tamamla
-Tip0 = Şu tuhaf gözlüklü değişiği arkanda bırakabilsen şüphesiz hoş olurdu, ama belki onda [name]sana gerekn bir şey vardır[/name].
+Tip0 = Şu tuhaf gözlüklü değişiği arkanda bırakabilsen kesinlikle hoş olurdu, ama belki onda [name]sana gereken bir şey vardır[/name].
 
 [Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
-Title = Speedrun Well
+Title = Rekor Kuyu
 Objective = 'Uzaydan Geldi'yi 2.00 dakika veya altında tamamla
-Bonus1 = Clear in 1:40 or less
-Bonus2 = Clear in 1:25 or less
-Objective_Easy = Clear 'Subcon Well' in 4:00 or less
-Bonus1_Easy = Clear in 3:20 or less
-Bonus2_Easy = Clear in 2:50 or less
-Tip0 = Look at all these platforms laid out nice and neat. It would be a shame if somebody [name]skipped[/name] all of them...
+Bonus1 = 1.40 dakika içinde tamamla
+Bonus2 = 1.25 dakika içinde tamamla
+Objective_Easy = 'Subcon Kuyusunu' 4.00 dakika içinde tamamla
+Bonus1_Easy = 3.20 dakika içinde tamamla
+Bonus2_Easy = 2.50 dakika içinde tamamla
+Tip0 = Şu tertipli şekilde düzenlenmiş platformlara baksana. Biri hepsini [name]atlayıp geçse[/name] çok yazık olurdu...
 
 [Hat_SnatcherContract_DeathWish_Speedrun_Illness]
-Title = The Illness Has Speedrun
-Objective = Clear 'The Illness Has Spread' in 7:00 or less
-Bonus1 = Clear in 6:30 or less
-Bonus2 = Clear in 6:00 or less
-Objective_Easy = Clear 'The Illness Has Spread' in 14:00 or less
-Bonus1_Easy = Clear in 13:00 or less
-Bonus2_Easy = Clear in 12:00 or less
-Tip0 = If you need to [name]get back to the start[/name] in a hurry, why don't you try [name]jumping off a cliff[/name]? No really! [wave]Try it![/wave]
+Title = Salgın Rekor Kırdı
+Objective = 'Salgın Yayıldı'yı 7.00 dakika içinde tamamla
+Bonus1 = 6.30 dakika içinde tamamla
+Bonus2 = 6.00 dakika içinde tamamla
+Objective_Easy = 'Salgın Yayıldı'yı 14.00 dakika içinde tamamla
+Bonus1_Easy = 13.00 dakika içinde tamamla
+Bonus2_Easy = 12.00 dakika içinde tamamla
+Tip0 = [name]Başa dönmek istiyorsan[/name] hızlıca, neden [name]uçurumdan atlamıyorsun[/name]? Hayır, gerçekten! [wave]Dene![/wave]
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
-Title = Rift Collapse: Mafia of Cooks
-Objective = Escape the Mafia of Cooks Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Escape with 30 seconds to spare
-Faster_Easy = Escape with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
+Title = Yarık Çöküşü: Aşçı Mafyası
+Objective = Aşçı Mayfası Zaman Yarığından Kurtul
+AllPons = Her Yarık Ponu'nu topla
+AllPons_Easy = 3 Yarık Ponu topla
+Faster = 30 saniye kala kurtul
+Faster_Easy = 15 saniye kala kurtul
+Condition = Zaman Yarığı dengesizleşti!
+Tip0 = Etrafta bir sürü [icon:treasure] var. Keşke toplamayı daha kolay hale getiren bir [name]rozet[/name] olsaydı...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
 Title = Rift Collapse: Dead Bird Studio
