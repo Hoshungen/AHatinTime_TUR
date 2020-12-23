@@ -1,47 +1,53 @@
 [parade]
 welcome0 = Merhaba, tatlım! Hayatında görebileceğin en büyük stüdyo setine hoş geldin!
-welcome1 = [hint]Büyük Geçit Töreni'ni[/hint] çekmek üzereyiz, dünya çapında seyircilerin nefeslerine kesecek olan film! Sen yıldızı olacaksın, her zamanki gibi!
-welcome2 = Bu film için [icon:timepiece][timepiece]özel butafor[/timepiece]umuzu kullanmamız gerekecek! En sonda ortaya çıkacak!
-welcome3 = Ama bekle, tatlım! Şu anki giysin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
-welcome3b = Şu anki kıyafetin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
-welcome4 = Harika görünüyorsun, tatlım! Endişelenme, bu film gerçekten kolay. Etrafta dolaşmaya devam et ve bando seni takip edecek! Önlerine çıkma yeter
-welcome5 = Ve hediyelere dikkat et! Seyirci güzel bir geçit törenine bayılır ve eğer yaklaşırsan sana hediye atar.
+welcome1 = [hint]Büyük Geçit Töreni'ni[/hint] çekmek üzereyiz, bu film dünya çapındaki seyircilerin nefeslerini kesecek! Yıldız olacaksın, her zamanki gibi!
+welcome2 = Bu film için [icon:timepiece][timepiece]özel butaforumuzu[/timepiece] kullanmamız gerekiyor! En sonunda ortaya çıkacak!
+welcome3 = Ama bekle, tatlım! Şimdiki giysin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirir misin?
+welcome3b = Şimdiki kıyafetin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirir misin?
+welcome4 = Harika görünüyorsun, tatlım! Endişelenme, bu film gerçekten kolay. İlerlemeye devam et ve bando takip etsin! Onlara çarpma yeter!
+
+
+
+welcome5 = Ve hediyelere dikkat et! Seyirci harika bir geçit törenine bayılır ve yanlarına yaklaşırsan sana hediye verir.
 welcome5b = Ve tazelemelere dikkat et! Sahne dışı ekip onları sana doğru atacak, susuz kalmaman için!
-welcome5c = Ve kameralara dikkat et! Ekip senin görüntülerini elinden geldiğince almaya çalışacak, o yüzden mümkün olunca onların yanından geç!
-welcome6 = Geçit töreni uzun sürer; hızlandırmak için bir şey yapamazsın. Yeterli görüntü alınca sana haber vereceğiz. Enerjini kaybetme!
+welcome5c = Ve kameralara dikkat et! Ekibimiz görüntülerini elinden geldiğince almaya çalışacak, o yüzden olabildiğince yanlarına uğra!
+welcome6 = Geçit töreni biraz uzun sürer; bunu hızlandırmak için hiçbir şey yapamazsın. Yeterince kamera görüntüsü alınca sana haber vereceğiz. Enerjini kaybetme!
 welcome7 = İyi şanslar, tatlım!
 
 first_intermission0 = Bu filmin aksiyonunu arttırma zamanı!
 first_intermission1 = Tatlım, havai fişekleri açar mısın?
 
-second_intermission0 = Bu filmin daha fazla aksiyona ihtiyacı var! Tatlım, havai fişek toplarını çıkar[br]büyük fişek gösterisi için!
+second_intermission0 = Bu filmin daha fazla aksiyona ihtiyacı var! Tatlım, havai fişek toplarını aç[br]büyük fişek gösterisi için!
 
-third_intermission0 = [icon:timepiece][timepiece]tören sürprizini[/timepiece] ortaya çıkarma vakti![br]Yakala, tatlım!
+third_intermission0 = [icon:timepiece][timepiece]tören sürprizini[/timepiece] ortaya çıkarma zamanı![br]Kap onu, tatlım!
 
 [deadbird]
 intro0 = Saçmalık, tatlım, saçmalık!
-intro1 = Siz [name]Baykuş Ekspres kuşları[/name] başka sıkıcı bir tren ile alakalı kovboy filmi çekeceksiniz! Son on yıldır yaptığınız gibi, tatlım!
-intro2 = [icon:conductor][name]Kondüktör[/name], tatlım, bu yıl biz [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanıyor olacağız, çünkü yeni malzememiz seyircileri çekecek!
-intro3 = Bu [icon:timepiece][timepiece]parlayan şeyler[/timepiece] gökyüzünden düştü! Film setimizi aydınlatacak ve ışıltı ile dolduracaklar!
-intro4 = Asla yapmazdım, tatlım! Açık şekilde benim yeni parlak malzemelerimden ilham alan sendin.
-intro5 = Bana uyar, tatlım. Ancak [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanan bizler olacağız, buraya yazıyorum!
+intro1 = Siz [name]Baykuş Treni kuşları[/name] bir başka sıkıcı tren ile alakalı kovboy filmi çekeceksiniz! Son on yıldır yaptığınız gibi, tatlım!
+intro2 = [icon:conductor][name]Kondüktör[/name], tatlım, bu yıl biz [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanacağız, çünkü yeni malzememiz seyircileri kendine çekecek!
+intro3 = Bu [icon:timepiece][timepiece]parlayan şeyler[/timepiece] gökyüzünden düştü! Film setimizi aydınlatacak ve parıltıyla dolduracak!
+intro4 = Asla yapmazdım, tatlım! Açıkçası yeni parlak butaforumuzdan ilham alan sizdiniz.
+intro5 = Bana uyar, tatlım. Ancak [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanan bizler olacağız, buraya da yazıyorum!
 
-passport0 = Fevkalade! Çarpıcı! Bu kupa benim arzuladığım her şey... oturma odamın rafı için!
-passport1 = Elbette, bu büyük kupa sadece plastik bir imitasyon! Gerçek kupa oldukça küçük!
-passport2 = Aman! Aman! Gördüğüm de ne? Bu gerçek iç güzellik mi? Altın kalpli masum bir ruh mu?
-passport3 = Oh, hayır. Sadece küçük bir çocuk. Merhaba!
+passport0 = Fevkalade! Çarpıcı! Bu kupa benim istediğim her şey... oturma odamın rafı için!
+passport1 = Elbette, bu büyük kupa sadece plastik bir imitasyonu! Gerçek kupa oldukça küçük!
+passport2 = Aman! Aman! Bu gördüğüm de ne? Bu gerçek iç güzellik mi? Altın kalpli masum bir ruh mu?
+passport3 = Oh, hayır. Sadece küçük bir kız. Merhaba!
 passport3b = Oh, hayır. Sadece küçük bir çocuk. Merhaba!
-passport4 = Oh bekle, sen penguen değilsin. Bu güzel! Buralarda penguen olmayan destek işe yarayabilir, çünkü bütün penguenlerim berbat oyuncular!
-passport5 = Olay şu: Yardımına ihtiyacım var. Rezil bir kaybetme sürecindeyim, ve bu sıradaki [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanmam LAZIM.
-passport6 = Şüphe yok ki; Yıldız sen OLMALISIN! İşte, şunun icabına bakayım.
+passport4 = Oh bekle, sen bir penguen değilsin. Bu harika! Buralarda penguen olmayan arkadaş da işime yarayabilir, çünkü bütün penguenlerim hakikaten berbat oyuncular!
+passport5 = İşte işimiz: Yardımına ihtiyacım var. Rezil bir mağlubiyetler serisindeyim, ve bir sonraki [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazanmam LAZIM.
+passport6 = Şüphe yok ki; Senin gibi bir YILDIZA İHTİYACIM var! İşte, şunun icabına bakayım.
 passport7 = Sana bir kuş pasaportu vermeliyiz, tatlım! Şuraya geç.
-passport8 = Bir pasaportun en önemli kısmı fotoğraftır, tatlım! Parlak ve etkileyici görünmelisin! Hemen şuraya geç. Haydi foto çekelim.
+
+
+
+passport8 = Bir pasaportun en önemli bir kısmı da fotoğraftır, tatlım! Parlak ve etkileyici görünmelisin! Hemen şuraya geç. Haydi foto çekelim.
 passport9 = TAMAM, gülümse ve kımıldama, lütfen! Hareket etme!
 passport10 = Bakalım fotoğraf nasıl çıktı...
 passport11 = N-NE?!
 passport12a = Tatlım, pek fotojenik değilsin, ha?
-passport12b = Tatlım, hareket ettin! Fotoğraf mahvoldu! Nasıl yaparsın bunu?!
-passport13 = Bu çirkin sabıka fotoğrafını eski tür fotoğraf düzenlemesiyle ile dönüştürmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç bayana çevir!
+passport12b = Tatlım, hareket ettin! Fotoğraf mahvoldu! Bunu nasıl yapabilirsin?!
+passport13 = Bu çirkin sabıka fotoğrafını eski moda fotoğraf düzenlemesiyle ile düzeltmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç bayana çevir!
 passport13b = Bu çirkin sabıka fotoğrafını eski tür fotoğraf doktorluğu ile düzeltmeliyiz! İşte, bu keçeli kalemleri al ve kendini en tarz, şık genç oğlana çevir!
 passport14 = Mükemmel! Haydi bu fotoğrafı pasaportuna koyalım, ve... işte! Seni için bir pasaport!
 passport15 = Şahane, tatlım! Sadece şahane! Yarın benimle film stüdyosunda buluş, ve seni bir yıldıza dönüştürelim!
@@ -49,24 +55,30 @@ passport15 = Şahane, tatlım! Sadece şahane! Yarın benimle film stüdyosunda 
 [award]
 intro0 = Teşekkürler tatlım, teşekkürler![br]Zaferimizi garantiledin! Biz [icon:trophy][trophy]
 yıllık kuş ödülünü[/trophy] kazandık!
-intro1 = [icon:conductor][name]Kondüktör[/name] belki hayatındaki ikinci kaybına çok bozulmuştur, ama endişelenme, o kendine gelecektir.
-intro2 = Neyse, işimiz bununla bitti! Sonraki yıla kadar yeni film yok. Onları eline almayı çok heveslendiğinden beri, benim son [icon:timepiece][timepiece]film butaforu[/timepiece]mu son film yıldızı olarak ödemeni alabilirsin.
-intro3 = Ne, çılgınca bir şeylerin olacağını mı bekliyordun?[br]Saçmalık, tatlım, saçmalık!
+intro1 = [icon:conductor][name]Kondüktör[/name] belki hayatındaki ikinci kaybına çok bozulmuştur, ama endişelenme, o kendine gelir.
+intro2 = Neyse, bununla işimiz bitti! Sonraki yıla kadar yeni film yok. Onları eline almayı çok heveslendiğinden beri, benim son [icon:timepiece][timepiece]film butaforumu[/timepiece] son film yıldızı olarak ödemeni alabilirsin.
+intro3 = Ne, çılgınca bir şeylerin olsını mı bekliyordun?[br]Saçmalık, tatlım, saçmalık!
 
 [BossBattle]
 SupportNotice0 = Sık dişini,[br]bombayı imha etmenin[br]bir yolunu bulacağım!!
 SupportNotice2 = İmha edicim hazır,[br] buraya gel!
 
-hth_intro0 = Haydi bunu biraz samimiyetle konuşalım. Otur, tatlım.
+hth_intro0 = Haydi bunu biraz samimice konuşalım. Otur, tatlım.
 
-hth_intro1 = Sen bu gezegene geldiğinden beri, bu [icon:timepiece][timepiece]Zaman Parçaları[/timepiece] gökyüzünden düşüyor.
-hth_intro2 = Şimdi, eğer sana aitlermiş gibi geliyorlarsa anlayabilirim, tatlım. Anladım. Ama zamanı geriye sarabileceğını biliyor muydun?
-hth_intro3 = Bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece]ile, bana ait olan her ödüle yeniden sahip olabilirim, tatlım. [icon:conductor][name]Kondüktöre[/name], ki onun hile ile kazandığı, kaybettiğim her bir ödülü.
-hth_intro4 = Kanıtlayamam, tatlım, ama eminim ki [icon:conductor][name]Kondüktör[/name] her şeyi kontrol ediyordu ki ben kazanamayım.
-hth_intro5 = Sadece bir [icon:timepiece][timepiece]Zaman Parçasına[/timepiece] ihtiyacım var yılların hile ve dolandırıcılığını düzeltmek için. Bana sadece [hint]bir Zaman Parçası[/hint] bağışlayamaz mısın, tatlım?
+hth_intro1 = Sen bu gezegene geldiğinden beri, bu [icon:timepiece][timepiece]Zaman Parçaları[/timepiece] gökyüzünden düştü.
+hth_intro2 = Şimdi, onlar eğer seninmiş gibi geliyorsa anlayabilirim, tatlım. Anladım. Ama zamanı geriye alabileceklerini biliyor muydun?
+hth_intro3 = Bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece] ile, bana ait olan her ödüle yeniden sahip olabilirim, tatlım. [icon:conductor][name]Kondüktöre[/name], ki onun hile ile kazandığı, kaybettiğim her bir ödülü.
+hth_intro4 = Bunu kanıtlayamam, tatlım, ama eminim ki [icon:conductor][name]Kondüktör[/name] her şeyi kendi çıkarları için bozuyordu ki asla kazanamayayım.
+hth_intro5 = Sadece bir [icon:timepiece][timepiece]Zaman Parçasına[/timepiece] ihtiyacım var yılların hile ve dolandırıcılığını düzeltmek için. Bana sadece [hint]bir Zaman Parçası[/hint] veremez misin, tatlım?
 hth_intro5_yes = Belki?
 hth_intro5_no = Hayır!
-hth_intro6a = Teşekkürler, tatlım! Pişman olmayacaksın! Yılların hile ve sahtekarlığını çözeceğiz, ve [icon:trophy][trophy]yıllık kuş film ödüllerine[/trophy] dürüst ve dimdik olarak gideceğiz!
+hth_intro6a = Teşekkürler, tatlım! Asla pişman olmayacaksın! Yılların hile ve sahtekarlığını düzelteceğiz, ve [icon:trophy][trophy]yıllık kuş film ödüllerine[/trophy] dürüst ve dimdik olarak!
+
+
+
+
+
+
 hth_intro7a = Ne yazık ki... Bu odadan çıkmana izin veremem, tatlım. Sözün dışarı çıkmasına izin veremem. [icon:conductor][name]Kondüktör[/name] hiç görülmemiş bir öfke nöbeti geçirir yoksa!
 hth_intro8a = Seni tanımak güzeldi, tatlım. Elveda!
 hth_intro6b = Tatlım, tatlım, tatlım. İnatla bencil oluyorsun. Seni yıldızlık katına çıkardım, ve karşılığında tek istediğim tek bir [icon:timepiece][timepiece]Zaman Parçası[/timepiece]... ama paylaşmayacaksın?
