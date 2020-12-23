@@ -1,5 +1,5 @@
 [parade]
-welcome0 = Merhaba, tatlım! Hayatında göreceğin en büyük stüdyo setine hoş geldin!
+welcome0 = Merhaba, tatlım! Hayatında görebileceğin en büyük stüdyo setine hoş geldin!
 welcome1 = [hint]Büyük Geçit Töreni'ni[/hint] çekmek üzereyiz, dünya çapında seyircilerin nefeslerine kesecek olan film! Sen yıldızı olacaksın, her zamanki gibi!
 welcome2 = Bu film için [icon:timepiece][timepiece]özel butafor[/timepiece]umuzu kullanmamız gerekecek! En sonda ortaya çıkacak!
 welcome3 = Ama bekle, tatlım! Şu anki giysin bir geçit töreni için uygun değil. Şuraya gidip üstünü değiştirebilir misin?
@@ -11,8 +11,8 @@ welcome5c = Ve kameralara dikkat et! Ekip senin görüntülerini elinden geldiğ
 welcome6 = Geçit töreni uzun sürer; hızlandırmak için bir şey yapamazsın. Yeterli görüntü alınca sana haber vereceğiz. Enerjini kaybetme!
 welcome7 = İyi şanslar, tatlım!
 
-first_intermission0 = Bu filmdeki aksiyonu arttırma zamanı!
-first_intermission1 = Tatlım, havai fişekleri açabilir misin?
+first_intermission0 = Bu filmin aksiyonunu arttırma zamanı!
+first_intermission1 = Tatlım, havai fişekleri açar mısın?
 
 second_intermission0 = Bu filmin daha fazla aksiyona ihtiyacı var! Tatlım, havai fişek toplarını çıkar[br]büyük fişek gösterisi için!
 
