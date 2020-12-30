@@ -131,10 +131,10 @@ Intro0 = Oh ho hoooo, bak burada kimler varmış! Küçük bodrumumu bulabildin 
 Intro1 = Bu son [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nın hepsi benim. İstiyorsan, buz kadar soğuk, acımasız ellerimden almak zorundasın!
 
 [award]
-intro0 = Teşekkürler, teşekkürler! Çok kibarsın! Hayır, lütfen, ilerleyin!
-intro1 = Oh! Lassie, bu sensin! Başardım! Bir kez daha [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazandım![br][icon:djgrooves][name]DJ Grooves[/name]'un yüzünü hayal bile  edemiyorum! [scream][wave]EH HE HE HE![/wave][/scream]
+intro0 = Teşekkürler, teşekkürler! Çok kibarsınız! Hayır, lütfen, ilerleyin!
+intro1 = Oh! Kızım, bu sensin! Başardım! Bir kez daha [icon:trophy][trophy]yıllık kuş film ödülünü[/trophy] kazandım![br][icon:djgrooves][name]DJ Grooves[/name]'un yüzünü hayal bile edemiyorum! [scream][wave]EH HE HE HE![/wave][/scream]
 intro2 = İşte, [icon:timepiece][timepiece]minik, önemsiz film butaforunu[/timepiece] al, senin minicik, önemsiz çabaların zaferimi sağlamlaştırdığı için. Belki sen eBird'de beş paraya ve on kuruşa satabilirsin!
-intro3 = Ne? Sen benden dahasını ya da başka bir şeyi mi bekliyorsun?[br]Unut gitsin! Git! Sus! Defol buradan![br]Senin o çirkin suratını bir daha görmek istemiyorum!
+intro3 = Ne? Benden fazlasını veya farklı bir şeyi mi bekliyorsun?[br]Unut gitsin! Git! Kapa çeneni! Defol buradan![br]O çirkin suratını bir daha görmek istemiyorum!
 
 [finale]
 outside0 = Sende mi buradasın, küçük kız? Burası da neresi?! Hayatımda hiçbir kuralı çiğnemedim!
@@ -147,8 +147,8 @@ outside6 = [scream]KALE-KONUTLU,[/scream]
 outside7 = [scream]BİLET KESİCİ[/scream]
 outside8 = [scream][big]GAGA KAFA![/big][/scream]
 group_counter0 = Bu doğru, KAYBOL! Kimse seni burada istemiyor! Bu doğru değil mi, koca delikanlı?
-mafiaball0 = Anladın, delikanlı. Haydi ona itebileceği bir şey verelim ki, küçük kırmızı başbelasını defetsin!
-mafiaball1 = Yuvarlanalım, eh he he!! Köçük kız, kırmızı kızın çirkin suratına doğru it bizi!
+mafiaball0 = Anladın, delikanlı. Haydi ona itebileceği bir şey verelim ki, şu küçük kırmızı başbelasını defetsin!
+mafiaball1 = Yuvarlanalım, eh he he!! Köçük kız, kırmızı kızın çirkin yüzüne doğru it bizi!
 
 suicide0 = Hehehe... bu Mafya delikanlıkları... çok delicesine cesur. Ama eh, Trenim olmadan yaşamanın anlamı ne?
 suicide1 = Tamam [icon:djgrooves][name]DJ Grooves[/name], İkimizde şapkalı küçük kıza yardım edeceğiz. Aşağılık yumruk için hazır ol ve yüzüme doğru vur, orası zayıf noktam!
