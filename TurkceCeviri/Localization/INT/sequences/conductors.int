@@ -10,35 +10,36 @@ sketch_done2 = Bu film BOMBA olacak!! [wave]GWAHAHAHAHA[/wave]!
 sketch_done3 = ... Ve bombayı iyi anlamda demek istedim, gaga kafa!
 
 trigger_detonation0 = Tamamdır kızım, dinle. Kötü haberlerim var!
-trigger_detonation1 = Az önceki çektigin lövye... trenin kendini yoketme aşamasını başlattı ve bu şaka değil. Treni havaya uçuracak!
+trigger_detonation1 = Az önceki çektigin lövye... trenin kendini yoketme aşamasını başlattı ve bu şaka değil. Tren havaya uçacak!
 trigger_detonation2 = OLDUKÇA aksiyonlu bir filme ihtiyacım var, işte yapacağımız şey tam da bu! Tren birkaç dakika içinde patlayacak!
-trigger_detonation3 = Ama hepimizi sen kurtarabilirsin, kızım! Kapatmak için trenin başındaki şaltere gitmelisin!
-trigger_detonation4 = VE BUNU ZAMANINDA YAPIYORSUN TAMAM MI? Baykuşları veya seni umursamıyorum, ama gerçekte trenimi patlatmaya CÜRET ETME! O benim bebeğim!
+trigger_detonation3 = Ama hepimizi sen kurtarabilirsin, kızım! Kapatmak için trenin başındaki lövyeye gitmelisin!
+trigger_detonation4 = VE BUNU ZAMANINDA YAPIYORSUN TAMAM MI? Baykuşları veya seni umursamıyorum, ama gerçekte trenimi patlatmaya CÜRET ETME! Tren benim bebeğim!
 trigger_detonation5 = Kameralar peşinden koşacak kızım, şimdi acele et! Haydi! Bitti gitti!
 
 ending0 = Başardın! Ve tam zamanında!
 ending1 = Oh ho ho hooo... tüm bu çektiğimiz görüntülere bir bak![br]Nasıl da kıymetli canın için koşuşturduğuna bir bak![br][wave]EH HE HE[/wave]!
-ending2 = Ne? Bunu sinemacılık adına yaptık!! ... ve bu berbat [icon:djgrooves][name]DJ Grooves[/name]'u yenmek için! Onun filmimizdekilerin yarısını dahi yapamayacağının iddiasına girerim!
+ending2 = Ne? Bunu sinemacılık adına yaptık! ... ve bu rezil [icon:djgrooves][name]DJ Grooves[/name]'u yenmek için! O, filmimizdekilerinin yarısını bile yapamaz!
 ending3 = Tamamdır burada, sevdiğin şu [icon:timepiece][timepiece]şeyimsiler[/timepiece]den birini al. Hakettin!
 
 [deadbird]
-intro0 = Bu film stüdyosu ikimiz için de çok büyük, [icon:djgrooves][name]DJ Grooves[/name]! Bu film GERÇEK kuşlarla yapılmalı!
-intro1 = Siz [name]Ay Penguenleri[/name] sadece gürültülü, rahatsız edici saçmalıklar çekeceksiniz! Eğer bir sürü gaga kafalının kuş yemi etrafında dans etmesini isteseydim, torunlarımı ziyaret ederdim!
+intro0 = Bu film stüdyosu ikimiz için çok büyük, [icon:djgrooves][name]DJ Grooves[/name]! Bu filmi GERÇEK kuşlar yapmalı!
+intro1 = Siz [name]Ay Penguenleri[/name] gürültülü, şamatacı saçmalıklar çekeceksiniz sadece! Bir yığın gaga kafalının kuş yemi etrafında dans etmesini isteseydim, torunlarımı ziyaret ederdim!
 intro2 = NE?! Hayır yapmadık, seni soytarı!
 intro3 = Ah evet?
-intro4 = Pekala, bu süre zarfında, AYRICA biz yepyeni film butaforumuzla ortamı hareketlendireceğiz!
-intro5 = Bu [icon:timepiece][timepiece]kum saati şeyimsileri[/timepiece]ni tren soygunumuzda en kıymetli şeyler olacak!
+//^^öyle mi?
+intro4 = Pekala, bu süre zarfında, AYRICA biz de yepyeni film butaforumlarımızla ortamı hareketlendireceğiz!
+intro5 = Bu [icon:timepiece][timepiece]kum saati şeyimsilerini[/timepiece] tren soygunumuzda en kıymetli şeylerimiz olacak!
 intro6 = .......
 intro7 = [scream][big]NEEEEEEEEE?![/big][/scream]
-intro8 = Siz lanet kokuşmuş gaga kafalılar! Siz bizim butaforumuzu kopyalamışsınız!
-intro9 = İcabına bakar! Defol git buradan, Çekilecek bir filmimiz var!
+intro8 = Sizi lanet kokuşmuş gaga kafalılar! Siz bizim butaforumuzu kopyalamışsınız!
+intro9 = Bu icaplarına bakar! Defol git buradan, Çekilecek bir filmimiz var!
 intro10 = Öyle mi?! Hadi danışmaya gidemeyince n'apacağınızı görelim bakalım! [wave]GWAHAHAHAHA![/wave]
 intro11 = Oh bekle, gaga kafalıları stüdyo içine hapsetmek onları daha sıkı çalıştıracaktır.
 intro12 = Tamamdır, gitme zamanı baykuşlar! Müthiş filmimizi yapalım!!
 intro13 = Ah ve danışman, LÜTFEN şu havalandırmayı kapatır mısın? Penguen kokusunun ekibime yaklaşmasını istemiyorum!
 
 outro0 = [scream][big]HEY! SEN NE YAPTIĞINI ZANIYORSUN?!?![/big][/scream]
-outro1 = Sen buraya inip [icon:trophy][trophy]yıllık kuş film ödülleri[/trophy]ni kurcalayamazsın! Bu dolandırıcılık! SAHTEKARLIK! Hey millet, BURADA bir SAHTEKAR VAR!
+outro1 = Sen buraya inip [icon:trophy][trophy]yıllık kuş film ödüllerini[/trophy] kurcalayamazsın! Bu dolandırıcılık! SAHTEKARLIK! Hey millet, BURADA bir SAHTEKAR VAR!
 outro2 = ...
 outro3 = BAYKUŞ KORUMALARIM NEREDE?! Neden bu lanet baykuşlar çok kullanışsız?!
 outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan seni hapse atamam, öyleyse sen skorumda bile bana yardımcı olacaksın!
