@@ -23,12 +23,12 @@ ending3 = Tamamdır burada, sevdiğin şu [icon:timepiece][timepiece]zımbırtı
 
 [deadbird]
 intro0 = Bu film stüdyosu ikimiz için çok büyük, [icon:djgrooves][name]DJ Grooves[/name]! Bu filmi GERÇEK kuşlar yapmalı!
-intro1 = Siz [name]Ay Penguenleri[/name] gürültülü, şamatacı saçmalıklar çekeceksiniz sadece! Bir yığın gaga kafalının kuş yemi etrafında dans etmesini isteseydim, torunlarımı ziyaret ederdim!
+intro1 = Siz [name]Ay Penguenleri[/name] gürültülü, şamatacı zırvalıklar çekeceksiniz sadece! Bir yığın gaga kafalının kuş yemi etrafında dans etmesini isteseydim, torunlarımı ziyaret ederdim!
 intro2 = NE?! Hayır yapmadık, seni soytarı!
 intro3 = Ah evet?
 //^^öyle mi?
 intro4 = Pekala, bu kez, biz de AYRICA yepyeni film butaformlarımızla ortamı hareketlendireceğiz!
-intro5 = Bu [icon:timepiece][timepiece]kum saati şeyimsilerini[/timepiece] tren soygunumuzda en kıymetli şeylerimiz olacak!
+intro5 = Bu [icon:timepiece][timepiece]kum saati zımbırtıları[/timepiece] tren soygunumuzda en kıymetli şeylerimiz olacak!
 intro6 = .......
 intro7 = [scream][big]NEEEEEEEEE?![/big][/scream]
 intro8 = Sizi lanet kokuşmuş gaga kafalılar! Siz bizim butaforumuzu kopyalamışsınız!
@@ -42,15 +42,15 @@ outro0 = [scream][big]HEY! SEN NE YAPTIĞINI ZANIYORSUN?!?![/big][/scream]
 outro1 = Sen buraya inip [icon:trophy][trophy]yıllık kuş film ödüllerini[/trophy] kurcalayamazsın! Bu dolandırıcılık! SAHTEKARLIK! Hey millet, BURADA bir SAHTEKAR VAR!
 outro2 = ...
 outro3 = BAYKUŞ KORUMALARIM NEREDE?! Neden bu lanet baykuşlar çok kullanışsız?!
-outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan seni hapse atamam, öyleyse sen skorumda bile bana yardımcı olacaksın!
+outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves'a[/name] ödülü kazanması için yardım ediyorsan seni hapse atamam, öyleyse sen skorumda bile bana yardımcı olacaksın!
 outro6 = Bu doğru, sen benim filmlerimde de yıldız olacaksın!
-outro7 = İşte, bizim [icon:timepiece][timepiece]yepyeni butaforumuzu[/timepiece] yakala, hava atma pratiğini yap ve bunu film stüdyoma yarın getir! Anladın mı? Geç kalma!
+outro7 = İşte, bizim [icon:timepiece][timepiece]yepyeni butaforumuzu[/timepiece] yakala, havanı at ve bunu film stüdyoma yarın getir! Anladın mı? Geç kalma!
 
 [murder]
 intro0=Tekrar hoşgeldin, kızım! Yeni filmim için senaryoyu yazmadım, yani çekim yapmıyoruz!
 intro1=Senaryo hazır olduğunda seni çağıracağım.
 
-victim_reveal0 = [scream]K-katil mi? Hem de Owl Trenimde!?[/scream]
+victim_reveal0 = [scream]K-katil mi? Hem de Baykuş Trenimde!?[/scream]
 victim_reveal1 = Tren Baykuşlarından birisini katledebileceğine inanamıyorum!
 victim_reveal2 = Ve senin amcanın kız kardeşi [MotherMaidenName] olduğuna inanamıyorum!
 victim_reveal3 = Sin kendin hakkında ne diyeceksin, [MotherMaidenName]?!
@@ -80,8 +80,8 @@ suspect_ending2 = ... ve sen bize filmimiz için etkileyici görüntüler sağla
 suspect_ending3 = Ne? BENİM trenimde cinayet gerçekleşeceğini mi sanıyorsun? Yine düşün! Bunların hepsi benim yepyeni Baykuş Treni filmimin bir kurgusuydu:[br][name]Baykuş Trenindeki Katil![/name]
 suspect_ending4 = Sence [icon:djgrooves][name]DJ Gaga Kafa[/name]nın uzaktan iyi bir film yapacağını mı düşünüyorsun? Bence hayır!
 suspect_ending5 = İşte, bu [icon:timepiece][timepiece]şeyimsileri[/timepiece] al ve defol buradan!
-suspect_ending6 = ... Ve sen [icon:djgrooves][name]DJ Grooves[/name]'in filmlerinde yıldız olmasan iyi olur! Onun filmleri FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS dir![br]Keza münhasırlık anlaşmamız vardı, ya?
-//??
+suspect_ending6 = ... Ve sen [icon:djgrooves][name]DJ Grooves'ın[/name] filmlerinde yıldız olmasan iyi olur! Onun filmleri FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS dir![br]Keza münhasırlık anlaşmamız vardı, ya?
+//?? ÇEVRİLMEMİŞ!
 
 suspect_conductor0 = ... BEN Mİ?!
 suspect_conductor1 = Ben katil olamam, ben Kondüktörüm!
