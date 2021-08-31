@@ -1,29 +1,29 @@
 ﻿[mafia_hq]
-intro0 = Mafya yemek yapmakta rezalet![br]Ama korkma, [name]Aşçı Kedi[/name] burada!
-intro1 = Gerçek yemeği burada hazırlıyorum ve Mafyanın pişirdiği yemeği kimse yemeden değiştiriyorum.
-intro2 = Bundan kesinlikle eminim ki, birisi Mafyanın hazırladığı yemeği yeseydi ölürdü!
+intro0 = Mafya yemek yapmakta berbat![br]Ama korkma, [name]Aşçı Kedi[/name] burada!
+intro1 = Asıl yemeği burada hazırlıyorum ve Mafyanın yaptığı yemeği kimse yemeden değiştiriyorum.
+intro2 = Bundan kesinlikle eminim ki, birisi Mafyanın yaptığı yemeği yeseydi ölürdü!
 
 [spaceship]
-firstdecoration0 = Ne kadar güzel bir uzay gemin varmış! İzinsizce girdiğim için özür dilerim, bir uzaylı uzay gemisinin nasıl olduğunu görmek istemiştim.
-firstdecoration1 = Bilirsin, ben uzaylıların daha yeşil ve kana susamış olmasını beklerdim. Ama siz uzaylıların şekli şemalı farklı olsa gerek, değil mi?
-firstdecoration2 = Hey, eğer gezegenimizi keşfetmeyi düşünüyorsan, ilk önce anlaman gerekir. Çime mi yoksa bataklığa mı bastığını bilemezsin!
-firstdecoration3 = Sen [icon:relic][name]kalıntılar[/name]ı nasıl tanıyacağını bilmiyor musun? Korkma, [name]Aşçı Kedi[/name] burada!
-firstdecoration4 = Sana bu [name]Burger minderi[/name] kalıntısını bedavaya vereceğim!
+firstdecoration0 = Ne kadar güzel bir uzay gemin varmış! İzinsiz girdiğim için özür dilerim, ben sadece bir uzaylı uzay gemisinin nasıl olduğunu görmek istemiştim.
+firstdecoration1 = Bilirsin, ben uzaylıların daha yeşil ve sanırım ete susamış olmasını bekliyordum. Ama bence siz uzaylılar farklı çeşitlersiniz, ha?
+firstdecoration2 = Hey, eğer gezegenimizi keşfetmeyi düşünüyorsan, ilk önce onu anlaman gerekir. Çime mi yoksa bataklığa mı bastığını bilemezsin!
+firstdecoration3 = Sen [icon:relic][name]kalıntılar[/name]ı nasıl tanımlayacağını bilmiyor musun? Korkma, [name]Aşçı Kedi[/name] burada!
+firstdecoration4 = Sana bu [name]Burger Minderi[/name] kalıntısını bedavaya vereceğim!
 firstdecoration5 = Bu [icon:relic][name]kalıntı[/name]yı podyumlarda tanımlayabilirsin! Podyuma doğru sırayla yerleştirirsen, belki bir anlam çıkartabilirsin.
-firstdecoration7 = Bir [icon:relic][name]kalıntı[/name]yı tanımlayabilirsen,[br]güzel şeyler olabilir! Kim bilir? Bu yüzden kalıntılara karşı gözün açık olsun.
+firstdecoration7 = Bir [icon:relic][name]kalıntı[/name]yı tanımlayabilirsen,[br]harika şeyler olabilir! Asla bilemezsin! Bu yüzden kalıntılara karşı gözün açık olsun.
 firstdecoration8 = Kalıntılar hakkında bildiğim her şeyi sana öğrettim!
 
-cooking0 = Oh, hey! Umarım mutfağını kullanmama izin verirsin. Bazı dünyalı yemekleri ikram edebilirim, senin uzaylı olmana rağmen vesaire.
-cooking1 = Söylesene, et mi seversin, vejetaryen birisi misin?
+cooking0 = Oh, hey! Umarım mutfağını kullanmama aldırmazsın. Sana bazı dünya yemeklerini ikram edebilirim, senin bir uzaylı olmana rağmen vesaire.
+cooking1 = Söylesene, etçil misin, yoksa vejetaryen birisi misin?
 cooking_q_steak = Etobur
 cooking_q_veggie = Vejetaryen
-cooking2_steak = Öyle mi? Peki, umarım hemen dünyalı bir şeyler pişirmemi beklemiyorsundur!
-cooking2_veggie = Öyle mi? Umarım siz uzaylılar şunlara alışıksınızdır, uhhh, karınca ve diğer şeylere?
-cooking3 = Neyse, Yemeğim umarım yemek sen ayrılmadan önce hazır olur. Bir uzaylı ocağında ne güzel yemekler pişirebileceğimi görmek istiyorum!
+cooking2_steak = Öyle mi? Peki, umarım  dünyalı bir şeyler yapmamı hemen beklemiyorsundur!
+cooking2_veggie = Öyle mi? Galiba siz uzaylılar şunlarla ortak noktanız vardır, uhhh, karınca ve diğer şeylerle?
+cooking3 = Her neyse, Yemeğim umarım yemeğim sen ayrılmadan önce hazır olur. Bir uzaylı ocağında ne kadar harika bir yemek yapabileceğimi görmek istiyorum!
 cooking4 = Biliyor musun, uzaylı ocağının teknolojiksel olarak daha gelişmiş olacağını düşünmüştüm.
 
 [finale]
-outside0 = Kavurucu mutfaklarda daha önce bulunmuştum ama bu bambaşka bir şey! Nasıl olur da tek bir damla ter dökemezsin bilmiyorum ama haşlanıyorum.
+outside0 = Sıcak mutfaklarda daha önce bulunmuştum, ama bu bambaşka bir şey! Nasıl olur da tek bir damla ter dökmezsin bilmiyorum ama yanıyorum.
 outside1 = Belki sen bu kuyruğu atlatabilir ve baş şefin kim olduğunu bulursun, değil mi çocuk?
 ninjacat0 = Miyav.
 ninjacat1 = Miyaaav.
