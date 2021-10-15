@@ -10,7 +10,7 @@ A Hat in Time Türkçe Çeviri modu, Steam ve GitHub olmak üzere 2 sürüme sah
 
 ## Olası Hata Bulguları
 Bize çeviri hakkında herhangi bir hata bildirilmemiştir. Görüşlerinizi ve eleştirilerinizi dikkate alıyoruz. Eğer önerileriniz varsa bildirmekten lütfen çekinmeyin.
-* 2 yamanın aynı anda kurulu olduğunda başlangıçta "Ambiguous Package" hatası verebilir. Bunun dışında hataya rastlanmamıştır.
+* 2 yaman aynı anda kuruluysa başlangıçta "Ambiguous Package" hatası verebilir. Bunun dışında hataya rastlanmamıştır.
 * Oyun açıkken mod indirilirse diğer modlar gibi oyun çökebilmektedir.
 * GitHub'tan indirdiğiniz yamada harfler hatalı çıkabilir, çeviriler eksik veya hiç çevrilmemiş olabilir. Fakat bu tür çevirileri steam sürümünde görürseniz lütfen bize bildirin.
 * Bu mod'a steam'dan abone olursanız mod güncellendiği takdirde sizinki de otomatik olarak güncellenir. Fakat GitHub'dan indirirseniz otomatik olarak güncellenmez ve indirmeniz gerekir.
