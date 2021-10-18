@@ -1,26 +1,25 @@
 ﻿[buttonhelp]
-jumpdive = tuşuyla havada uzağa zıpla
+jumpdive = tuşuyla havada daha uzağa zıpla
 doublejump = tuşuyla havada iki defa zıpla
 crawl = tuşuyla emekle
 watersubmerge = Dal
 caught_struggle = Mücadele Et
-first_person_goal = [icon:hat]nı kullanarak hedefini bul!
-divecancel = tuşuyla dalarken dur
-trigger_ability = tuşuyla [icon:activehat] yeteneğini kullan
+first_person_goal = Hedefini [icon:hat] kullanarak bul!
+divecancel = tuşuyla dalmayı bırak
+trigger_ability = Olan [icon:activehat] yeteneğini kullanmak için
 hat_swap = Şapka değiştirmek için
 umbrella_attack = Saldır
-homingattack = tuşuyla havadayken saldırı yap
+homingattack = Havadayken güdümleme saldırı için
 helper_ability_no_target = Etrafta ilginç bir şey yok...
 smooch = Öpmek için
 timestophat = [icon:timestophat] kullanarak yakındaki nesneleri yavaşlat
-carry_too_much = Dikkat! Taşıdığın kadar fazla yalpalanırsın!
+carry_too_much = Dikkat! Ne kadar taşırsan, o kadar yalpalanırsın!
 gp_emotewheel = diğer çevrimiçi oyuncularla iletişim kur
 
 drop_carry = Bırak
-throw_carry = At
+throw_carry = Fırlat
 
 DuplicateKey = Aynı anda iki [icon:key] taşıyamazsın
 
 [placeholder]
-BetaHatSwapNotice0 = [button:badgeswitch] tuşuyla [icon:hat]nı değiştir![br] [button:badge] tuşuyla Şapkanın yeteneğini kullan.
-test
+BetaHatSwapNotice0 = [button:badgeswitch] tuşuyla [icon:hat] değiştir![br] [button:badge] tuşuyla Şapkanın yeteneğini kullan.
