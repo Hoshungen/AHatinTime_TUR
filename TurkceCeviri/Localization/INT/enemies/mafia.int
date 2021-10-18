@@ -1,5 +1,5 @@
-﻿[mafiacombat]
-jumpsurprise0 = [scream]BU DA NE...?![/scream]
+[mafiacombat]
+jumpsurprise0 = [scream]O DA NE...?![/scream]
 jumpsurprise1 = [scream]NASIL YAPTIN...?![/scream]
 jumpsurprise2 = [scream]ZIPLAYABİLİYOR MUSUN?![/scream]
 jumpsurprise3 = [scream]KAFAM KARIŞTI![/scream]
@@ -7,7 +7,5 @@ jumpsurprise4 = [scream]OF! KAFAM![/scream]
 
 movepredict0 = Ha ha!
 movepredict1 = Yapabileceklerini çözdüm!
-movepredict2 = Çocuk tahmin edilebiliyor!
+movepredict2 = Çocuk tahmin edilebilir!
 movepredict3 = Tüm yapabildiğin bu mu?
-
-be16
