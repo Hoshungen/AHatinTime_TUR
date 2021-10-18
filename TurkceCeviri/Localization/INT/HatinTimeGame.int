@@ -3,30 +3,30 @@ Chapter1_MafiaTown = Mafya Şehri
 Act_1_1 = Mafya Şehrine Hoşgeldin
 Act_1_2 = Varil Mücadelesi
 Act_1_3 = Uzaydan Geldi
-Act_1_4 = Mafyayı Alt et!
+Act_1_4 = Mafyayı Alt Etmece!
 Act_1_5 = Adil Yarış
-Act_1_6 = Mafya Şehri Kavruluyor
+Act_1_6 = Mafya Şehrini Kızıştırmak
 Act_1_7 = Altın Kasa
 Location_MafiaTown = Mafya Şehri
 Location_MafiaHQ = Mafya Üssü
 
 Chapter1_Bonus_Secret_Sewer = Kanalizasyon
 Chapter1_Bonus_Secret_Bazaar = Pazar
-Chapter1_Bonus_Cave_Intro = Aşçı Mafyası
+Chapter1_Bonus_Cave_Intro = Aşçı Mafya
 Chapter1_Bonus_Cave_Raccoon = Miskin Subcon
 
 
 Chapter2_Subcon = Subcon Ormanı
-Act_2_1 = Sözleşmenin Şartları
+Act_2_1 = Sözleşmenin Yükümlülükleri
 Act_2_2 = Subcon Kuyusu
-Act_2_3 = Felaket Tuvaleti
-Act_2_4 = Kraliçe Vanessa'nın Konağı
+Act_2_3 = Felaketin Tuvaleti
+Act_2_4 = Kraliçe Vanessa'nın Malikanesi
 Act_2_5 = Posta Teslimat Servisi
-Act_2_6 = Ateş Ruhlarının Ritüeli
+Act_2_6 = Ateş Ruhlarının Büyük Ritüeli
 Act_2_7 = Sözleşmen Sona Erdi
 Location_Subcon = Subcon Ormanı
 Location_SubconCave = Subcon Mağarası
-Location_VanessaManor = Vanessa'nın Konağı
+Location_VanessaManor = Vanessa'nın Malikanesi
 Location_SubconVillage = Subcon Köyü
 
 Chapter2_Bonus_Vanessa = Köy
@@ -85,41 +85,41 @@ secretlevel_beta_space = Beta Hero's Challenge
 Chapter7_Metro = Nyakuza Metrosu
 Location_Metro_HUB = Ana İstasyon
 Location_Metro_RouteA = Sarı Üstgeçit İstasyonu
-Location_Metro_RouteB = Yeşil İstasyon
+Location_Metro_RouteB = Temiz Yeşil İstasyonu
 Location_Metro_RouteC = Mavi Yüzgeç Tüneli
 Location_Metro_RouteD = Pembe Pati İstasyonu
 Metro_Escape = İş Çıkışı
 Metro_Escape_Location = Kaçış Tünelleri
 Metro_ManholeA = Sarı Üstgeçit Rögarı
-Metro_ManholeB = Yeşil Rögar
+Metro_ManholeB = Temiz Yeşil Rögarı
 Metro_ManholeC = Pembe Pati Rögarı
 Metro_CaveRift_RumbiFactory = Rumbi Fabrikası
 
 [ActInfoBoxDetails]
 Population_MafiaTown = Nüfus: 379
-Population_MafiaTown_Less = Nüfus: Onları Korkuttuktan sonra daha da azaldı
-Population_MafiaTown_Fried = Nüfus: Bir sürü Mafya kavrulmuş
-Population_MafiaTown_Boss = Nüfus: Bir azalacak
+Population_MafiaTown_Less = Nüfus: Onları patakladığımdan beri daha az
+Population_MafiaTown_Fried = Nüfus: Bir sürü kızarmış Mafya
+Population_MafiaTown_Boss = Nüfus: Yakında bir azalacak
 Mission_RecoverTP = Görev: Düşmüş Zaman Parçasını kurtar
-Mission_Race = Görev: Adil olarak kazan- pfffft hahaha
-Mission_Safe = Görev: Bu koca kasayı aç!
+Mission_Race = Görev: Adil şekilde kazan- pfffft hahaha
+Mission_Safe = Görev: Bu büyük kasayı aç!
 Mission_Boss =  Görev: Mafyayı alt et!
-Mission_Lava = Görev: Söndürmece!
-Sweating_No = Terleme: Umarım olmaz
+Mission_Lava = Görev: Olanları söndürmece!
+Sweating_No = Terleme: Umarım yoktur
 Sweating_Nope = Terleme: Mümkünatı yok
 Sweating_Yes = Terleme: Evet, maalesef
 Sweating_Rain = Terleme: Gökyüzü terliyor gibi görünüyor
 
 Mission_Studio = Görev: Zaman Parçalarının nereye gittiğini bul!
 Mission_Award = Görev: Kutla! Başardın!
-Mission_Uncanny = Burada garip bir şeyler mi dönüyor?
+Mission_Uncanny = Burada garip şeyler mi dönüyor?
 ReviewScore = İnceleme: "2 1/2 Yıldız, Aktörlerin Hepsi Berbat"
 ReviewScore2 = İnceleme "5 Yıldız, Yeni Aktris Harika"
 Legality_No = Yasal Durum: Girmeme Hiç İzin Yok
-Legality_Yes = Yasal Durum: İstenmeyen Kimse Yok, Kesinlikle
+Legality_Yes = Yasal Durum: İstenmeyen Kişi Yok, Kesinlikle
 MovieStars_Starring = Başroller...
 MovieStars_Conductor = KONDÜKTÖR, BİLGİLİ TREN KONDÜKTÖRÜ olarak
-MovieStars_DJ = DJ GROOVES, ŞIK ÜSTAD olarak
+MovieStars_DJ = DJ GROOVES, ŞIK ÖNDER olarak
 MovieStars_DetectiveHatKid = KIZIN TEKİ, İŞE YARAMAZ DEDEKTİF olarak
 MovieStars_BombHatKid = KIZIN TEKİ, DİKKATSİZ FÜNYE olarak
 MovieStars_ParadeHatKid = KÜÇÇÜK KIZ, TÖREN MAREŞALİ olarak
@@ -151,7 +151,7 @@ TOTD_Allegro = Günün Terimi: Allegro
 
 TP_Secured = ZAMAN PARÇASI GÜVENDE!
 TP_Detected = ZAMAN PARÇASI BULUNDU!
-TimeRift = Kırılmış Zaman Parçası, Zaman Yarığı yarattı
+TimeRift = Kırılmış Zaman Parçası, Zaman Yarığı oluşturdu
 TimeRift_Cave = Zaman Parçacığı düştü ve birisine çarptı
 
 [Mountains]
