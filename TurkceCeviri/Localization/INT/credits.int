@@ -1,9 +1,9 @@
 ﻿[overlay_soft]
-jtitle = Yönetmen, Tasarımcı, Senarist ve Programlama
+jtitle = Yönetmen, Tasarım, Senaryo ve Programlama
 lead3dtitle = 3B Sanat Yönetmeni
-ptitle = Efekt ve Müzik Bestecisi
-leadchartitle = Ana Karakter Sanatçısı
+ptitle = Efektler ve Müzik Besteleme
+leadchartitle = Ana Karakter Tasarımı
 lead2dtitle = 2B Sanat Yönetmeni
-assetprodtitle = Asset Yapımcısı
-developertitle = Geliştirici
-test
+assetprodtitle = Asset Yapımı
+developertitle = Geliştiren
+//Çeviri özgün metinden kontrol edilmeli
