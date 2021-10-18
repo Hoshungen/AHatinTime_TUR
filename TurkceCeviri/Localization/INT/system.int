@@ -1,10 +1,10 @@
 ﻿[Input]
 NewAutoController = Yeni Giriş:
-ControllerDisconnect = Oyun kolunun bağlantısı kesildi. devam etmek için oyun kolunu yeniden bağlayın.
+ControllerDisconnect = Oyun kolunun bağlantısı kesildi. Devam etmek için oyun kolunu yeniden takın.
 
 [levels]
 Chapter = Bölüm
-Act = Perde
+Act = Kısım
 MountainPeak = Dağ Zirvesi
 FreeRoamDesc = Ne İstersen Onu Yap
 
@@ -16,9 +16,7 @@ SyncBusyWait1 = Oyuncu 2 Bekleniyor!
 disallowed_outside_editor = Editörde Değil
 
 [Console]
-OfflineMode = Çevrimdışı mı oynamak istiyorsun? Xbox Live özellikleri uygun olmayacak ve verileriniz kaydedilmeyecek.
+OfflineMode = Çevrimdışı oynamak mı istiyorsun? Xbox Live özellikleri uygun olmayacak ve verileriniz kaydedilmeyecek.
 FailedLogin = Şu anda giriş yapılamıyor. Lütfen bekleyin ve yeniden deneyin.
 Yes = Evet
 No = Hayır
-
-test
