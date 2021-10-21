@@ -3,7 +3,7 @@
 # Açıklamalar
 Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe font eklenmiştir. Doku çevirileri tamamlandıktan ve test edildikten sonra eklenebilir
 
-* Çeviri Durumu: %90
+* Çeviri Durumu: %90 (21/10//21)
 * Not 1: GitHub'taki dosyalar deneyseldir, çeviriyi kullanmak için lütfen Steam Atölyesindeki mod'a abone olun
 * Not 2: 3 tane dosya tam çevrilmemiştir, bunlar: "contracts_deathwish", "menus", "spaceship"
 * Not 3: Bu mod Localization ve belirli doku dosyalarının yerini alır. Oyuna müdahale etmez ve oyunun işleyişini bozmaz
@@ -15,6 +15,3 @@ Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe fon
 ## Katkıda Bulunanlar/Contributors
 > * Hoshungen
 > * Lantan
-
-## Değişiklik Kaydı
-> * 19/04//20 - 0.9.5
