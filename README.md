@@ -1,11 +1,10 @@
 <h2 align="center"> A Hat in Time - Türkçe Çeviri Çalışması</h2>
 
 # Açıklamalar
-Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe font ve bazı doku çevirileri eklenmiştir.
+Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe font ve doku çevirileri eklenmiştir.
 
-* Çeviri Durumu: %96 (7/6//22)
-* Not 1: GitHub'taki dosyalar erken güncelleme alır, çeviriyi kullanmak için lütfen Steam Atölyesindeki mod'a abone olun
-* Not 2: Bu mod Localization ve belirli doku dosyalarının yerini alır. Oyuna müdahale etmez ve oyunun işleyişini bozmaz
+* Çeviri Durumu: %99 (6/1//23)
+* Çeviriyi kullanmak için Lütfen [Steam Atölyesi](https://steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")ndeki mod'a abone olun.
 
 ## Linkler
 > * GitHub (Buradasınız)
