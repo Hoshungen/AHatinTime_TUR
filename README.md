@@ -3,7 +3,7 @@
 # Açıklamalar
 Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe font ve doku çevirileri eklenmiştir.
 
-* Çeviri Durumu: %99 (6/1//23)
+* Sürüm: 2.8, %99 (6/1//23)
 * Çeviriyi kullanmak için Lütfen [Steam Atölyesi](https://steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")ndeki mod'a abone olun.
 
 ## Linkler
