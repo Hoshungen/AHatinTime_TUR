@@ -16,11 +16,11 @@
 |  |  |  |
 | Metro Kedileri | Kid | Çocuk |
 | Metro İmparatoriçesi | Child | Çocuk |
-| Mafya NPC'leri | Child | (Şapkalı Çocuk) |
+| Mafya NPC'leri | Child | (Şapkalı) Çocuk) |
 |  |  |  |
 | Kondüktör | Lassie | Kızım |
 | DJ Grooves | Darling | Tatlım |
 | Balık Adam | Dude-tte | M-adamım |
 | Rozet Satıcısı | Young one | Genç |
-| Geminin Kaptanı | Pup | Delikanlı |
+| Gemi Kaptanı | Pup | Delikanlı |
 | Gemideki Foklar | Miss | Hanfendi |
