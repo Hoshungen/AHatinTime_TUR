@@ -10,7 +10,7 @@
 
 | Karakter | İngilizcesi | Türkçesi |
 | ------------- | ------------- | ------------- |
-| Mustache Girl | Kid | Çocuk |
+| Bıyıklı Kız | Kid | Çocuk |
 | Kameralı Turist | Kid | Velet |
 | Snatcher | Kiddo | Ufaklık |
 |  |  |  |
