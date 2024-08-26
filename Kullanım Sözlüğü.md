@@ -2,15 +2,30 @@
 
 | İngilizcesi | Türkçesi |
 | ------------- | ------------- |
+| Hat Kid | Şapkalı Çocuk |
+| Bow Kid | Tokalı Çocuk |
+|  |  |
+| Free Roam | Gezinti |
 | Chapter | Bölüm |
 | Act | Perde |
 | Contract | Sözleşme |
-| Prize | Ödül (menus) |
-| Badge | Rozet |
+| Deathwish | Son İstek |
 | Challenge Road | Meydan Okuma |
+| Co-op | Kooperatif |
+| DLC | İndirilebilir İçerik |
 |  |  |
+| Pon | Pon |
+| Relic | Kalıntı |
+| Yarn Ball | Yumak Topu |
+| Badge | Rozet |
+| Badge Flair | Rozet Yeteneği |
+| Prize | Ödül |
+| Time Piece | Zaman Parçası |
+| Time Rift | Zaman Yarığı |
 | Controller | Oyun Kolu |
 | Online Party | Çevrimiçi Parti |
+| Sticker | Çıkartma |
+| Peck | Gaga |
 
 ### Karakterlerin Şapkalı Çocuğa Hitap Şekilleri
 
