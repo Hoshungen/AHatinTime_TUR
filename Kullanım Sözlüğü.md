@@ -1,10 +1,16 @@
 ### Oyun ile İlgili Tabirler
+
 | İngilizcesi | Türkçesi |
 | ------------- | ------------- |
 | Chapter | Bölüm |
 | Act | Perde |
+| Contract | Sözleşme |
+| Prize | Ödül (menus) |
+| Badge | Rozet |
+| Challenge Road | Meydan Okuma |
 |  |  |
-| Controller | Kontrolcü |
+| Controller | Oyun Kolu |
+| Online Party | Çevrimiçi Parti |
 
 ### Karakterlerin Şapkalı Çocuğa Hitap Şekilleri
 
