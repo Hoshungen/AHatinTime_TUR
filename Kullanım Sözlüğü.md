@@ -16,7 +16,7 @@
 |  |  |  |
 | Metro Kedileri | Kid | Çocuk |
 | Metro İmparatoriçesi | Child | Çocuk |
-| Mafya NPC'leri | Child | (Şapkalı) Çocuk) |
+| Mafya NPC'leri | Child | (Şapkalı) Çocuk |
 |  |  |  |
 | Kondüktör | Lassie | Kızım |
 | DJ Grooves | Darling | Tatlım |
