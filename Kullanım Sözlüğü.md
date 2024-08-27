@@ -13,6 +13,7 @@
 | Challenge Road | Meydan Okuma |
 | Co-op | Kooperatif |
 | DLC | İndirilebilir İçerik |
+| collect-a-thon | topla-bi-ton |
 |  |  |
 | Pon | Pon |
 | Relic | Kalıntı |
