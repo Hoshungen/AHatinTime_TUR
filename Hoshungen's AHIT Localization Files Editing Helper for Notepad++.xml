@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Hoshungen&apos;s AHIT Localization Files Editing Helper" ext="int tur trk chn deu esn fra ita jpn kor ptb" udlVersion="2.1">
+    <UserLang name="Hoshungen&apos;s AHIT Localization Files Markdown Helper" ext="int tur trk chn deu esn fra ita jpn kor ptb" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
@@ -32,7 +32,7 @@
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
-            <Keywords name="Delimiters">00[name] 00[scream] 00[TicketPrice 01 02[/name] 02[/scream] 02] 03[hint] 03[small] 03[Destination 03[PetName 04 05[/hint] 05[/small] 05] 05] 06[glitch] 06[wave] 06[icon: 06[shake2] 07 08[/glitch] 08[/wave] 08] 08[/shake2] 09[timepiece] 09[br 09[shake] 09[big] 09[trophy 09[button: 09[shake] 10 11[/timepiece] 11] 11[/shake] 11[/big] 11] 11] 12[custom0 12[custom1 12[custom2 12[custom3 13 14] 14] 14] 14] 15[plural 15[yarn] 15[actname 15[stickerloc 16 17] 17/yarn] 17] 17] 18[[option: 18[wait 19 20]] 20] 21[badgepoints_required 21[playername] 22 23] 23]</Keywords>
+            <Keywords name="Delimiters">00[name] 00[scream] 00[TicketPrice 00[treasure] 01 02[/name] 02[/scream] 02] 02[/treasure] 03[hint] 03[small] 03[Destination 03[PetName 04 05[/hint] 05[/small] 05] 05] 06[glitch] 06[wave] 06[icon: 06[shake2] 07 08[/glitch] 08[/wave] 08] 08[/shake2] 09[timepiece] 09[br 09[shake] 09[big] 09[trophy 09[button: 09[shake] 10 11[/timepiece] 11] 11[/shake] 11[/big] 11] 11] 12[custom0 12[custom1 12[custom2 12[custom3 13 14] 14] 14] 14] 15[plural 15[yarn] 15[actname 15[stickerloc 16 17] 17/yarn] 17] 17] 18[[option: 18[wait 19 20]] 20] 21[badgepoints_required 21[playername] 22 23] 23]</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="E3E3E1" bgColor="000000" colorStyle="1" fontStyle="0" nesting="0" />
