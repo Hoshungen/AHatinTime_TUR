@@ -12,8 +12,10 @@
 | Deathwish | Son İstek |
 | Challenge Road | Meydan Okuma |
 | Co-op | Kooperatif |
-| DLC | İndirilebilir İçerik |
+| DLC | İndirilebilir İçerik // DLC |
 | collect-a-thon | topla-bi-ton |
+| Assist Mode | Yardım Modu |
+| Leaderboard | Lider Tablosu |
 |  |  |
 | Pon | Pon |
 | Relic | Kalıntı |
@@ -27,6 +29,7 @@
 | Online Party | Çevrimiçi Parti |
 | Sticker | Çıkartma |
 | Peck | Gaga |
+| Icon Reveal | Simge Belirmesi |
 
 ### Karakterlerin Şapkalı Çocuğa Hitap Şekilleri
 
