@@ -5,12 +5,13 @@
 | Hat Kid | Şapkalı Çocuk |
 | Bow Kid | Tokalı Çocuk |
 |  |  |
-| Free Roam | Gezinti |
 | Chapter | Bölüm |
+| HUB | Salon |
 | Act | Perde |
 | Contract | Sözleşme |
 | Deathwish | Son İstek |
 | Challenge Road | Meydan Okuma |
+| Free Roam | Gezinti |
 | Co-op | Kooperatif |
 | DLC | İndirilebilir İçerik // DLC |
 | collect-a-thon | topla-bi-ton |
@@ -30,6 +31,8 @@
 | Sticker | Çıkartma |
 | Peck | Gaga |
 | Icon Reveal | Simge Belirmesi |
+| Lv. | Svy. |
+|  |  |
 
 ### Karakterlerin Şapkalı Çocuğa Hitap Şekilleri
 
