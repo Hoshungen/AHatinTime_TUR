@@ -17,6 +17,7 @@
 | collect-a-thon | topla-bi-ton |
 | Assist Mode | Yardım Modu |
 | Leaderboard | Lider Tablosu |
+| Mafia Town | Mafya Şehri |
 |  |  |
 | Pon | Pon |
 | Relic | Kalıntı |
