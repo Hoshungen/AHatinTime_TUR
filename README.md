@@ -3,7 +3,7 @@
 # Açıklamalar
 Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe font ve doku çevirileri eklenmiştir.
 
-* Sürüm: 2.8, %99 (6/1//23)
+* Bitirilme Oranı: %99 (Sürüm için GitHub (AHatinTime_TRK) sayfasından bakabilir veya modinfo.ini dosyasından kontrol edebilirsiniz)
 * Çeviriyi kullanmak için Lütfen [Steam Atölyesi](https://steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")ndeki mod'a abone olun. Ardından ADIM 2'ye geçin.
 * Steam dışı bir sürüm kullanıyorsanız, GitHub'taki en son sürümü indirip, "AHatinTime_TRK-master.zip" dosyasındaki "TurkceCeviri" klasörünü "HatinTimeGame\Mods" dizinine ekleyin. Ardından ADIM 2'ye geçin
 ---
