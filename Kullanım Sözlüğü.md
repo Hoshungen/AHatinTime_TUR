@@ -17,7 +17,13 @@
 | collect-a-thon | topla-bi-ton |
 | Assist Mode | Yardım Modu |
 | Leaderboard | Lider Tablosu |
+|  |  |
 | Mafia Town | Mafya Şehri |
+| Peck | Gaga |
+| Peck neck | Gaga kafa |
+| The Express Owl | Tren Baykuşu |
+| CAW (Crow Agent Watch) | KARGA (Karga Araştırma Raporlama Gözlemleme Ajansı) |
+| fellow Express Owl | (Dost) Tren Baykuşu dostum |
 |  |  |
 | Pon | Pon |
 | Relic | Kalıntı |
@@ -30,7 +36,6 @@
 | Controller | Oyun Kolu |
 | Online Party | Çevrimiçi Parti |
 | Sticker | Çıkartma |
-| Peck | Gaga |
 | Icon Reveal | Simge Belirmesi |
 | Lv. | Svy. |
 |  |  |
