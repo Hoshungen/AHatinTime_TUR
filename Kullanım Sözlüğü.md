@@ -19,7 +19,8 @@
 | Leaderboard | Lider Tablosu |
 |  |  |
 | Mafia Town | Mafya Şehri |
-| Peck | Gaga |
+| Dead Bird Studio | Dead Bird Stüdyosu |
+| Subcon Forest | Subcon Ormanı |
 | Peck neck | Gaga kafa |
 | The Express Owl | Tren Baykuşu |
 | CAW (Crow Agent Watch) | KARGA (Karga Araştırma Raporlama Gözlemleme Ajansı) |
