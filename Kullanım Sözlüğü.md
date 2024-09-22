@@ -29,6 +29,8 @@
 | Pon | Pon |
 | Relic | Kalıntı |
 | Yarn Ball | Yumak Topu |
+| Sprint Yarn | Koşu Yumağı |
+| Time Stopping Yarn | Zaman Durduran Yumak |
 | Badge | Rozet |
 | Badge Flair | Rozet Yeteneği |
 | Prize | Ödül |
@@ -39,7 +41,8 @@
 | Sticker | Çıkartma |
 | Icon Reveal | Simge Belirmesi |
 | Lv. | Svy. |
-|  |  |
+| Twilight Bell | Alacakaranlık Çanı |
+| Negative Dweller Bell(s) | Negatif Boyut Çan(ları) |
 
 ### Karakterlerin Şapkalı Çocuğa Hitap Şekilleri
 
