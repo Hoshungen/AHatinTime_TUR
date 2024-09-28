@@ -25,6 +25,7 @@
 | The Express Owl | Tren Baykuşu |
 | CAW (Crow Agent Watch) | KARGA (Karga Araştırma Raporlama Gözlemleme Ajansı) |
 | fellow Express Owl | (Dost) Tren Baykuşu dostum |
+| Movie Prop | Film Dekoru |
 |  |  |
 | Pon | Pon |
 | Relic | Kalıntı |
