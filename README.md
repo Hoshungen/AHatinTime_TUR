@@ -13,7 +13,7 @@ Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe fon
 ## Notlar
 * İndirdiğiniz sürümü kontrol etmek için **modinfo.ini** dosyasına bakabilirsiniz. Çevirinin yeni sürümleri oyunun eski sürümlerinde de çalışmaktadır.
 
-## Linkler
+## Bağlantılar
 > * GitHub sayfası (Buradasınız)
 > * [Steam Atölye sayfası](https://steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")
 
