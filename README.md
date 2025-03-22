@@ -5,8 +5,8 @@ Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe fon
 
 * Bitirilme Oranı: %100
 
-* Steam kullanıyorsanız Lütfen [Steam Atölyesi](https://steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")'ndeki mod'a abone olun. -- Ardından ADIM 2'yi takip edin.
-* Steam dışı bir sürüm kullanıyorsanız, [buradan](https://github.com/Hoshungen/AHatinTime_TUR/releases/download/2.4.9.19/AHITTurkceCeviri-2.4.9.19.zip) **.zip** formatındaki dosyayı indirin. İndirdiğiniz dosyanın içindeki "TurkceCeviri" klasörünü "HatinTime\HatinTimeGame\Mods" dizinine çıkartın. -- Ardından ADIM 2'ye geçin.
+* Steam kullanıyorsanız Lütfen [Steam Atölyesi](steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")'ndeki mod'a abone olun. -- Ardından ADIM 2'yi takip edin.
+* Steam dışı bir sürüm kullanıyorsanız, [buradan](github.com/Hoshungen/AHatinTime_TUR/releases/download/2.4.9.19/AHITTurkceCeviri-2.4.9.19.zip) **.zip** formatındaki dosyayı indirin. İndirdiğiniz dosyanın içindeki "TurkceCeviri" klasörünü "HatinTime\HatinTimeGame\Mods" dizinine çıkartın. -- Ardından ADIM 2'ye geçin.
 
 * **ADIM 2:** Modu kurduysanız oyunu başlatıp Ayarlar menüsünden oyunu Türkçe yapın. Bu işlemi kolaylaştırmak için seçmeniz gereken butonları Türkçeye çevirdim.
 
@@ -15,7 +15,7 @@ Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe fon
 
 ## Bağlantılar
 > * GitHub sayfası (Buradasınız)
-> * [Steam Atölye sayfası](https://steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")
+> * [Steam Atölye sayfası](steamcommunity.com/sharedfiles/filedetails/?id=2066537900 "Steam Atölyesi")
 
 ## Katkıda Bulunanlar/Contributors
 > * Hoshungen
