@@ -13,6 +13,7 @@ Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe fon
 ## Notlar
 * İndirdiğiniz sürümü kontrol etmek için **modinfo.ini** dosyasına bakabilirsiniz. Çevirinin yeni sürümleri oyunun eski sürümlerinde de çalışmaktadır.
 * Releases bölümünden çeviriyi indirebilirsiniz.
+* Bazı sitelerin çevirinin eski sürümlerini yeniymiş gibi paylaşıma sunduklarından, modumuzu kaynak göstermeden, kendilerininmiş gibi paylaştıklarından dolayı kaynak dosyalar kaldırılmıştır. Anlayışınız için teşekkürler
 
 ## Katkıda Bulunanlar/Contributors
 > * Hoshungen
