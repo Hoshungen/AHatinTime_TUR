@@ -10,9 +10,10 @@ Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe fon
 
 * **ADIM 2:** Modu kurduysanız oyunu başlatıp Ayarlar menüsünden oyunu Türkçe yapın. Bu işlemi kolaylaştırmak için seçmeniz gereken butonları Türkçeye çevirdim.
 
+
+* [Nasıl Kurulur?](https://github.com/Hoshungen/AHatinTime_TUR/wiki/Nasıl-Kurulur%3F)
+
 ## Notlar
-* İndirdiğiniz sürümü kontrol etmek için **modinfo.ini** dosyasına bakabilirsiniz. Çevirinin yeni sürümleri oyunun eski sürümlerinde de çalışmaktadır.
-* Releases bölümünden çeviriyi indirebilirsiniz.
 * Bazı sitelerin çevirinin eski sürümlerini yeniymiş gibi paylaşıma sunduklarından, modumuzu kaynak göstermeden, kendilerininmiş gibi paylaştıklarından dolayı kaynak dosyalar kaldırılmıştır. Anlayışınız için teşekkürler
 
 ## Katkıda Bulunanlar/Contributors
