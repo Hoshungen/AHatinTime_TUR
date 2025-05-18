@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Hoshungen&apos;s AHIT Localization Files Markdown Helper" ext="int trk chn deu esn fra ita jpn kor ptb hun" udlVersion="2.1">
+    <UserLang name="Hoshungen&apos;s AHIT Localization Files Markdown Helper" ext="int trk tur chn deu esn esm fra ita jpn kor ptb hun rus pol slo cze" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
