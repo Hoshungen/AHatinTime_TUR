@@ -5,7 +5,7 @@ _Bu Türkçe çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe fo
 
 * Bitirilme Oranı: **%100**
 * Çevirinin Sürümü: **25.6.20**
-* [Modun Özellikleri](https://github.com/Hoshungen/AHatinTime_TRK/wiki/Modun-Özellikleri)
+* [Modun Özellikleri](https://github.com/Hoshungen/AHatinTime_TRK/wiki#mod-özellikleri)
 * [İndirme Bağlantısı & Nasıl Kurulur?](https://github.com/Hoshungen/AHatinTime_TRK/wiki/Nasıl-Kurulur)
 
 ## Notlar
