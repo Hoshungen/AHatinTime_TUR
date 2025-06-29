@@ -1,4 +1,4 @@
-<h2 align="center"> A Hat in Time - Türkçe Çeviri Modu</h2>
+<h2 align="center"> A Hat in Time - Türkçe Çeviri modu</h2>
 
 # Açıklamalar
 _Bu Türkçe Çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe font, doku ve bazı modların çevirileri de eklenmiştir._
