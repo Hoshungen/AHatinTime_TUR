@@ -4,7 +4,7 @@
 _A Hat in Time Türkçe Çeviri modu; oyun içi yazıları Türkçeye çevirir. Türkçe font, doku ve bazı popüler modların çevirileri de eklenmiştir._
 
 * Bitirilme Oranı: **%100**
-* Çevirinin Sürümü: `25.8.12`
+* Çevirinin Sürümü: `25.9.1`
 * [Modun Özellikleri](https://github.com/Hoshungen/AHatinTime_TRK/wiki#mod-özellikleri)
 * [İndirmeler & Kurulum](https://github.com/Hoshungen/AHatinTime_TRK/wiki/Nasıl-Kurulur)
 
