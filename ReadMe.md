@@ -13,5 +13,5 @@ _A Hat in Time Türkçe Çeviri modu; oyun içi yazıları Türkçeye çevirir. 
 > * Lantan
 
 ## Notlar
-* * Bu modu başka bir yere yükleyemezsiniz
-* * Bu modu kâr etme amacıyla satamazsınız
+* Bu modu başka bir yere yükleyemezsiniz
+* Bu modu kâr etme amacıyla satamazsınız
